@@ -169,7 +169,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        engine="text-davinci-003",
+        engine="gpt-3.5-turbo-instruct",
         temperature=0.0,
         max_tokens=512,
         top_p=1,

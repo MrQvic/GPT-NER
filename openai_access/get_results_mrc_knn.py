@@ -96,8 +96,8 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         prompt_label_name = transfered_label[0].upper() + transfered_label[1:]
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}, and if that does not exist output \"none\". Below are some examples.\n"
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}. Below are some examples.\n"
-        prompt = f"You are an excellent linguist. Within the OntoNotes5.0 dataset, the task is to label {transfered_label} entities that {sub_prompt}. Below are some examples, and you should make the same prediction as the examples.\n"
-        # prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Below are some examples."
+        # prompt = f"You are an excellent linguist. Within the OntoNotes5.0 dataset, the task is to label {transfered_label} entities that {sub_prompt}. Below are some examples, and you should make the same prediction as the examples.\n"
+        prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Below are some examples."
         # prompt = f"You are an excellent linguistic. The task is to label {transfered_label} entities that {sub_prompt}. First, articulate the clues and reasoning process for determining {transfered_label} entities in the sentence. Next, based on the clues and your reasoning process, label {transfered_label} entities in the sentence. Below are some examples.\n"
 
         # prompt += get_knn(test_sentence=context, nums=example_false, label_name=transfered_label, positive_idx=0)
@@ -112,7 +112,8 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         prompt += f"The given sentence: {context}\nThe labeled sentence:"
         # prompt += f"The given sentence: {context}\nThe labeled sentence:"
 
-        # print(prompt)
+        #print(prompt)
+        #print("---------------------------------------------")
         results.append(prompt)
     
     return results
@@ -165,7 +166,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        engine="text-davinci-003",
+        engine="gpt-3.5-turbo-instruct",
         temperature=0.0,
         max_tokens=512,
         top_p=1,

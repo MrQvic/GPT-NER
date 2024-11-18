@@ -122,3 +122,4 @@ venv.bak/
 
 # mac book
 .DS_Store
+/gpt-ner-env-py38
