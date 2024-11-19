@@ -111,7 +111,7 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL", knn_results=None, k
                     prompts.append(prompt)
                     entity_index.append((entity_idx, len(entity.strip().split())))
                     prompts_num += 1
-            # print(prompt)
+            print(prompt)
         prompts_nums.append(prompts_num)
     return prompts, entity_index, prompts_nums
 

@@ -53,5 +53,5 @@ if __name__ == '__main__':
     # mrc_data = read_mrc_data(dir_="/nfs/shuhe/gpt3-ner/gpt3-data/genia/", prefix="test")
     # compute_feature(mrc_data=mrc_data, sim_path="/nfs1/shuhe/gpt3-nmt/sup-simcse-roberta-large", batch_size=128, dir_="/nfs/shuhe/gpt3-ner/gpt3-data/genia/", prefix="test")
 
-    mrc_data = read_mrc_data(dir_="/nfs/shuhe/gpt3-ner/gpt3-data/conll_mrc/", prefix="train.dev")
-    compute_feature(mrc_data=mrc_data, sim_path="/nfs1/shuhe/gpt3-nmt/sup-simcse-roberta-large", batch_size=128, dir_="/nfs/shuhe/gpt3-ner/gpt3-data/conll_mrc/", prefix="train.dev")
+    mrc_data = read_mrc_data(dir_="./gpt3-data/conll_mrc", prefix="train.dev")
+    compute_feature(mrc_data=mrc_data, sim_path="princeton-nlp/sup-simcse-roberta-large", batch_size=128, dir_="./gpt3-data/conll_mrc/", prefix="train.dev.pokus")
