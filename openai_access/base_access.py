@@ -7,7 +7,6 @@ from typing import List
 
 import openai
 from tqdm import tqdm
-
 from logger import get_logger
 
 logger = get_logger(__name__)
@@ -19,29 +18,48 @@ MAX_RETRIES = 6
 class AccessBase(object):
     delay = INIT_DELAY
 
-    def __init__(self, engine, temperature, max_tokens, top_p, frequency_penalty, presence_penalty, best_of):
-        self.engine = engine
+    def __init__(self, model, temperature, max_tokens, top_p, frequency_penalty, presence_penalty, best_of):
+        self.model = model
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.top_p = top_p
         self.frequency_penalty = frequency_penalty
         self.presence_penalty = presence_penalty
         self.best_of = best_of
+        # Determine if this is a chat model
+        self.is_chat_model = True
 
     def _get_multiple_sample(self, prompt_list: List[str]):
         openai.api_key = os.environ["OPENAI_API_KEY"]
-        response = openai.Completion.create(
-            engine=self.engine,
-            prompt=prompt_list,
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            top_p=self.top_p,
-            frequency_penalty=self.frequency_penalty,
-            presence_penalty=self.presence_penalty,
-            best_of=self.best_of
-        )
-        results = [choice.text for choice in response.choices]
-        # assert LOG_LEVEL == "INFO"
+        
+        if self.is_chat_model:
+            # Use Chat Completions API for chat models
+            results = []
+            for prompt in prompt_list:
+                response = openai.ChatCompletion.create(
+                    model=self.model,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=self.temperature,
+                    max_tokens=self.max_tokens,
+                    top_p=self.top_p,
+                    frequency_penalty=self.frequency_penalty,
+                    presence_penalty=self.presence_penalty
+                )
+                results.append(response.choices[0].message.content)
+        else:
+            # Use Completions API for non-chat models
+            response = openai.Completion.create(
+                model=self.model,
+                prompt=prompt_list,
+                temperature=self.temperature,
+                max_tokens=self.max_tokens,
+                top_p=self.top_p,
+                frequency_penalty=self.frequency_penalty,
+                presence_penalty=self.presence_penalty,
+                best_of=self.best_of
+            )
+            results = [choice.text for choice in response.choices]
+            
         logger.info(msg="prompt_and_result", extra={"prompt_list": prompt_list, "results": results})
         return results
 

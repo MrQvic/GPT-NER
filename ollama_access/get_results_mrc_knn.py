@@ -1,5 +1,4 @@
 import os
-from tqdm import tqdm
 from base_access import AccessBase
 from logger import get_logger
 import json
@@ -83,8 +82,12 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
             exampel_prompt += f"The labeled sentence: {labels}\n"
         return exampel_prompt
         
+    print("Processing prompts...")
     results = []
-    for item_idx in tqdm(range(len(mrc_data))):
+    total = len(mrc_data)
+    
+    for item_idx in range(total):
+        print(f"Processing prompt {item_idx + 1}/{total}")
 
         if last_results is not None and last_results[item_idx].strip() != "FRIDAY-ERROR-ErrorType.unknown":
             continue
@@ -97,7 +100,7 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}, and if that does not exist output \"none\". Below are some examples.\n"
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}. Below are some examples.\n"
         # prompt = f"You are an excellent linguist. Within the OntoNotes5.0 dataset, the task is to label {transfered_label} entities that {sub_prompt}. Below are some examples, and you should make the same prediction as the examples.\n"
-        prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Below are some examples."
+        prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Output only the labeled sentence, without explanations or any other unnecessary explanations. Below are some examples."
         # prompt = f"You are an excellent linguistic. The task is to label {transfered_label} entities that {sub_prompt}. First, articulate the clues and reasoning process for determining {transfered_label} entities in the sentence. Next, based on the clues and your reasoning process, label {transfered_label} entities in the sentence. Below are some examples.\n"
 
         # prompt += get_knn(test_sentence=context, nums=example_false, label_name=transfered_label, positive_idx=0)
@@ -116,19 +119,32 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         #print("---------------------------------------------")
         results.append(prompt)
     
+        print("\nPrompt:")
+        print("------------------------")
+        print(prompt)
+        print("------------------------")
     return results
 
 def ner_access(openai_access, ner_pairs, batch=16):
-    print("tagging ...")
+    print("Processing NER tags...")
     results = []
     start_ = 0
-    pbar = tqdm(total=len(ner_pairs))
-    while start_ < len(ner_pairs):
-        end_ = min(start_+batch, len(ner_pairs))
-        results = results + openai_access.get_multiple_sample(ner_pairs[start_:end_])
-        pbar.update(end_-start_)
+    total = len(ner_pairs)
+    
+    while start_ < total:
+        end_ = min(start_+batch, total)
+        print(f"\nProcessing batch {start_+1}-{end_}/{total}")
+        batch_results = openai_access.get_multiple_sample(ner_pairs[start_:end_])
+        
+        print("\nResults:")
+        print("------------------------")
+        for i, result in enumerate(batch_results):
+            print(f"Result {start_+i+1}:")
+            print(result)
+            print("------------------------")
+            
+        results = results + batch_results
         start_ = end_
-    pbar.close()
     return results
 
 def write_file(labels, dir_, last_name):
@@ -166,13 +182,9 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        model="gpt-4o-mini-2024-07-18",
+        model="llama3.1",  # or whatever model you're using in Ollama
         temperature=0.0,
-        max_tokens=512,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0,
-        best_of=1
+        max_tokens=512
     )
 
     ner_test = read_mrc_data(args.source_dir, prefix=args.source_name)
