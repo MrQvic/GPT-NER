@@ -1,14 +1,117 @@
-from tabulate import tabulate
+import seaborn as sns
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
 
-data = [
-   ["Model", "GPT-3 (paper)", "", "", "GPT3.5-instruct", "", "", "Ollama3.1 (chat?)", "", "", "GPT-4o-mini", "","", "GPT-4", "", ""],
-   ["", "P", "R", "F1", "P", "R", "F1", "P", "R", "F1", "P", "R", "F1", "P", "R", "F1"],
-   ["No verification", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""], 
-   ["Random retrieval", 88.18, 78.54, 83.08, 51.83, 51.36, 51.6, 21.74, 29.55, 25.05, 60.98, 79.55, 69.03, 61.51, 88.64, 72.63],
-   ["Sentence embedding", 90.47, 95.00, 92.68, 73.42, 79.09, 76.15, 29.59, 13.18, 18.23, "-", "-", "-", "-", "-", "-"],
-   ["Self-verification", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-   ["Random retrieval", 88.95, 79.73, 84.34, 58.55, 51.36, 54.72, "-", "-", "-", "-", "-", "-", "-", "-", "-"],
-   ["Sentence embedding", 91.77, 96.36, 94.01, 80.55, 79.09, 79.82, "-", "-", "-", "-", "-", "-", "-", "-", "-"],
-]
-print("CoNLL2003 (100) dataset")
-print(tabulate(data, tablefmt="grid"))
+# Define the results as a nested dictionary for easier maintenance
+RESULTS = {
+    'Random': {
+        'without_verification': {
+            'GPT-3': {'Precision': 88.18, 'Recall': 78.54, 'F1': 83.08},
+            'GPT3.5': {'Precision': 51.83, 'Recall': 51.36, 'F1': 51.6},
+            'Ollama3.1': {'Precision': 21.74, 'Recall': 29.55, 'F1': 25.05},
+            'GPT-4o': {'Precision': 60.98, 'Recall': 79.55, 'F1': 69.03},
+            'GPT-4': {'Precision': 61.51, 'Recall': 88.64, 'F1': 72.63}
+        },
+        'with_verification': {
+            'GPT-3': {'Precision': 88.95, 'Recall': 79.73, 'F1': 84.34},
+            'GPT3.5': {'Precision': 58.55, 'Recall': 51.36, 'F1': 54.72}
+        }
+    },
+    'Sentence': {
+        'without_verification': {
+            'GPT-3': {'Precision': 90.47, 'Recall': 95.00, 'F1': 92.68},
+            'GPT3.5': {'Precision': 73.42, 'Recall': 79.09, 'F1': 76.15},
+            'Ollama3.1': {'Precision': 29.59, 'Recall': 13.18, 'F1': 18.23}
+        },
+        'with_verification': {
+            'GPT-3': {'Precision': 91.77, 'Recall': 96.36, 'F1': 94.01},
+            'GPT3.5': {'Precision': 80.55, 'Recall': 79.09, 'F1': 79.82}
+        }
+    }
+}
+
+def create_dataframe_from_results(results_dict):
+    """Convert the nested results dictionary into a pandas DataFrame."""
+    rows = []
+    
+    for method in results_dict:
+        for verification_type in results_dict[method]:
+            for model in results_dict[method][verification_type]:
+                for metric, score in results_dict[method][verification_type][model].items():
+                    rows.append({
+                        'Method': method,
+                        'Verification': verification_type,
+                        'Model': model,
+                        'Metric': metric,
+                        'Score': score
+                    })
+    
+    return pd.DataFrame(rows)
+
+def plot_and_save_results(df, output_dir='results', format='png', dpi=300):
+    """Create and save plots for both verification statuses."""
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    
+    for verification_status in ['without_verification', 'with_verification']:
+        fig, axes = plt.subplots(1, 2, figsize=(20, 8))
+        sns.set_style("whitegrid")
+        
+        title_suffix = "With Self-Verification" if verification_status == "with_verification" else "Without Self-Verification"
+        
+        # Plot for each method
+        for idx, method in enumerate(['Random', 'Sentence']):
+            data = df[(df['Method'] == method) & (df['Verification'] == verification_status)]
+            
+            sns.barplot(
+                data=data,
+                x='Model', y='Score', hue='Metric',
+                palette={'Precision': '#2ecc71', 'Recall': '#e74c3c', 'F1': '#3498db'},
+                ax=axes[idx],
+                errorbar=None
+            )
+            
+            axes[idx].set_title(f'{method} Retrieval - {title_suffix}')
+            axes[idx].set_ylim(0, 100)
+            axes[idx].grid(True, axis='y', linestyle='--', alpha=0.3)
+            axes[idx].legend(title='Metric')
+        
+        plt.suptitle(f'NER Performance Metrics {title_suffix}', y=1.02, fontsize=16)
+        plt.tight_layout()
+        
+        # Save the figure
+        filename = f'ner_metrics_{verification_status.replace("_", "-")}.{format}'
+        filepath = os.path.join(output_dir, filename)
+        fig.savefig(filepath, dpi=dpi, bbox_inches='tight', format=format)
+        plt.close(fig)
+        print(f"Saved plot to: {filepath}")
+
+def export_results_to_csv(df, output_dir='results'):
+    """Export results to CSV file."""
+    os.makedirs(output_dir, exist_ok=True)
+    filepath = os.path.join(output_dir, 'ner_results.csv')
+    df.to_csv(filepath, index=False)
+    print(f"Saved results to: {filepath}")
+
+# Create the DataFrame
+df = create_dataframe_from_results(RESULTS)
+
+# Save plots and CSV
+plot_and_save_results(df, format='png')  # or format='svg' for vector graphics
+export_results_to_csv(df)
+
+# Example of how to add a new model and regenerate plots:
+"""
+# Add new model results
+RESULTS['Random']['without_verification']['NewModel'] = {
+    'Precision': 85.5,
+    'Recall': 82.3,
+    'F1': 83.9
+}
+
+# Recreate and save visualizations with new data
+df = create_dataframe_from_results(RESULTS)
+plot_and_save_results(df)
+export_results_to_csv(df)
+"""

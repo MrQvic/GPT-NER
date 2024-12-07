@@ -7,3 +7,6 @@ Calculate recall, precision and f1 using run_evalutation.ps1
 NOTE:   self-verification needs to be fixed for ollama
         when choosing openai model in get_results_mrc_knn, if you want to use older instruct model, you need to change the stlye of api call in base_access.py
         this repo needs complete refactoring and half of the code can be deleted
+
+Needed libs:
+        matplotlib seaborn pandas numpy
