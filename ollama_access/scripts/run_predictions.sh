@@ -7,7 +7,7 @@ EXAMPLEDIR="../../gpt3-data/conll_mrc/"
 EXAMPLENAME="test.100.simcse.32"
 EXAMPLENUM=8
 WRITEDIR="../../gpt3-data/conll_mrc/100-results"
-WRITENAME="qwen2.5-14b.100.sentence.level.test" 
+WRITENAME="qwen2.5-72b2.100.sentence.level.test" 
 TRAINNAME="train.dev"
 
 /usr/bin/python3 ../get_results_mrc_knn.py \
