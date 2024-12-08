@@ -11,7 +11,9 @@ RESULTS = {
             'GPT3.5': {'Precision': 51.83, 'Recall': 51.36, 'F1': 51.6},
             'Ollama3.1': {'Precision': 21.74, 'Recall': 29.55, 'F1': 25.05},
             'GPT-4o': {'Precision': 60.98, 'Recall': 79.55, 'F1': 69.03},
-            'GPT-4': {'Precision': 61.51, 'Recall': 88.64, 'F1': 72.63}
+            'GPT-4': {'Precision': 61.51, 'Recall': 88.64, 'F1': 72.63},
+            'Qwen2.5-72b': {'Precision': 60.3, 'Recall': 90.45, 'F1': 72.36}
+            
         },
         'with_verification': {
             'GPT-3': {'Precision': 88.95, 'Recall': 79.73, 'F1': 84.34},
@@ -22,7 +24,8 @@ RESULTS = {
         'without_verification': {
             'GPT-3': {'Precision': 90.47, 'Recall': 95.00, 'F1': 92.68},
             'GPT3.5': {'Precision': 73.42, 'Recall': 79.09, 'F1': 76.15},
-            'Ollama3.1': {'Precision': 29.59, 'Recall': 13.18, 'F1': 18.23}
+            'Ollama3.1': {'Precision': 29.59, 'Recall': 13.18, 'F1': 18.23},
+            'Qwen2.5-72b': {'Precision': 62.93, 'Recall': 91.82, 'F1': 74.68}
         },
         'with_verification': {
             'GPT-3': {'Precision': 91.77, 'Recall': 96.36, 'F1': 94.01},
@@ -49,7 +52,7 @@ def create_dataframe_from_results(results_dict):
     
     return pd.DataFrame(rows)
 
-def plot_and_save_results(df, output_dir='results', format='png', dpi=300):
+def plot_and_save_results(df, output_dir='graphs', format='png', dpi=300):
     """Create and save plots for both verification statuses."""
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
@@ -87,7 +90,7 @@ def plot_and_save_results(df, output_dir='results', format='png', dpi=300):
         plt.close(fig)
         print(f"Saved plot to: {filepath}")
 
-def export_results_to_csv(df, output_dir='results'):
+def export_results_to_csv(df, output_dir='graphs'):
     """Export results to CSV file."""
     os.makedirs(output_dir, exist_ok=True)
     filepath = os.path.join(output_dir, 'ner_results.csv')
