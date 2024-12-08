@@ -9,10 +9,11 @@ RESULTS = {
         'without_verification': {
             'GPT-3': {'Precision': 88.18, 'Recall': 78.54, 'F1': 83.08},
             'GPT3.5': {'Precision': 51.83, 'Recall': 51.36, 'F1': 51.6},
-            'Ollama3.1': {'Precision': 21.74, 'Recall': 29.55, 'F1': 25.05},
+            #'Ollama3.1': {'Precision': 21.74, 'Recall': 29.55, 'F1': 25.05},
             'GPT-4o': {'Precision': 60.98, 'Recall': 79.55, 'F1': 69.03},
             'GPT-4': {'Precision': 61.51, 'Recall': 88.64, 'F1': 72.63},
-            'Qwen2.5-72b': {'Precision': 60.3, 'Recall': 90.45, 'F1': 72.36}
+            'Qwen2.5-72b': {'Precision': 60.3, 'Recall': 90.45, 'F1': 72.36},
+	    'Qwen2.5-14b': {'Precision': 28.89, 'Recall':5.91, 'F1': 9.81}
             
         },
         'with_verification': {
@@ -25,7 +26,8 @@ RESULTS = {
             'GPT-3': {'Precision': 90.47, 'Recall': 95.00, 'F1': 92.68},
             'GPT3.5': {'Precision': 73.42, 'Recall': 79.09, 'F1': 76.15},
             'Ollama3.1': {'Precision': 29.59, 'Recall': 13.18, 'F1': 18.23},
-            'Qwen2.5-72b': {'Precision': 62.93, 'Recall': 91.82, 'F1': 74.68}
+            'Qwen2.5-72b': {'Precision': 62.93, 'Recall': 91.82, 'F1': 74.68},
+            'Qwen2.5-14b': {'Precision': 51.22, 'Recall': 9.55, 'F1': 16.09}
         },
         'with_verification': {
             'GPT-3': {'Precision': 91.77, 'Recall': 96.36, 'F1': 94.01},
