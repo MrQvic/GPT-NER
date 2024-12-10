@@ -182,7 +182,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        model="qwen2.5:72b",  # or whatever model you're using in Ollama
+        model="llama3.1:70b", 
         temperature=0.0,
         max_tokens=512
     )
