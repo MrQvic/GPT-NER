@@ -30,7 +30,7 @@ class AccessBase(object):
         self.is_chat_model = True
 
     def _get_multiple_sample(self, prompt_list: List[str]):
-        openai.api_key = os.environ["OPENAI_API_KEY"]
+        openai.api_key = ""
         
         if self.is_chat_model:
             # Use Chat Completions API for chat models
