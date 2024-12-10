@@ -13,7 +13,7 @@ RESULTS = {
             'GPT-4o': {'Precision': 60.98, 'Recall': 79.55, 'F1': 69.03},
             'GPT-4': {'Precision': 61.51, 'Recall': 88.64, 'F1': 72.63},
             'Qwen2.5-72b': {'Precision': 60.3, 'Recall': 90.45, 'F1': 72.36},
-	    'Qwen2.5-14b': {'Precision': 28.89, 'Recall':5.91, 'F1': 9.81}
+	        'Qwen2.5-14b': {'Precision': 28.89, 'Recall':5.91, 'F1': 9.81}
             
         },
         'with_verification': {
