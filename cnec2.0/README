@@ -1,0 +1,98 @@
+=================================
+ Czech Named Entities Corpus 2.0
+=================================
+
+Czech Named Entity Corpus is a corpus of 8993 Czech sentences with manually
+annotated 35220 Czech named entities, classified according to a
+two-level hierarchy of 46 named entities. Further documentation of the corpus
+is available in doc subdirectory.
+
+Licensing
+=========
+
+Copyright (C) by Charles University in Prague, Faculty of Mathematics and
+Physics, Institute of Formal and Applied Linguistics. The corpus is availabe
+under CC BY-NC-SA 3.0 license, see LICENSE. The license is also available at
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+
+Authors:
+========
+
+Magda Ševčíková, sevcikova@ufal.mff.cuni.cz
+Zdeněk Žabokrtský, zabokrtsky@ufal.mff.cuni.cz
+Jana Straková, strakova@ufal.mff.cuni.cz
+Milan Straka, straka@ufal.mff.cuni.cz
+
+
+Author Affiliations
+===================
+
+Charles University in Prague, Faculty of Mathematics and Physics, Institute of
+Formal and Applied Linguistics, Malostranské náměstí 25, 118 00, Prague, Czech
+Republic.
+
+
+Acknowledgements
+================
+
+If you are using this collection in your research, please cite this
+publication:
+
+Ševčíková, M., Žabokrtský, Z., Krůza, O.: Named entities in czech: Annotating
+data and developing NE tagger. In: Matoušek, V., Mautner, P. (eds.) TSD 2007.
+LNCS (LNAI), vol. 4629, pp. 188–195. Springer, Heidelberg (2007)
+
+
+Corpus Structure
+================
+
+--- data
+        --- plain       Czech named entities manual annotations in plain text format
+        --- xml_simple  Czech named entities in simple xml, without morphologic analysis
+        --- treex       Czech named entities in treex format (xml), with morphologic analysis
+        --- html        Czech named entities in html format with highlighted named entities
+--- doc                 Documentation
+--- tools
+        --- namedent_annotations_to_html.pl       Convert plain -> html format
+        --- namedent_annotations_to_xml_simple.pl Convert plain -> xml format
+        --- Treex/Block/Read/CNEC.pm              Convert plain -> treex format
+        --- statistics.pl                         Compute statistics of corpus in plain format
+        --- compare_ne_outputs_v3.pl              Evaluate NER output on CNEC
+
+See http://ufal.mff.cuni.cz/treex/ for more about Treex.
+
+
+Publications and Documentation
+==============================
+
+The doc folder contains the description of the corpus, mainly in doc.pdf.
+Moreover, the annotation process for this corpus is described in these
+publications:
+
+  Ševčíková, M., Žabokrtský, Z., Krůza, O.: Zpracování pojmenovaných entit
+  v českých textech. Technical Report TR-2007-36 (2007) -- part of this release
+  in doc/techrep-ne-2007.pdf
+
+  Ševčíková, M., Žabokrtský, Z., Krůza, O.: Named entities in czech: Annotating
+  data and developing NE tagger. In: Matoušek, V., Mautner, P. (eds.) TSD 2007.
+  LNCS (LNAI), vol. 4629, pp. 188–195. Springer, Heidelberg (2007)
+
+The published work about this corpus further includes:
+
+  Kravalová, J., Žabokrtský, Z.: Czech named entity corpus and SVM-based
+  recognizer. In: Proceedings of the 2009 Named Entities Workshop: Shared Task on
+  Transliteration. NEWS 2009, pp. 194–201. Association for Computational
+  Linguistics (2009)
+
+  Konkol, M., Konopík, M.: Maximum Entropy Named Entity Recognition for Czech
+  Language. In: Habernal, I., Matoušek, V. (eds.) TSD 2011. LNCS, vol. 6836, pp.
+  203–210. Springer, Heidelberg (2011)
+
+  Straková, J., Straka, M., Hajič, J.: A New State-of-The-Art Czech Named Entity
+  Recognizer. In: Habernal, I., Matoušek, V. (eds.) TSD 2013. LNCS, vol. 8082,
+  pp. 68-75
+
+  Konkol, M., Konopík, M.: CRF-based Czech Named Entity Recognizer and
+  Consolidation of Czech NER Research. In: Habernal, I., Matoušek, V. (eds.) TSD
+  2013. LNCS, vol. 8082, pp. 153-160

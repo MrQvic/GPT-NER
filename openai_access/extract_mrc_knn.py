@@ -233,7 +233,7 @@ if __name__ == '__main__':
     #index_, value_ = compute_simcse_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=32)
     #write_file(dir_="/data2/wangshuhe/gpt3_ner/gpt3-data/ontonotes5_mrc/test.100.simcse.dev.32.knn.jsonl", data=index_)
 
-    test_mrc_data = read_mrc_data(dir_="./gpt3-data/conll_mrc", prefix="test.100")
-    train_mrc_data = read_mrc_data(dir_="./gpt3-data/conll_mrc", prefix="train.dev")
+    test_mrc_data = read_mrc_data(dir_="./gpt3-data/cnec_mrc", prefix="test.100")
+    train_mrc_data = read_mrc_data(dir_="./gpt3-data/cnec_mrc", prefix="train")
     index_, value_ = random_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=8)
-    write_file(dir_="./gpt3-data/conll_mrc/test.100.simcse.random.8.knn.jsonl", data=index_)
+    write_file(dir_="./gpt3-data/cnec_mrc/test.100.cnec.random.8.knn.jsonl", data=index_)

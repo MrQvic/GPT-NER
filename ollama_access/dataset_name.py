@@ -5,6 +5,9 @@ FULL_DATA = {
         "LOC": ("location", "are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc"),
         "MISC": ("miscellaneous", "include events, nationalities, products and works of art")
     },
+    "CNEC": {
+        "PER": ("person", "are named persons or family"),
+    },
     "Ontonotes5.0": {
         "PERSON": ("person", "are people, including fictional"),
         "NORP": ("nationality", "are nationalities or religious or political groups but do not include countries, cities, or states"),

@@ -13,8 +13,8 @@ CONLL_RESULTS = {
             'GPT-4o-mini': {'Precision': 60.98, 'Recall': 79.55, 'F1': 69.03},
             #'GPT-4': {'Precision': 61.51, 'Recall': 88.64, 'F1': 72.63},
             'Qwen2.5-72b': {'Precision': 60.3, 'Recall': 90.45, 'F1': 72.36},
-	        'Qwen2.5-14b': {'Precision': 28.89, 'Recall':5.91, 'F1': 9.81}
-            
+	        'Qwen2.5-14b': {'Precision': 28.89, 'Recall':5.91, 'F1': 9.81},
+            'Qwen2.5-72b-CNEC': {'Precision': 68.42, 'Recall': 61.91, 'F1': 65}
         },
         'with_verification': {
             'GPT-3': {'Precision': 88.95, 'Recall': 79.73, 'F1': 84.34},
@@ -27,7 +27,7 @@ CONLL_RESULTS = {
             'GPT3.5': {'Precision': 73.42, 'Recall': 79.09, 'F1': 76.15},
             'Ollama3.1': {'Precision': 29.59, 'Recall': 13.18, 'F1': 18.23},
             'GPT-4o-mini': {'Precision': 60.55, 'Recall': 79.55, 'F1': 68.76},
-            'Qwen2.5-72b': {'Precision': 62.93, 'Recall': 91.82, 'F1': 74.68},
+            'Qwen2.5-72b': {'Precision': 74.82, 'Recall': 94.54, 'F1': 83.53},
             'Qwen2.5-14b': {'Precision': 51.22, 'Recall': 9.55, 'F1': 16.09}
         },
         'with_verification': {

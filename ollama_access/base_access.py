@@ -28,7 +28,9 @@ class AccessBase(object):
                     }
                 )
                 response.raise_for_status()
-                results.append(response.json()["response"])
+                data = response.json()
+                final_response = data.get("response", "")
+                results.append(final_response)
             except Exception as e:
                 logger.error(f"Error calling Ollama API: {str(e)}")
                 results.append("")

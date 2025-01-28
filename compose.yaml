@@ -1,0 +1,17 @@
+services:
+  ollama:
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 4
+              capabilities: [gpu]
+    image: ollama/ollama
+    restart: unless-stopped
+    volumes:
+      - /home/xmrkva04/ollama/data:/root/.ollama
+    ports:
+      - 11434:11434
+    environment:
+      - OLLAMA_KEEP_ALIVE=1h
