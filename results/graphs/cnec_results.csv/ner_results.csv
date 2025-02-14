@@ -1,0 +1,13 @@
+Method,Verification,Model,Metric,Score
+Random,without_verification,Qwen2.5-72b-CNEC,Precision,74.5
+Random,without_verification,Qwen2.5-72b-CNEC,Recall,62.6
+Random,without_verification,Qwen2.5-72b-CNEC,F1,68.1
+Random,without_verification,Qwen2.5-14b-CNEC,Precision,76.83
+Random,without_verification,Qwen2.5-14b-CNEC,Recall,50.0
+Random,without_verification,Qwen2.5-14b-CNEC,F1,60.58
+Random,without_verification,Llama3.1-70b-CNEC,Precision,93.33
+Random,without_verification,Llama3.1-70b-CNEC,Recall,11.1
+Random,without_verification,Llama3.1-70b-CNEC,F1,19.85
+Random,without_verification,Deepseek-r1:70b-CNEC,Precision,84.0
+Random,without_verification,Deepseek-r1:70b-CNEC,Recall,66.66
+Random,without_verification,Deepseek-r1:70b-CNEC,F1,74.34
