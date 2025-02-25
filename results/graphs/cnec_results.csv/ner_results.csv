@@ -1,4 +1,7 @@
 Method,Verification,Model,Metric,Score
+Random,without_verification,robeczech-base,Precision,92.72
+Random,without_verification,robeczech-base,Recall,80.9
+Random,without_verification,robeczech-base,F1,86.44
 Random,without_verification,Qwen2.5-72b-CNEC,Precision,74.5
 Random,without_verification,Qwen2.5-72b-CNEC,Recall,62.6
 Random,without_verification,Qwen2.5-72b-CNEC,F1,68.1

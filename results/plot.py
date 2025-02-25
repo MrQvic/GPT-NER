@@ -39,6 +39,7 @@ CONLL_RESULTS = {
 CNEC_RESULTS = {
     'Random': {
         'without_verification': {
+            'robeczech-base': {'Precision': 92.72, 'Recall': 80.9, 'F1': 86.44},
             'Qwen2.5-72b-CNEC': {'Precision': 74.5, 'Recall': 62.6, 'F1': 68.1},
             'Qwen2.5-14b-CNEC': {'Precision': 76.83, 'Recall': 50, 'F1': 60.58},
             'Llama3.1-70b-CNEC': {'Precision': 93.33, 'Recall': 11.1, 'F1': 19.85},

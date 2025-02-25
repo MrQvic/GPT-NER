@@ -138,6 +138,6 @@ def process_file(file_path, output_path):
 
 # Example usage
 if __name__ == "__main__":
-    input_file = "cleaned_train.html"
-    output_path = "parsed.train"
+    input_file = "cleaned_dtest.html"
+    output_path = "parsed.dtest"
     process_file(input_file, output_path)
