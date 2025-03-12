@@ -8,6 +8,9 @@ FULL_DATA = {
     "CNEC": {
         "PER": ("person", "are named persons or family"),
     },
+    "HISTORICAL": {
+        "PER": ("person", "are named persons or family"),
+    },
     "Ontonotes5.0": {
         "PERSON": ("person", "are people, including fictional"),
         "NORP": ("nationality", "are nationalities or religious or political groups but do not include countries, cities, or states"),
