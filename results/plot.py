@@ -48,6 +48,20 @@ CNEC_RESULTS = {
     }
 }
 
+HISTORICAL_RESULTS = {
+    'Random': {
+        '20-examples': {
+            'robeczech': {'Precision': 71.42, 'Recall': 37.23, 'F1': 48.95},
+            'Qwen2.5-72b': {'Precision': 56.25, 'Recall': 19.14, 'F1': 28.57},
+            'Deepseek-r1:70b': {'Precision': 69.23, 'Recall': 9.57, 'F1': 16.82},
+        },
+        '154-examples': {
+            'robeczech': {'Precision': 55.84, 'Recall': 68.34, 'F1': 61.46},
+        }
+    }
+}
+
+
 
 def create_dataframe_from_results(results_dict):
     """Convert the nested results dictionary into a pandas DataFrame."""
@@ -130,6 +144,44 @@ def plot_cnec_results(df, output_dir='graphs', format='png', dpi=300):
     plt.close(fig)
     print(f"Saved plot to: {filepath}")
 
+def plot_historical_results(df, output_dir='graphs', format='png', dpi=300):
+    """Create and save plots for Historical results."""
+    # Get unique example sets (e.g., '20-examples', '154-examples')
+    example_sets = df['Verification'].unique()
+    
+    fig, axes = plt.subplots(1, len(example_sets), figsize=(15, 8))
+    # Handle the case when there's only one example set
+    if len(example_sets) == 1:
+        axes = [axes]
+    
+    sns.set_style("whitegrid")
+    
+    for idx, example_set in enumerate(example_sets):
+        data = df[df['Verification'] == example_set]
+        
+        sns.barplot(
+            data=data,
+            x='Model', y='Score', hue='Metric',
+            palette={'Precision': '#2ecc71', 'Recall': '#e74c3c', 'F1': '#3498db'},
+            ax=axes[idx],
+            errorbar=None
+        )
+        
+        axes[idx].set_title(f'Historical Data - {example_set}')
+        axes[idx].set_ylim(0, 100)
+        axes[idx].grid(True, axis='y', linestyle='--', alpha=0.3)
+        axes[idx].legend(title='Metric')
+        axes[idx].tick_params(axis='x', rotation=45)
+    
+    plt.suptitle(f'Historical NER Performance Metrics', y=1.02, fontsize=16)
+    plt.tight_layout()
+    
+    filename = f'historical_metrics.{format}'
+    filepath = os.path.join(output_dir, filename)
+    fig.savefig(filepath, dpi=dpi, bbox_inches='tight', format=format)
+    plt.close(fig)
+    print(f"Saved plot to: {filepath}")
+
 def export_results_to_csv(df, output_dir='graphs'):
     """Export results to CSV file."""
     os.makedirs(output_dir, exist_ok=True)
@@ -140,24 +192,12 @@ def export_results_to_csv(df, output_dir='graphs'):
 # Create DataFrames and plot
 df_conll = create_dataframe_from_results(CONLL_RESULTS)
 df_cnec = create_dataframe_from_results(CNEC_RESULTS)
+df_historical = create_dataframe_from_results(HISTORICAL_RESULTS)
 
 # Save plots and CSV
 plot_conll_results(df_conll, format='png')
 plot_cnec_results(df_cnec, format='png')
+plot_historical_results(df_historical, format='png')
 export_results_to_csv(df_conll)
 export_results_to_csv(df_cnec, 'graphs/cnec_results.csv')
-
-# Example of how to add a new model and regenerate plots:
-"""
-# Add new model results
-RESULTS['Random']['without_verification']['NewModel'] = {
-    'Precision': 85.5,
-    'Recall': 82.3,
-    'F1': 83.9
-}
-
-# Recreate and save visualizations with new data
-df = create_dataframe_from_results(RESULTS)
-plot_and_save_results(df)
-export_results_to_csv(df)
-"""
+#export_results_to_csv(df_historical, 'graphs/historical
