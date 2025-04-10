@@ -1,0 +1,515 @@
+[
+  {
+    "context": "29 ) Viz § 19 , odst . 5 stav . řádu pražského , § 22 , odst . 5 stav . řádu českého , § 22 , odst . 7 stav . řádu moravského a § 20 , odst . 7 stav . řádu brněnského . Vlastníku pozemku náleží náhrada „ přiměřená \" , t . j . náhrada skutečné škody , nikoli ušlého zisku ( §§ 1323 a 1324 obč . zák . ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "28.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000020__uuid:687a77a2-f765-44c3-8ea7-bf4713d5bcf3__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "z rozpadlé říše rakousko - uherské vznikl nový stát , republika československá . Připomínám , že ve slovenské části republiky platí vedle popřevratových zákonů republiky ještě zákony uherské , které jsou v mnohém směru mnohem prospěšnější vývoji stavebních a bytových družstev . Vzhledem k neobyčejné bytové tísni , která vznikla po světové válce , jakož i k nastalé drahotě stavebních hmot a práce , nebylo pomyšlení na to , aby se stavělo bez státní podpory . Proto po vzoru jiných států i mladá republika československá počala vydávati zákony o podpoře staveb - ního ruchu , spojené s vyvlastňovacím právem stavebních pozemků a utvořením mzdových soudů . Státní podpora či -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "95.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000060__uuid:25a68580-70df-4059-80f8-06b239ff47c7__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "132 . Sedící děvče , patin . sádra 133 . Portret F . J . , patin . sádra PAVLA SVOBODOVÁ - BERÁNKOVÁ",
+    "end_position": [
+      22
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "110.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "19;22"
+    ],
+    "start_position": [
+      19
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000070__uuid:e36fcdb1-18d2-43c9-b067-cd3d0d4047b2__r003.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "A ) Členové zakládající : P . T . pánové : Brože Eduard , maj . domu . 6 Kraus Leopold , továrník . Demartini Eduard , maj . domu . 7 Lokay V . , maj . domu a purkmistr . Götzel Josef , velkostatkář . 8 Paule A . W . , maj . domu . 4 Hejtmánek Ant . , soukromník . 9 Piering Christ . F . , továrník . 5 Choděra Jan , maj . domu . 10 Šebek Jan , velkostatkář .",
+    "end_position": [
+      52,
+      25,
+      43,
+      61,
+      76,
+      20,
+      34,
+      70,
+      84,
+      12
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "151.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "48;52",
+      "24;25",
+      "42;43",
+      "59;61",
+      "75;76",
+      "19;20",
+      "32;34",
+      "66;70",
+      "83;84",
+      "11;12"
+    ],
+    "start_position": [
+      48,
+      24,
+      42,
+      59,
+      75,
+      19,
+      32,
+      66,
+      83,
+      11
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000110__uuid:5c0c77ae-5969-4875-a332-bda630b4b199__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Národohospodářský svaz v Brně uspořádal od 4 . do 11 . června 1938 výstavu na propagaci čs . lnu , jíž jsme se také zúčastnili . Ze lněných materiálů bylo na naší škole vypracováno k výběru 74 kusů ( letních šatů , kompletů , kostymů , halenek , dětských šatů , ubrusů , pokrývek a kapesníků ) . Z toho většina byla na výstavě umístěna .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "162.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000120__uuid:e482224a-b942-46c5-9c7a-9fa214f63bc4__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Nařízení tato budou se zákonníkem ohlašovati podlé posloupnosti času , v kterémž se vydají , a čísel pořád jdoucích ( arabskými ciframi poznamenaných ) i stran , ježto každého roku od 1 . ledna znova začínati budou . Zákonník se bude vydávati po jednotlivých částkách ( číslech , sešitcích neb listech ) . Tyto jednotlivé částky , v každém ročníku též posloupným číslem ( ciframi římskými ) o sobě zvlášť poznamenané , nebudou se vydávati v určité době , nýbrž budou vycházeti volně , řídíc se každé doby zásobou věcí ; a však v případnostech důležitých vydá se i z příčiny jediného nařízení nová částka ( číslo , list nebo sešit ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "229.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000190__uuid:5155a329-1a79-44d4-b8c9-215a4a237c2c__r003.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "sache nach übereinstimmende Pflanzenbevölkerung in Europa , Sibirien , China . . . Australien und Tasmanien etc . antreffen . “ — Což arci není pravda . Také na mapce u Berghause ( viz Liter . č . 61 ) se patřičný rozdíl mezi oběma uhlonosnými útvary nečiní . Prohlížeje nedávno jednotlivé číslo Geological Magazine z r . 1879 , nalezl jsem Vaše pojednání o fossilní floře Australie a Tasmanie . Spozoroval",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "244.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000200__uuid:4ccafe35-3105-11e9-8847-005056a2b051__r002.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Specielně vede známky FRANCIE a USA filatelie KABEŠ ANTONÍN , Praha XVI . Lidická ul . č . 19 - Pošt . schr . 40 Kupuje stále sbírky a lepší serie , jednotlivé známky celého světa , balíčky , partie atd .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "258.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000210__uuid:f254f32e-3f08-486e-ab35-b2910aa2d869__r005.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "* ) V minulých dnech vyšel článek v denním tisku , z něhož jest patrno , že pisatel neporozuměl ušlechtilým snahám pí . Frederickové . Otiskuji tudíž úryvek z jejího dopisu , který mi psala dne 1 . dubna 1926 : „ . . . Nehledě ke všem těm pokrokům v domácnosti , v nichž Amerika jest snad napřed , doufám , že u vás neopustíte zvyky a pokrmy vlastní , které jsou velmi cenné . Na pří - klad polévky každý den nemohou býti nahraženy konservami . Zvyk vařiti kaše po několik hodin nemůže býti nahrazen našimi předvařenými pokrmy . Nemáme u nás chléb , který ve výživnosti by se rovnal vašemu chlebu žitné - mu a ječnému . Žila jsem po 9 let v Rusku , a ač v mnohém ohledu to není totéž , jest to přece mnohem více podobno vám , než u nás . Chci říci , že i při všem enthusiasmu pro vše nové neopouštějte , prosím , podivuhodné pokrmy a vaření a trpělivost v práci , kterou my myslím jsme ztratili . . .",
+    "end_position": [
+      23
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "309.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "21;23"
+    ],
+    "start_position": [
+      21
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000250__uuid:84442e75-2bf7-434d-a613-a927e4058392__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "7 . Večeře dávali chudým žákům každý týden : klášter ctih . sester . p . Jos . Vítěz , p . Vondrášek , p . Jan Tropper a p . Jan Nesvadba po 7 , p . Frant . Štěpka a p . Frant . Skřeček po 3 , p . Ign . Psota 2 ; snídaní každý týden : klášter ctih . sester , p . Ant . Dunkel , p . Ign . Psota , p . Jan Nesvadba , slečna Duškova po 7 , p . Skřeček 1 ; p . Frant . Přikryl , ho - stinský dával jednomu žáku každého dne polévku k obědu ; Jan Ne - svadba a p . Kubís poskytli dvěma žákům byt zdarma ; p . Jan Krátký podporoval jednoho žáka 80 kr . měsíčně . 8 . Páni med . doktoři M . Rokotnitz , Frant . Skácelík a Richard Kantor a pan městský lékař Jos . Dostál chudým žákům poskýtali po - moci lékařské bezplatně , páni lékárníci Ign . Psota a Frant . Matouš léků zdarma neb v ceně snížené .",
+    "end_position": [
+      177,
+      173,
+      159,
+      152,
+      149,
+      145,
+      128,
+      118,
+      114,
+      97,
+      90,
+      84,
+      81,
+      76,
+      70,
+      54,
+      46,
+      40,
+      32,
+      27,
+      22,
+      18
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "367.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "174;177",
+      "171;173",
+      "157;159",
+      "151;152",
+      "147;149",
+      "142;145",
+      "127;128",
+      "118;118",
+      "111;114",
+      "95;97",
+      "90;90",
+      "84;84",
+      "80;81",
+      "73;76",
+      "67;70",
+      "52;54",
+      "44;46",
+      "37;40",
+      "31;32",
+      "26;27",
+      "22;22",
+      "16;18"
+    ],
+    "start_position": [
+      174,
+      171,
+      157,
+      151,
+      147,
+      142,
+      127,
+      118,
+      111,
+      95,
+      90,
+      84,
+      80,
+      73,
+      67,
+      52,
+      44,
+      37,
+      31,
+      26,
+      22,
+      16
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000320__uuid:a550640e-43d6-485d-874b-a1b9301a4cc4__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "X . Stipendia a osvobození od školného . Vysoký zemský sněm ustanovil pro zemskou střední školu hospo - dářskou 10 stipendií po 400 K , jež každoročně znova se udělují . Každý stipendista jest zároveň osvobozen od školného . O stipendia ucházeti se mohou řádní , nemajetní chovanci , jsou - li příslušníky Moravy , neb moravských obvodů ve Slezsku . V minulém roce obdrželi těchto 10 sti - pendií výnosem výboru zemského ze dne 26 . listop . 1904 č . 79 . 235 : Duda Václav , Dvořáček Alois , Kudlička Josef , Rochla Methoděj , Soušek Josef , Svoboda František , chovanci III . ročníku ; Fiala Jaroslav , Havlíček Ladislav , Křížek Jan a Sladký Bohumil , chovanci II . ročníku . Od školného osvobozeno úplně mimo uvedené stipendisty v I . s mestru výnosem výboru zemského ze dne 26 . listop . 1904 . č . 79 . 235 na celý rok úplně 14 z druhého a 9 z třetího ročníku . V II . semestru osvobozeni výnosem výboru zemského ze dne 29 . dubna 1905 . čís . 30 . 068 7 chovanců z I . ročníku , 2 chovanci z II . ročníku a 2 chovanci z III . ročníku od školného úplně .",
+    "end_position": [
+      119,
+      116,
+      113,
+      110,
+      102,
+      99,
+      96,
+      93,
+      90,
+      87
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "379.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "118;119",
+      "115;116",
+      "112;113",
+      "109;110",
+      "101;102",
+      "98;99",
+      "95;96",
+      "92;93",
+      "89;90",
+      "86;87"
+    ],
+    "start_position": [
+      118,
+      115,
+      112,
+      109,
+      101,
+      98,
+      95,
+      92,
+      89,
+      86
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000330__uuid:62372d63-23a7-4b19-bcc3-a2a0a8ddc01e__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Národní rada česká obrací se na veškeré věrné Čechy i Češky v zemích koruny České a v soustátí Habsburském i všude za hrani - cemi , zejmena pak též veškeré korporace české s žádostí , aby jednotný a dobrovolnou národní disciplinou výhradný",
+    "end_position": [
+      18
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "467.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "18;18"
+    ],
+    "start_position": [
+      18
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000410__uuid:2e55de66-ab1e-452e-9e4d-df9a28211060__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Kroměříž Praha Č . O . B . Praha N . O . gr . Velké Meziříčí",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "477.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000420__uuid:9f60ca90-7d5b-11ed-a781-5ef3fcdaa9a7__r012.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "30 . Jan . 1779 . 6 . Apr . 1782 . 23 . Nov . 1784 . 19 Mart 1788 . 16 . Apr . 1789 . 31 . Maj . 1787 . 10 . Aug . 1790 . 19 . Jun - 1789 . 29 . Jun . 1791 . 27 . Jun . 1791 . 4 . Feb . 1789 . 15 . Oct . 1789 . 13 . Mart 1794 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "572.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000510__uuid:6feb9c1b-3abf-40a0-bd20-7fd4b244a9d7__r007.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Proud dějin hučí nad hrobkami věků , v tom hukotu jak divný to však zvuk ? Jak jásot zní to vítězících reků a hned zas jako výkřik hrozných muk . Ó Říme , slyšíš ? Nechvěje se v leku tvé svědomí a tvého srdce tluk ? To pláčem Bohu veliký žalm díků tmy děti tebou zbitých mučedlníků ! Ať žijem tam , kde Hugenottů hoře kdys zřely Cevenny à la Rochelle , neb tam , kde klesl Čech na Bílé Hoře , neb tam , kde Alba vraždit poroučel , ať dělí si nás hory nebo moře , duch jeden v nás ! A ten se rozzvučel i v pláč i v plesání , ó bratří , s vámi , jež máte v Alpách valdenské své chrámy , My vzpomínáme , jak jste krev svou lili pro heslo : Kristus spása jediná , jak vraždili vás , jak vše pustošili kat Pianezza , pochop Catinat , až z hory Balsille slavné Thermopyly vám Arnand učinil , váš hrdina ; Pán slitoval se , zhojil sterou ránu , dnes znak váš stkví se u bran Vatikánu !",
+    "end_position": [
+      48,
+      86,
+      63,
+      139,
+      151,
+      163,
+      154
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "583.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "48;48",
+      "86;86",
+      "63;63",
+      "139;139",
+      "151;151",
+      "163;163",
+      "154;154"
+    ],
+    "start_position": [
+      48,
+      86,
+      63,
+      139,
+      151,
+      163,
+      154
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000520__uuid:5d27c6af-5bc8-4d2a-a216-046374ee225d__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Tiskem „ Biskupské knihtiskárny “ v Hradci Král .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "615.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000550__uuid:514d0ae0-391f-40c6-ad61-2f5c0c89d953__r010.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "J . Kabelík : Čítanka pro dívčí odborné školy . V . vydání , zcela přepracované . Schvál . 27 . dubna 1923 , č . 47 . 369/23 - III . Šolc a Šimá - ček v Praze . Freischerová , Janovská : Vycho - vatelství pro odborné školy pro ženská povolání . IV . , úplně pře - pracované vydání . Schvál . 31 . led - na 1935 , č . 12 . 039/35 - III . Státní na - kladatelství v Praze . MUDr . Peigerová : Zdravověda pro ženské odborné školy . V . , pře - hlédnuté vydání . Schvál . 22 . pro - since 1934 , č . 145 . 535/34 - III . Stát . nakladatelství v Praze .",
+    "end_position": [
+      89,
+      42,
+      40,
+      36,
+      32,
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "645.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "87;89",
+      "42;42",
+      "40;40",
+      "34;36",
+      "32;32",
+      "0;2"
+    ],
+    "start_position": [
+      87,
+      42,
+      40,
+      34,
+      32,
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000590__uuid:5cca7e6d-1509-4968-9d06-09e94eded9d9__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "1 . František Králík , státní správce školy , městský ředitel , učil v III . roč . živnostenským počtům a účetnictví , propoč . 4 . 96 hod . naukových týdně . Spravoval knihovnu výročních zpráv , vedl inventární a po - kladní deník . 2 . Albína Figarová , státní smluvní učitelka , učila v L . b roč . šití prádla , spravování prádla , kreslení střihů , nauce o látkách a tělocviku , šití v odpoledním kursu prádla a vyšívání , byla třídní v I . b roč . , pro - poč . 22 . 92 hod . naukových týdně . Spravovala sbírky pro nauku o lát - kách a byla třídní v odpoledním kursu prádla a vyšívání . 3 . Božena Hájková , státní učitelka , učila v III . roč . šití šatů , kres - lení střihů a nauce o látkách a krojích , propoč . 25 hod . naukových týdně . 4 . Jan Horák , státní učitel , učil v La a L . b roč . češtině a dějinám vzdělanosti , v II . a a II . b roč . češtině , dějinám vzdělanosti a občanské nauce , v III . roč . písemnostem , propoč . 30 hod . nauk . týdně . Spravoval žákovskou knihovnu zábavně - poučnou . 5 . Hermína Hrouzková , státní učitelka , učila šití v II . a roč . a v od - poledním kursu pro šití šatů , v II . a roč . kreslení střihů a nauce o lát - kách , byla třídní v II . a roč . , propoč . 24 . 60 hod . naukových týdně . Spra -",
+    "end_position": [
+      226,
+      163,
+      127,
+      49,
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "657.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "225;226",
+      "162;163",
+      "126;127",
+      "48;49",
+      "2;3"
+    ],
+    "start_position": [
+      225,
+      162,
+      126,
+      48,
+      2
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000600__uuid:c19fb15b-ebf5-4ad9-b1b7-58a4d4baa2c8__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Bouček , Siegel , Úředníček , V . D . Uherské Hradiště , vyrábí družstvo Moravská ústředna pro lidový prů - mysl umělecký , Brno , závod Tupesy",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "686.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000630__uuid:94cb8117-3c27-4425-86d4-8e0e8155bacc__r031.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "JOSEF NEKOLA , truhlář , Vídeň XIII . /3 , Kienmayergasse No . 28",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "703.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000640__uuid:fdccc900-17fb-11ed-8e78-0050568d9066__r031.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "III . Kázaní postní . Třetí slovo Páně na kříži co protijed proti smilstvu . „ Ženo , hle syn tvůj ! “ ( učenníku ) , „ hle matka tvá ! “",
+    "end_position": [
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "714.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000660__uuid:7370d96c-5e26-48fe-9136-7b333b0b5e5c__r003.txt",
+    "anotator_id": "02"
+  }
+]

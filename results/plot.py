@@ -61,6 +61,17 @@ HISTORICAL_RESULTS = {
     }
 }
 
+HISTORICAL_RESULTS_ANNOTATORS = {
+    'Robeczech results by annotators': {
+        '121-examples': {
+            'Annotator 1': {'Precision': 65.36, 'Recall': 56.12, 'F1': 60.39},
+            'Annotator 2': {'Precision': 61.45, 'Recall': 53.53, 'F1': 57.22},
+            'Annotator 3': {'Precision': 68.16, 'Recall': 59.51, 'F1': 63.54}
+        }
+    }
+}
+
+
 
 
 def create_dataframe_from_results(results_dict):
@@ -75,6 +86,24 @@ def create_dataframe_from_results(results_dict):
                         'Method': method,
                         'Verification': verification_type,
                         'Model': model,
+                        'Metric': metric,
+                        'Score': score
+                    })
+    
+    return pd.DataFrame(rows)
+
+def create_dataframe_from_annotator_results(results_dict):
+    """Convert the nested annotator results dictionary into a pandas DataFrame."""
+    rows = []
+    
+    for dataset in results_dict:
+        for example_set in results_dict[dataset]:
+            for annotator in results_dict[dataset][example_set]:
+                for metric, score in results_dict[dataset][example_set][annotator].items():
+                    rows.append({
+                        'Dataset': dataset,
+                        'Example_Set': example_set,
+                        'Annotator': annotator,
                         'Metric': metric,
                         'Score': score
                     })
@@ -182,6 +211,41 @@ def plot_historical_results(df, output_dir='graphs', format='png', dpi=300):
     plt.close(fig)
     print(f"Saved plot to: {filepath}")
 
+def plot_historical_annotator_results(df, output_dir='graphs', format='png', dpi=300):
+    """Create and save plots for Historical results by annotators."""
+    fig, ax = plt.subplots(figsize=(12, 8))
+    sns.set_style("whitegrid")
+    
+    # Create the bar plot
+    bars = sns.barplot(
+        data=df,
+        x='Annotator', y='Score', hue='Metric',
+        palette={'Precision': '#2ecc71', 'Recall': '#e74c3c', 'F1': '#3498db'},
+        ax=ax,
+        errorbar=None
+    )
+    
+    # Add value labels on top of each bar
+    for container in ax.containers:
+        ax.bar_label(container, fmt='%.2f', padding=3)
+    
+    # Get example count from first row
+    example_set = df['Example_Set'].iloc[0]
+    
+    ax.set_title(f'Historical NER Results by Annotators ({example_set})')
+    ax.set_ylim(0, 105)  # Increased to make room for labels
+    ax.grid(True, axis='y', linestyle='--', alpha=0.3)
+    ax.legend(title='Metric')
+    ax.tick_params(axis='x', rotation=0)
+    
+    plt.tight_layout()
+    
+    filename = f'historical_annotator_metrics.{format}'
+    filepath = os.path.join(output_dir, filename)
+    fig.savefig(filepath, dpi=dpi, bbox_inches='tight', format=format)
+    plt.close(fig)
+    print(f"Saved plot to: {filepath}")
+
 def export_results_to_csv(df, output_dir='graphs'):
     """Export results to CSV file."""
     os.makedirs(output_dir, exist_ok=True)
@@ -193,11 +257,16 @@ def export_results_to_csv(df, output_dir='graphs'):
 df_conll = create_dataframe_from_results(CONLL_RESULTS)
 df_cnec = create_dataframe_from_results(CNEC_RESULTS)
 df_historical = create_dataframe_from_results(HISTORICAL_RESULTS)
+df_historical_annotators = create_dataframe_from_annotator_results(HISTORICAL_RESULTS_ANNOTATORS)
+
 
 # Save plots and CSV
 plot_conll_results(df_conll, format='png')
 plot_cnec_results(df_cnec, format='png')
 plot_historical_results(df_historical, format='png')
+plot_historical_annotator_results(df_historical_annotators, format='png')
+
 export_results_to_csv(df_conll)
 export_results_to_csv(df_cnec, 'graphs/cnec_results.csv')
+export_results_to_csv(df_historical_annotators, 'graphs/historical_annotator_results.csv')
 #export_results_to_csv(df_historical, 'graphs/historical
