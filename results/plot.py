@@ -111,38 +111,39 @@ def create_dataframe_from_annotator_results(results_dict):
     return pd.DataFrame(rows)
 
 def plot_conll_results(df, output_dir='graphs', format='png', dpi=300):
-    """Create and save plots for CoNLL results."""
+    """Create and save plots for CoNLL results, with each method in a separate file."""
     for verification_status in ['without_verification', 'with_verification']:
-        fig, axes = plt.subplots(1, 2, figsize=(20, 8))
-        sns.set_style("whitegrid")
-        
         title_suffix = "With Self-Verification" if verification_status == "with_verification" else "Without Self-Verification"
         
-        for idx, method in enumerate(['Random', 'Sentence']):
+        for method in ['Random', 'Sentence']:
+            # Create a separate figure for each method
+            fig, ax = plt.subplots(figsize=(10, 8))
+            sns.set_style("whitegrid")
+            
             data = df[(df['Method'] == method) & (df['Verification'] == verification_status)]
             
             sns.barplot(
                 data=data,
                 x='Model', y='Score', hue='Metric',
                 palette={'Precision': '#2ecc71', 'Recall': '#e74c3c', 'F1': '#3498db'},
-                ax=axes[idx],
+                ax=ax,
                 errorbar=None
             )
             
-            axes[idx].set_title(f'{method} Retrieval - {title_suffix}')
-            axes[idx].set_ylim(0, 100)
-            axes[idx].grid(True, axis='y', linestyle='--', alpha=0.3)
-            axes[idx].legend(title='Metric')
-            axes[idx].tick_params(axis='x', rotation=0)
+            ax.set_title(f'{method} Retrieval - {title_suffix}')
+            ax.set_ylim(0, 100)
+            ax.grid(True, axis='y', linestyle='--', alpha=0.3)
+            ax.legend(title='Metric')
+            ax.tick_params(axis='x', rotation=0)
         
-        plt.suptitle(f'CoNLL NER Performance Metrics {title_suffix}', y=1.02, fontsize=16)
-        plt.tight_layout()
-        
-        filename = f'conll_metrics_{verification_status.replace("_", "-")}.{format}'
-        filepath = os.path.join(output_dir, filename)
-        fig.savefig(filepath, dpi=dpi, bbox_inches='tight', format=format)
-        plt.close(fig)
-        print(f"Saved plot to: {filepath}")
+            plt.tight_layout()
+            
+            # Save each method to a separate file
+            filename = f'conll_metrics_{method.lower()}_{verification_status.replace("_", "-")}.{format}'
+            filepath = os.path.join(output_dir, filename)
+            fig.savefig(filepath, dpi=dpi, bbox_inches='tight', format=format)
+            plt.close(fig)
+            print(f"Saved plot to: {filepath}")
 
 def plot_cnec_results(df, output_dir='graphs', format='png', dpi=300):
     """Create and save plots for CNEC results."""
