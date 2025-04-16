@@ -2,9 +2,9 @@ Method,Verification,Model,Metric,Score
 Random,without_verification,GPT-3 (Paper result),Precision,88.18
 Random,without_verification,GPT-3 (Paper result),Recall,78.54
 Random,without_verification,GPT-3 (Paper result),F1,83.08
-Random,without_verification,GPT3.5,Precision,51.83
-Random,without_verification,GPT3.5,Recall,51.36
-Random,without_verification,GPT3.5,F1,51.6
+Random,without_verification,GPT-3.5,Precision,51.83
+Random,without_verification,GPT-3.5,Recall,51.36
+Random,without_verification,GPT-3.5,F1,51.6
 Random,without_verification,Llama3.1-70b,Precision,21.74
 Random,without_verification,Llama3.1-70b,Recall,29.55
 Random,without_verification,Llama3.1-70b,F1,25.05
@@ -14,18 +14,18 @@ Random,without_verification,GPT-4o-mini,F1,69.03
 Random,without_verification,Qwen2.5-72b,Precision,60.3
 Random,without_verification,Qwen2.5-72b,Recall,90.45
 Random,without_verification,Qwen2.5-72b,F1,72.36
-Random,with_verification,GPT-3,Precision,88.95
-Random,with_verification,GPT-3,Recall,79.73
-Random,with_verification,GPT-3,F1,84.34
-Random,with_verification,GPT3.5,Precision,58.55
-Random,with_verification,GPT3.5,Recall,51.36
-Random,with_verification,GPT3.5,F1,54.72
+Random,with_verification,GPT-3 (Paper result),Precision,88.95
+Random,with_verification,GPT-3 (Paper result),Recall,79.73
+Random,with_verification,GPT-3 (Paper result),F1,84.34
+Random,with_verification,GPT-3.5,Precision,58.55
+Random,with_verification,GPT-3.5,Recall,51.36
+Random,with_verification,GPT-3.5,F1,54.72
 Sentence,without_verification,GPT-3 (Paper result),Precision,90.47
 Sentence,without_verification,GPT-3 (Paper result),Recall,95.0
 Sentence,without_verification,GPT-3 (Paper result),F1,92.68
-Sentence,without_verification,GPT3.5,Precision,73.42
-Sentence,without_verification,GPT3.5,Recall,79.09
-Sentence,without_verification,GPT3.5,F1,76.15
+Sentence,without_verification,GPT-3.5,Precision,73.42
+Sentence,without_verification,GPT-3.5,Recall,79.09
+Sentence,without_verification,GPT-3.5,F1,76.15
 Sentence,without_verification,Llama3.1-70b,Precision,29.59
 Sentence,without_verification,Llama3.1-70b,Recall,13.18
 Sentence,without_verification,Llama3.1-70b,F1,18.23
@@ -35,9 +35,9 @@ Sentence,without_verification,GPT-4o-mini,F1,68.76
 Sentence,without_verification,Qwen2.5-72b,Precision,74.82
 Sentence,without_verification,Qwen2.5-72b,Recall,94.54
 Sentence,without_verification,Qwen2.5-72b,F1,83.53
-Sentence,with_verification,GPT-3,Precision,91.77
-Sentence,with_verification,GPT-3,Recall,96.36
-Sentence,with_verification,GPT-3,F1,94.01
-Sentence,with_verification,GPT3.5,Precision,80.55
-Sentence,with_verification,GPT3.5,Recall,79.09
-Sentence,with_verification,GPT3.5,F1,79.82
+Sentence,with_verification,GPT-3 (Paper result),Precision,91.77
+Sentence,with_verification,GPT-3 (Paper result),Recall,96.36
+Sentence,with_verification,GPT-3 (Paper result),F1,94.01
+Sentence,with_verification,GPT-3.5,Precision,80.55
+Sentence,with_verification,GPT-3.5,Recall,79.09
+Sentence,with_verification,GPT-3.5,F1,79.82
