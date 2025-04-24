@@ -71,6 +71,17 @@ HISTORICAL_RESULTS_ANNOTATORS = {
     }
 }
 
+plt.rcParams.update({
+    'font.family': 'Arial',  # Or try: 'serif', 'sans-serif', 'monospace'
+    'font.size': 16,
+    'axes.titlesize': 16,
+    'axes.labelsize': 14,
+    'xtick.labelsize': 12,
+    'ytick.labelsize': 12,
+    'legend.fontsize': 12,
+    'figure.titlesize': 18
+})
+
 def reset_plot_style():
     """Completely reset matplotlib state and set consistent style."""
     plt.close('all')  # Close all existing figures
@@ -388,12 +399,12 @@ df_historical_annotators = create_dataframe_from_annotator_results(HISTORICAL_RE
 
 
 # Save plots and CSV
-plot_conll_results(df_conll, format='png')
-plot_cnec_results(df_cnec, format='png')
-plot_historical_results(df_historical, format='png')
-plot_historical_annotator_results(df_historical_annotators, format='png')
-plot_conll_comparison(df_conll, format='png')
-plot_verification_side_by_side(df_conll, format='png')
+plot_conll_results(df_conll, format='pdf')
+plot_cnec_results(df_cnec, format='pdf')
+plot_historical_results(df_historical, format='pdf')
+plot_historical_annotator_results(df_historical_annotators, format='pdf')
+plot_conll_comparison(df_conll, format='pdf')
+plot_verification_side_by_side(df_conll, format='pdf')
 
 export_results_to_csv(df_conll)
 export_results_to_csv(df_cnec, 'graphs/cnec_results.csv')
