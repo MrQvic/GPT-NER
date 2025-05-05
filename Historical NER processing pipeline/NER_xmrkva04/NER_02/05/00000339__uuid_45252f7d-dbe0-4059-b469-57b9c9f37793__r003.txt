@@ -1,0 +1,8 @@
+jest otevřena a knihy se půjčují:
+A) OD 1. ZÁŘÍ DO 30. ČERVNA:
+V pondělí: 9.— 12. a 14.— 16.
+V úterý: 9.— 12. a 14.— 16.
+Ve středu: 10.— 12. a 14.— 18.
+Ve čtvrtek: 14.— 16.
+V pátek: 10.— 12. a 14.— 18.
+V sobotu: 8.— 13.

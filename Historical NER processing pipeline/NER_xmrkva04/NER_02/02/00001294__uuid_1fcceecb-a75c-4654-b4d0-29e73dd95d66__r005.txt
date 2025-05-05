@@ -1,0 +1,4 @@
+8. Auf wieviel Geleisen soll verladen werden und
+welche Sorten bzw. Angaben welche Sorten durch
+Verladebänder und welche durch direkte Rutschen
+geladen werden.

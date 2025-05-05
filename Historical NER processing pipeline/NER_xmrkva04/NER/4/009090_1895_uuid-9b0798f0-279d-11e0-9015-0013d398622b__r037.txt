@@ -1,0 +1,5 @@
+strom,
+náboženství,
+jméno křestní,
+část oděvu,
+křestní jméno.

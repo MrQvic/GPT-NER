@@ -13,7 +13,7 @@ def get_parser():
 def read_openai_file(file_name):
     print(f"read ... {file_name}")
 
-    file = open(file_name, "r")
+    file = open(file_name, "r", encoding="utf-8")
     results = []
     for line in tqdm(file):
         results.append(line.strip())
@@ -22,8 +22,9 @@ def read_openai_file(file_name):
 
 def read_mrc_file(file_name):
     print(f"read ... {file_name}")
-
-    return json.load(open(file_name))
+    
+    with open(file_name, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
 def compute_f1(mrc_data, openai_data):
     print("computing f1 ...")
@@ -43,11 +44,10 @@ def compute_f1(mrc_data, openai_data):
         
         candidate_sentence = openai_data[idx_]
         candidate_sentence_list = candidate_sentence.strip().split()
-        
-        # Odstraníme globální proměnnou start_ z původního kódu
-        # a budeme ji vždy resetovat pro každou entitu
-        
         flag = False
+        candidate_sentence = openai_data[idx_]
+        candidate_sentence_list = candidate_sentence.strip().split()
+        start_ = 0
         for word_idx, word in enumerate(candidate_sentence_list):
             if len(word) > 2 and word[0] == '@' and word[1] == '@':
                 flag = True
@@ -56,10 +56,6 @@ def compute_f1(mrc_data, openai_data):
                     if len(end_word) > 2 and end_word[-1] == '#' and end_word[-2] == '#':
                         entity_ = " ".join(candidate_sentence_list[word_idx:end_+1])[2:-2]
                         len_ = end_ - word_idx + 1
-                        
-                        # Resetujeme start_ na 0 pro každou novou entitu
-                        start_ = 0
-                        
                         while start_ < len(context_list):
                             if start_ + len_ - 1 < len(context_list) and " ".join(context_list[start_:start_+len_]) == entity_:
                                 candidate.append((" ".join(context_list[start_:start_+len_]), start_, start_ + len_ - 1))
@@ -69,6 +65,8 @@ def compute_f1(mrc_data, openai_data):
             if len(word) > 2 and word[-1] == '#' and word[-2] == '#':
                 flag = False
                 continue
+            if not flag:
+                start_ += 1
         
         print(f"ref: {reference}")
         print(f"can: {candidate}")

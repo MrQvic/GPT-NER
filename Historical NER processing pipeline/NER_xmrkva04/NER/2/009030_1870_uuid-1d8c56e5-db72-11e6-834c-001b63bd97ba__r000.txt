@@ -1,0 +1,26 @@
+Má-li se na př. ustanoviti doplněk integrálu rovnice
+y“ — 4y + 4y = 3621
+kde B = 2 jest dvojím kořenem rovnice
+32 — 46 + 4 = (B — 2)° = 0,
+obdržíme pro doplněk podlé vzorce (15)
+322 e2k
+9 (a) =
+Jest li v rovnici (3)
+16)
+v. x = a sinyx + ß cosyx,
+kdež může též a neb  rovnati se o, má doplněk tentýž tvar a
+jest tedy
+� (a) = A sinyx + Beosyx;
+dosadíme-li tuto hodnotu za y do rovnice (3), obdržíme, srovná-
+vajíce součinitele sin a cos, dvě rovnice, z nichž se snadno určí
+A i B.
+Položíme-li tu totiž
+§o = o — x- v2+ x 14—...,
+—...
+§i = z1 V — xa 3 + ns
+obdržíme obyčejným řešením
+ßšo —
+, B=
+A = “+ß5
+5o2+
+5o

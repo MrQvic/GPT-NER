@@ -1,0 +1,6 @@
+u, v, w désignant des constantes arbitraires, mais réelles, a, b, c des fonctions
+réelles ou imaginaires de x, y, z, t, convenablement choisies, et le signe Y in-
+diquant une somme de termes semblables les uns aux autres, mais correspondants à di-
+vers systèmes de valeurs des constantes arbitraires u, v, w. Cela posé, soient ,
+t, f les parties réelles des fonctions a, b, c, et —g, —h, —i les coeffi-
+cients de VII dans ces mêmes fonctions. Les formules (1) deviendront

@@ -1,0 +1,8 @@
+a to v případě druhém — vytínají na určité křivce třetího stupně
+jistou involuci bodovou, a to tak, že spojnice jednotlivých sobě při-
+družených bodů obalují křivku šesté třídy a každou tečnou této křivky
+prochází celý svazek rovin obsahujících křivky X.
+Pokud se týče kuželoseček, které oddělují harmonicky sedm
+resp. osm křivek E., nelze těmito jednoduchými prostředky podati
+snadný důkaz o „zachování čísla“; jisto jest, že redukcí křivek E.
+na dvě splývající přímky nastává redukce i v tomto počtu.

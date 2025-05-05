@@ -1,0 +1,15 @@
+Docházíme tudíž tohoto výsledku:
+Je-li M matice o a-násobném nullovém kořeni a o nullitě «, tu
+1. v případě a. = a jsou všecky kladné mocnosti M nullity a;
+2. v případě a a má M2 nullitu a + a, kde a,  a, »O
+a a, Z a— a; je-li a, = a — a,, t. j. je-li M2 nullity a, tu jsou
+všecky další mocnosti MF (k 2) též nullity a; je-li ale
+3. a,  a— a, tu jest M3 nullity a + a, + ag, kde a, a, »O
+a zároveň aZa— a — a,; je-li a, = a— a — a, t. j. je-li M
+nullity a, tu všecky vyšší mocnosti M* (k 3) jsou taktéž nullity a;
+je-li ale
+4. a,  a — a, — a,, tu jest M' nullity a + a, + a + a, kde
+a za. »O a zároveň aZ a — a — a, — a, atd.
+Z této věty patrno, že, tvoříme-li posloupné mocnosti M, M2,
+M3, ..., konečně dojdeme jisté mocnosti M°, která má nullitu a a že
+pak vyšší mocnosti mají tutéž nullitu a. Značí-li

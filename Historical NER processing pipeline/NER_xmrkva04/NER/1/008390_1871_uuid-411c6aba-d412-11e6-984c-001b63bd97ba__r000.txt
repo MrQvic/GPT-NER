@@ -1,0 +1,12 @@
+totiž, že paprsku P přísluší P = tK a ° svazku t' paprsek tA
+= Q v útvaru t, plyne ihned, že bodu p co členu řady první pří-
+sluší p. a že bodu p =  co řady druhé opět p. = q v řadě první
+přidružen jest; jsou tedy pp dva involutorně vzájemné body, t. j.
+dle čl. 44. abc.., ab'c ... tvoří řady involutorné.
+Úkol. Nechť se involutornost o libovolném páru bb' vzájem-
+ných bodův přímo dokáže, t. j. že bodu m' = b přiřaděn jest bod
+m = b.
+Řešení plyne z rozluštění úlohy předešlé zákonem dualnosti.
+Podotýkáme, že se pomocí středu A též naopak snadno do-
+kázati může, že každá příčka protínající promětné svazky tt“ v in-
+voluci aat, bb, ce . . též středem  skutečně procházeti musí.

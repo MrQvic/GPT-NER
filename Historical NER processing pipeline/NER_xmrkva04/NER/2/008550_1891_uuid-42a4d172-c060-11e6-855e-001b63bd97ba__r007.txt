@@ -1,0 +1,7 @@
+tečné roviny ve všech bodech čáry 2. Případ takový nastane patrně,
+prochází-li všech sedm daných tečných rovin jedním bodem; neboť
+víme, že pak jest pruh druhé třídy a že za oo, lze voliti libovolnou
+přímku v rovině o. Nehodlaje podaný důkaz v tomto směru doplniti,
+podávám důkaz jiný, ukazující onu neodvislost v případě obecném.
+Dána buď kuželosečka  jako v čl. 51. jedinou rovnicí mezi
+homogenními souřadnicemi rovinovými

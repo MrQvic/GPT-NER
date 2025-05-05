@@ -1,0 +1,14 @@
+I. § 18. Anwendung der Gleichgewichtsbedingungen.
+[Zerlegung einer Kraft in zwei parallele Componenten.]
+Das in I. § 12 Zus. 1 graphisch durchgeführte Verfahren ist im Folgenden mittelst der in I. § 16
+aufgestellten Gleichungen
+1) 2H = o
+3) XM =o
+2) XV =
+behandelt.
+Gegeben: Eine Kraft R, sowie zwei zu ihr parallele Richtungen.
+Gesucht: Die Componenten A und B von R nach diesen Richtungen [s. Fig. 74 u. 75 Taf. IB].
+Wir bezeichnen auch wieder die Richtung von R als „V“-Richtung, eine zu ihr schiefe Richtung
+als „H“-Richtung.
+H-Componenten treten gemäss I. § 6 Zus. 1 keine auf. Es bleiben also übrig die zwei Gleichungen
+SV = o und XM =o.

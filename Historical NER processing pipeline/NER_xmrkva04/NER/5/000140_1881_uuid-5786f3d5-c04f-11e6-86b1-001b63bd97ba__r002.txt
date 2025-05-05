@@ -1,0 +1,8 @@
+Z toho jde: a) Rozměr zlomku určíme odečtouce uda-
+vatele rozměru jmenovatele od udavatele rozměru čítatele;
+b) rozměr odmocniny určíme dělíce mocnitele dobyvatelem.
+Pozn. 2. Na exponenty číslic nebeře se tu ohledu a považujeme tyto
+za pouhé součinitele, jako na př. ve výrazu 2r, nebo 2ur, r2, 4πr, kde jen r
+jakožto veličina linearná o rozměru výrazu rozhodovati může.
+3 Va2m výrazy
+výrazy o dvou

@@ -1,0 +1,6 @@
+Sind daher zwei von den Argumenten, etwa a und b, gegeben, so kann
+man den Wert des Dritten, c, entweder aus Gleichung 6) numerisch berechnen,
+oder aus dem Diagramme Figur 1 ablesen. Letzteres geschieht, indem man
+den mit a bezeichneten Punkt der Linie F, mir dem mit b bezeichneten
+Punkte der Linie F, verbindet und diese Grade mit F, zum Schnitte bringt.
+Z. B. a = 6 und b = 2 entspricht c = 1.

@@ -1,0 +1,7 @@
+En vertu des formules (5) et (68), les équations (56) (57) se réduisent à
+(69) £ = (2R%2+R+I)k2, 9R = (2Rb3+R+I)k', 96 = (2Ro3+R+I)k',
+8 =2Rabk'.
+(70) � =2Rbck,
+2 =2Rcak,
+On aura d'ailleurs, en vertu des formules (50) et (51) jointes aux équations (67),
+mrf (r) cos? a

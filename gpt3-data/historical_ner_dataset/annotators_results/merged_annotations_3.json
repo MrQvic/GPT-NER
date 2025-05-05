@@ -1,0 +1,3018 @@
+[
+  {
+    "context": "29 ) Viz § 19 , odst . 5 stav . řádu pražského , § 22 , odst . 5 stav . řádu českého , § 22 , odst . 7 stav . řádu moravského a § 20 , odst . 7 stav . řádu brněnského . Vlastníku pozemku náleží náhrada „ přiměřená \" , t . j . náhrada skutečné škody , nikoli ušlého zisku ( §§ 1323 a 1324 obč . zák . ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "29.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000020__uuid:687a77a2-f765-44c3-8ea7-bf4713d5bcf3__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "z rozpadlé říše rakousko - uherské vznikl nový stát , republika československá . Připomínám , že ve slovenské části republiky platí vedle popřevratových zákonů republiky ještě zákony uherské , které jsou v mnohém směru mnohem prospěšnější vývoji stavebních a bytových družstev . Vzhledem k neobyčejné bytové tísni , která vznikla po světové válce , jakož i k nastalé drahotě stavebních hmot a práce , nebylo pomyšlení na to , aby se stavělo bez státní podpory . Proto po vzoru jiných států i mladá republika československá počala vydávati zákony o podpoře staveb - ního ruchu , spojené s vyvlastňovacím právem stavebních pozemků a utvořením mzdových soudů . Státní podpora či -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "96.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000060__uuid:25a68580-70df-4059-80f8-06b239ff47c7__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "132 . Sedící děvče , patin . sádra 133 . Portret F . J . , patin . sádra PAVLA SVOBODOVÁ - BERÁNKOVÁ",
+    "end_position": [
+      14,
+      22
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "111.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "11;14",
+      "19;22"
+    ],
+    "start_position": [
+      11,
+      19
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000070__uuid:e36fcdb1-18d2-43c9-b067-cd3d0d4047b2__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "A ) Členové zakládající : P . T . pánové : Brože Eduard , maj . domu . 6 Kraus Leopold , továrník . Demartini Eduard , maj . domu . 7 Lokay V . , maj . domu a purkmistr . Götzel Josef , velkostatkář . 8 Paule A . W . , maj . domu . 4 Hejtmánek Ant . , soukromník . 9 Piering Christ . F . , továrník . 5 Choděra Jan , maj . domu . 10 Šebek Jan , velkostatkář .",
+    "end_position": [
+      25,
+      20,
+      34,
+      43,
+      12,
+      52,
+      61,
+      70,
+      76,
+      84
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "152.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "24;25",
+      "19;20",
+      "32;34",
+      "42;43",
+      "11;12",
+      "48;52",
+      "59;61",
+      "66;70",
+      "75;76",
+      "83;84"
+    ],
+    "start_position": [
+      24,
+      19,
+      32,
+      42,
+      11,
+      48,
+      59,
+      66,
+      75,
+      83
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000110__uuid:5c0c77ae-5969-4875-a332-bda630b4b199__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Národohospodářský svaz v Brně uspořádal od 4 . do 11 . června 1938 výstavu na propagaci čs . lnu , jíž jsme se také zúčastnili . Ze lněných materiálů bylo na naší škole vypracováno k výběru 74 kusů ( letních šatů , kompletů , kostymů , halenek , dětských šatů , ubrusů , pokrývek a kapesníků ) . Z toho většina byla na výstavě umístěna .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "163.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000120__uuid:e482224a-b942-46c5-9c7a-9fa214f63bc4__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Nařízení tato budou se zákonníkem ohlašovati podlé posloupnosti času , v kterémž se vydají , a čísel pořád jdoucích ( arabskými ciframi poznamenaných ) i stran , ježto každého roku od 1 . ledna znova začínati budou . Zákonník se bude vydávati po jednotlivých částkách ( číslech , sešitcích neb listech ) . Tyto jednotlivé částky , v každém ročníku též posloupným číslem ( ciframi římskými ) o sobě zvlášť poznamenané , nebudou se vydávati v určité době , nýbrž budou vycházeti volně , řídíc se každé doby zásobou věcí ; a však v případnostech důležitých vydá se i z příčiny jediného nařízení nová částka ( číslo , list nebo sešit ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "230.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000190__uuid:5155a329-1a79-44d4-b8c9-215a4a237c2c__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "sache nach übereinstimmende Pflanzenbevölkerung in Europa , Sibirien , China . . . Australien und Tasmanien etc . antreffen . “ — Což arci není pravda . Také na mapce u Berghause ( viz Liter . č . 61 ) se patřičný rozdíl mezi oběma uhlonosnými útvary nečiní . Prohlížeje nedávno jednotlivé číslo Geological Magazine z r . 1879 , nalezl jsem Vaše pojednání o fossilní floře Australie a Tasmanie . Spozoroval",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "245.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000200__uuid:4ccafe35-3105-11e9-8847-005056a2b051__r002.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Specielně vede známky FRANCIE a USA filatelie KABEŠ ANTONÍN , Praha XVI . Lidická ul . č . 19 - Pošt . schr . 40 Kupuje stále sbírky a lepší serie , jednotlivé známky celého světa , balíčky , partie atd .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "259.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000210__uuid:f254f32e-3f08-486e-ab35-b2910aa2d869__r005.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "* ) V minulých dnech vyšel článek v denním tisku , z něhož jest patrno , že pisatel neporozuměl ušlechtilým snahám pí . Frederickové . Otiskuji tudíž úryvek z jejího dopisu , který mi psala dne 1 . dubna 1926 : „ . . . Nehledě ke všem těm pokrokům v domácnosti , v nichž Amerika jest snad napřed , doufám , že u vás neopustíte zvyky a pokrmy vlastní , které jsou velmi cenné . Na pří - klad polévky každý den nemohou býti nahraženy konservami . Zvyk vařiti kaše po několik hodin nemůže býti nahrazen našimi předvařenými pokrmy . Nemáme u nás chléb , který ve výživnosti by se rovnal vašemu chlebu žitné - mu a ječnému . Žila jsem po 9 let v Rusku , a ač v mnohém ohledu to není totéž , jest to přece mnohem více podobno vám , než u nás . Chci říci , že i při všem enthusiasmu pro vše nové neopouštějte , prosím , podivuhodné pokrmy a vaření a trpělivost v práci , kterou my myslím jsme ztratili . . .",
+    "end_position": [
+      23
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "310.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "23;23"
+    ],
+    "start_position": [
+      23
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000250__uuid:84442e75-2bf7-434d-a613-a927e4058392__r001.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "7 . Večeře dávali chudým žákům každý týden : klášter ctih . sester . p . Jos . Vítěz , p . Vondrášek , p . Jan Tropper a p . Jan Nesvadba po 7 , p . Frant . Štěpka a p . Frant . Skřeček po 3 , p . Ign . Psota 2 ; snídaní každý týden : klášter ctih . sester , p . Ant . Dunkel , p . Ign . Psota , p . Jan Nesvadba , slečna Duškova po 7 , p . Skřeček 1 ; p . Frant . Přikryl , ho - stinský dával jednomu žáku každého dne polévku k obědu ; Jan Ne - svadba a p . Kubís poskytli dvěma žákům byt zdarma ; p . Jan Krátký podporoval jednoho žáka 80 kr . měsíčně . 8 . Páni med . doktoři M . Rokotnitz , Frant . Skácelík a Richard Kantor a pan městský lékař Jos . Dostál chudým žákům poskýtali po - moci lékařské bezplatně , páni lékárníci Ign . Psota a Frant . Matouš léků zdarma neb v ceně snížené .",
+    "end_position": [
+      32,
+      40,
+      173,
+      177,
+      128,
+      118,
+      114,
+      97,
+      90,
+      84,
+      81,
+      76,
+      70,
+      54,
+      46,
+      152,
+      159,
+      145,
+      18,
+      22,
+      27,
+      149
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "368.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "30;32",
+      "38;40",
+      "171;173",
+      "175;177",
+      "127;128",
+      "118;118",
+      "111;114",
+      "97;97",
+      "89;90",
+      "84;84",
+      "80;81",
+      "73;76",
+      "68;70",
+      "52;54",
+      "44;46",
+      "151;152",
+      "157;159",
+      "143;145",
+      "16;18",
+      "21;22",
+      "26;27",
+      "147;149"
+    ],
+    "start_position": [
+      30,
+      38,
+      171,
+      175,
+      127,
+      118,
+      111,
+      97,
+      89,
+      84,
+      80,
+      73,
+      68,
+      52,
+      44,
+      151,
+      157,
+      143,
+      16,
+      21,
+      26,
+      147
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000320__uuid:a550640e-43d6-485d-874b-a1b9301a4cc4__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "X . Stipendia a osvobození od školného . Vysoký zemský sněm ustanovil pro zemskou střední školu hospo - dářskou 10 stipendií po 400 K , jež každoročně znova se udělují . Každý stipendista jest zároveň osvobozen od školného . O stipendia ucházeti se mohou řádní , nemajetní chovanci , jsou - li příslušníky Moravy , neb moravských obvodů ve Slezsku . V minulém roce obdrželi těchto 10 sti - pendií výnosem výboru zemského ze dne 26 . listop . 1904 č . 79 . 235 : Duda Václav , Dvořáček Alois , Kudlička Josef , Rochla Methoděj , Soušek Josef , Svoboda František , chovanci III . ročníku ; Fiala Jaroslav , Havlíček Ladislav , Křížek Jan a Sladký Bohumil , chovanci II . ročníku . Od školného osvobozeno úplně mimo uvedené stipendisty v I . s mestru výnosem výboru zemského ze dne 26 . listop . 1904 . č . 79 . 235 na celý rok úplně 14 z druhého a 9 z třetího ročníku . V II . semestru osvobozeni výnosem výboru zemského ze dne 29 . dubna 1905 . čís . 30 . 068 7 chovanců z I . ročníku , 2 chovanci z II . ročníku a 2 chovanci z III . ročníku od školného úplně .",
+    "end_position": [
+      119,
+      116,
+      113,
+      110,
+      102,
+      99,
+      96,
+      93,
+      90,
+      87
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "380.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "118;119",
+      "115;116",
+      "112;113",
+      "109;110",
+      "101;102",
+      "98;99",
+      "94;96",
+      "92;93",
+      "88;90",
+      "86;87"
+    ],
+    "start_position": [
+      118,
+      115,
+      112,
+      109,
+      101,
+      98,
+      94,
+      92,
+      88,
+      86
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000330__uuid:62372d63-23a7-4b19-bcc3-a2a0a8ddc01e__r001.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Národní rada česká obrací se na veškeré věrné Čechy i Češky v zemích koruny České a v soustátí Habsburském i všude za hrani - cemi , zejmena pak též veškeré korporace české s žádostí , aby jednotný a dobrovolnou národní disciplinou výhradný",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "468.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000410__uuid:2e55de66-ab1e-452e-9e4d-df9a28211060__r001.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Kroměříž Praha Č . O . B . Praha N . O . gr . Velké Meziříčí",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "478.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000420__uuid:9f60ca90-7d5b-11ed-a781-5ef3fcdaa9a7__r012.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "30 . Jan . 1779 . 6 . Apr . 1782 . 23 . Nov . 1784 . 19 Mart 1788 . 16 . Apr . 1789 . 31 . Maj . 1787 . 10 . Aug . 1790 . 19 . Jun - 1789 . 29 . Jun . 1791 . 27 . Jun . 1791 . 4 . Feb . 1789 . 15 . Oct . 1789 . 13 . Mart 1794 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "573.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000510__uuid:6feb9c1b-3abf-40a0-bd20-7fd4b244a9d7__r007.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Proud dějin hučí nad hrobkami věků , v tom hukotu jak divný to však zvuk ? Jak jásot zní to vítězících reků a hned zas jako výkřik hrozných muk . Ó Říme , slyšíš ? Nechvěje se v leku tvé svědomí a tvého srdce tluk ? To pláčem Bohu veliký žalm díků tmy děti tebou zbitých mučedlníků ! Ať žijem tam , kde Hugenottů hoře kdys zřely Cevenny à la Rochelle , neb tam , kde klesl Čech na Bílé Hoře , neb tam , kde Alba vraždit poroučel , ať dělí si nás hory nebo moře , duch jeden v nás ! A ten se rozzvučel i v pláč i v plesání , ó bratří , s vámi , jež máte v Alpách valdenské své chrámy , My vzpomínáme , jak jste krev svou lili pro heslo : Kristus spása jediná , jak vraždili vás , jak vše pustošili kat Pianezza , pochop Catinat , až z hory Balsille slavné Thermopyly vám Arnand učinil , váš hrdina ; Pán slitoval se , zhojil sterou ránu , dnes znak váš stkví se u bran Vatikánu !",
+    "end_position": [
+      163,
+      154,
+      151,
+      139,
+      86,
+      48
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "584.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "163;163",
+      "154;154",
+      "151;151",
+      "139;139",
+      "86;86",
+      "48;48"
+    ],
+    "start_position": [
+      163,
+      154,
+      151,
+      139,
+      86,
+      48
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000520__uuid:5d27c6af-5bc8-4d2a-a216-046374ee225d__r001.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Tiskem „ Biskupské knihtiskárny “ v Hradci Král .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "616.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000550__uuid:514d0ae0-391f-40c6-ad61-2f5c0c89d953__r010.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "J . Kabelík : Čítanka pro dívčí odborné školy . V . vydání , zcela přepracované . Schvál . 27 . dubna 1923 , č . 47 . 369/23 - III . Šolc a Šimá - ček v Praze . Freischerová , Janovská : Vycho - vatelství pro odborné školy pro ženská povolání . IV . , úplně pře - pracované vydání . Schvál . 31 . led - na 1935 , č . 12 . 039/35 - III . Státní na - kladatelství v Praze . MUDr . Peigerová : Zdravověda pro ženské odborné školy . V . , pře - hlédnuté vydání . Schvál . 22 . pro - since 1934 , č . 145 . 535/34 - III . Stát . nakladatelství v Praze .",
+    "end_position": [
+      2,
+      40,
+      42,
+      32,
+      89,
+      36
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "646.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;2",
+      "40;40",
+      "42;42",
+      "32;32",
+      "87;89",
+      "34;36"
+    ],
+    "start_position": [
+      0,
+      40,
+      42,
+      32,
+      87,
+      34
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000590__uuid:5cca7e6d-1509-4968-9d06-09e94eded9d9__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "1 . František Králík , státní správce školy , městský ředitel , učil v III . roč . živnostenským počtům a účetnictví , propoč . 4 . 96 hod . naukových týdně . Spravoval knihovnu výročních zpráv , vedl inventární a po - kladní deník . 2 . Albína Figarová , státní smluvní učitelka , učila v L . b roč . šití prádla , spravování prádla , kreslení střihů , nauce o látkách a tělocviku , šití v odpoledním kursu prádla a vyšívání , byla třídní v I . b roč . , pro - poč . 22 . 92 hod . naukových týdně . Spravovala sbírky pro nauku o lát - kách a byla třídní v odpoledním kursu prádla a vyšívání . 3 . Božena Hájková , státní učitelka , učila v III . roč . šití šatů , kres - lení střihů a nauce o látkách a krojích , propoč . 25 hod . naukových týdně . 4 . Jan Horák , státní učitel , učil v La a L . b roč . češtině a dějinám vzdělanosti , v II . a a II . b roč . češtině , dějinám vzdělanosti a občanské nauce , v III . roč . písemnostem , propoč . 30 hod . nauk . týdně . Spravoval žákovskou knihovnu zábavně - poučnou . 5 . Hermína Hrouzková , státní učitelka , učila šití v II . a roč . a v od - poledním kursu pro šití šatů , v II . a roč . kreslení střihů a nauce o lát - kách , byla třídní v II . a roč . , propoč . 24 . 60 hod . naukových týdně . Spra -",
+    "end_position": [
+      163,
+      49,
+      226,
+      127,
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "658.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "162;163",
+      "48;49",
+      "225;226",
+      "126;127",
+      "2;3"
+    ],
+    "start_position": [
+      162,
+      48,
+      225,
+      126,
+      2
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000600__uuid:c19fb15b-ebf5-4ad9-b1b7-58a4d4baa2c8__r001.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Bouček , Siegel , Úředníček , V . D . Uherské Hradiště , vyrábí družstvo Moravská ústředna pro lidový prů - mysl umělecký , Brno , závod Tupesy",
+    "end_position": [
+      4,
+      2,
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "687.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;4",
+      "2;2",
+      "0;0"
+    ],
+    "start_position": [
+      4,
+      2,
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000630__uuid:94cb8117-3c27-4425-86d4-8e0e8155bacc__r031.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "JOSEF NEKOLA , truhlář , Vídeň XIII . /3 , Kienmayergasse No . 28",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "704.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000640__uuid:fdccc900-17fb-11ed-8e78-0050568d9066__r031.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "III . Kázaní postní . Třetí slovo Páně na kříži co protijed proti smilstvu . „ Ženo , hle syn tvůj ! “ ( učenníku ) , „ hle matka tvá ! “",
+    "end_position": [
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "715.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000660__uuid:7370d96c-5e26-48fe-9136-7b333b0b5e5c__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "historie srbské literatury , ruský jazyk , ruská náboženská literatura , všeobecné dějiny , anthropologie a filosofie , dietika , moralní bohosloví , výklad sv . písma , hermeneutika , homiletika , psychologie , logika , dogmatické bohosloví , pastýřské bohosloví , liturgika , paedagogika a církevní zpěv . Všecky tyto předměty , praví Jos . Holeček ve svém spise Černá Hora , uvádím zejmena , aby čtenář poznal system , jakým se mládež vzdělává . Dvacet tři předměty , jimž vyučováno ve škole theologické , svědčí , že černohorští paedagogové a vzdělanci mají ve věcech školství příliš mnoho dobré vůle .",
+    "end_position": [
+      56
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "54;56"
+    ],
+    "start_position": [
+      54
+    ],
+    "data_source": "NER",
+    "file_name": "000011_1881_uuid-b8056b90-3fef-11ed-9c0c-0050568d9066__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "hostinec „ u černého orla “ na náměstí v Jindřichově Hradci najmul a jej 15 . červencem t . r . otevru . Budu se povždy snažiti , abych P . T . pánům hostům výtečnými , chutnými pokrmy , dobře vyleželým pivem a zvlášť výtečným rakouským vínem několikerého druhu co nejlépe a nejlaciněji posloužiti mohl . Pro P . T . pány cestující jsem známé pěkné pokoje obnovil a všemi potřebnostmi opatřil . Mimo to učiním vše , co žádoucí pohodlí vyžadovati bude . O četnou návštěvu a podporu v tomto podniknutí prosí ve vší úctě",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000021_1877_uuid-72d7013c-435f-11dd-b505-00145e5790ea__r004.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "KINO HVĚZDA Od 11 . do 16 . II . denně od 15 , 17 . 30 a 20 hod . , v neděli též o 1/211 hod . : PO VOLZE",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "20.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000031_1950_uuid-9793db3f-7174-4079-bdb5-fdd76fac5a16__r004.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "000000000000e00O000000 ČESKÁ BANKA , filiálka v Turnově , přijímá vklady na účty a knížky a vyplácí je neobmezeně v každé výši . Financuje podniky všeho druhu . Kupuje a prodává veškeré cenné papíry . Vklady přes K 300 , 000 . 000 . Akciový kapitál K 60 , 000 . 000 . — Telefon č . 54 . Veškeré tem ochotně Ředitelství . 00000000S 000",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "27.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000041_1921_uuid-43fca557-32f1-11eb-93cc-001b63bd97ba__r010.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "JOSEF PREISSLER , obchod s koberci , přikrývkami , hotovým lůžkovým zbožím a peřím do peřin v Praze , v Rytířské ulici číslo 24 .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "35.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER",
+    "file_name": "000051_1889_uuid-5e602910-cf35-11ed-8e7c-5ef3fcdaa9a7__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "c , : Rozdíl : 0 . 850 na poli ve výšce 5 — 0 . 43 1 . 28 v lese „ „ — 1 . 06° v korunách Rozdíl : + 0 . 33 „ Na větším díle stanic ukazoval teploměr v lese za dne nižší stupně teploty nežli na poli ; v noci bylo tomu naopak . Pro jednotlivé části byly následující rozdíly teploty mezi vzduchem lesním a polním : v poledne ( maximum ) — 0 . 51° , odpoledne ve 4 hodiny — 0 . 5° , v noci ale ( při mi - nimum ) + 1 . 25° , v průměru za celých 24 hodin tedy + 0 . 08° . I v nej - tužší zimě jest absolutní účinek lesa ve dne malý , v noci ale mnohem větší . Co do teploty půdy se pozorovalo , že půda v lednu — jak obyčejně v zi - mě — teplejší byla nežli vzduch ; průměrné odchylky její byly v jednotli - vých hloubkách .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "41.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000061_1873_uuid-96a2b4f3-100f-11e9-90ef-001999480be2__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Předplacení přijímá se v redakci na Smíchově , Jung - mannova třída č . 14 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "49.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000071_1878_uuid-20c57c42-aa47-11e3-9f73-d485646517a0__r017.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "KOLEDY : NÁRODA : Obec . loutkového div . Dobyti Jerusaléma Každý z těchto čtyř obrazů jest ve velikosti dvou stran Světozora , Mimo to chovají kalendáře velkého vydání jako zvláštní přílohu zdarma : Dva veliké obrazy z požáru komického zpěvoherního divadla v Paříži . Kalendáře Koledu i Národ možno objednati v každém řádném knihku - pectví , u prodavačů kalendářů atd . jakož i u nakladatele",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "56.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000081_1888_uuid-814a6c70-e16b-11ea-9a6f-5ef3fc9ae867__r015.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Místní školní rada ve Volyni a obec Volyňská vypisují tímto",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "65.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000091_1909_uuid-1aeba68b-f205-4010-9670-ae7f46bc8097__r018.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Členové výboru . ( Na základě volby dne 21 . dubna 1895 konané . )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "73.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000101_1897_uuid-4bf1c78f-35b5-4546-bb55-0f96a062fce2__r004.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "BOŽENKA KODERIČOVÁ - JAROSLAVMILTNER",
+    "end_position": [
+      1,
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "81.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ],
+    "data_source": "NER",
+    "file_name": "000111_1945_uuid-0a498d62-2782-4d58-bbd6-73a66bb829a6__r012.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Pomohlo . V mínulem čistě stežovali jsme si a zaitsté znelu oprávněně do vy - sokých cen , jež p nám impeasariem p . Ha - šlefa , nikoli pro kademiky , vám byly dik - továny se sel ním shledáváme , že pro koncert českého kvartelta — zuamenitého to požitku — stanoveny ceny ni raější . Už i z toho ohledu zaslouží si pořadatelstvo , by sál Střenice , byl zcela vypronán , což za dáné populárnosti slavného kvartelta jest",
+    "end_position": [
+      26
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "90.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "22;26"
+    ],
+    "start_position": [
+      22
+    ],
+    "data_source": "NER",
+    "file_name": "000121_1917_uuid-754d57e5-435f-11dd-b505-00145e5790ea__r010.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "2 ) Dle výpovědi pí . Barb . Kubáčové měli ve svém příbytku živého hospodáře — hada a jako děti byly rodiči napomínány , by mu neublížovaly , když se humny do světnice vplížil a pak zase zpět se na dvůr ztratil . „ To je náš hospodář , on nás neštípne “ , jsme říkávaly v úctě jej na dále chovajíce .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "97.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "6;8"
+    ],
+    "start_position": [
+      6
+    ],
+    "data_source": "NER",
+    "file_name": "000131_1912_uuid-907b1e01-e2e1-49d5-be0c-665a069d1339__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Vychází kuždé úterý rano . Předplácí se . V Praze : měsíčně 45 kr . , čtvrtletně 1 zl . 35 kr . půl - letně 2 zl . 70 kr . a s do - náškou do domu jako poštou a sice měsičně 50 kr . , čtvrt - letně 1 zl . 50 kr . , půlletně 3 zl . Číslo o sobě prodává se za 15 kr . — Rukopisy se novracejí .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "113.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000151_1872_uuid-c30d7376-4973-496b-87b1-30e740a139c6__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "K insertu pana dra Šamánka v Liberci , v dnešním čísle uveřejněnému , sdělujeme , že pan dr . Šamánek ordinuje v domě č . 6 , Rollgasse , vedle školy Ústř . Matice Školské , a sice od 8 — 9 hodin do - poledne a od 2 — 3 hodin odpoledne .",
+    "end_position": [
+      19,
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "121.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "17;19",
+      "3;4"
+    ],
+    "start_position": [
+      17,
+      3
+    ],
+    "data_source": "NER",
+    "file_name": "000161_1916_uuid-e002f755-32f1-11eb-93cc-001b63bd97ba__r016.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "31 . 650 K 63 h . Zadá se provedení prací a dodání hmot jak v rozpočtu nákladu stavebního podrobně naznačeny jsou a to buď veškeré práce a do - dávky jedinému podnikateli , anebo více jedno - tlivých prací jednomu nebo každá jednotlivá 7951 práce sama o sobě . Plány , rozpočty a podmínky ofertní vylo - ženy jsou k volnému nahlédnutí v obecním úřadě města Napajedel . Řádně zapečetěné a dle ofertních podmí - nek sepsané oferty , 1kor . kolkem opatřené , po dány buďtež nejdéle do 28 . listopadu 1901 včetně do 6 . hod . odp . před edovi ho - spodářského spolku F Čejkovi , starostovi města Napajedel . Oferty později došlé nebudou přijaty S podáním oferty jest oferent povinen složiti vadium v té výši a tím způsobem , jakož ustanoveno jest ofertními podmínkami . V Napajedlích , 9 . listopadu 1901 . Ad . Křiž , jednatel . Frant . Čejca , předseda",
+    "end_position": [
+      157,
+      109,
+      142,
+      151
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "134.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "155;157",
+      "108;109",
+      "142;142",
+      "149;151"
+    ],
+    "start_position": [
+      155,
+      108,
+      142,
+      149
+    ],
+    "data_source": "NER",
+    "file_name": "000181_1901_uuid-033e5054-478d-4574-817d-64eeee97e2d2__r025.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Stav jmění kocem r . 1899 : Vklady spořitelní . . Příspěvky členů . . . . . . . . . . Příspěvek společnosti vlast . přátel umění Úroky ze vkladů spořitelních . . . .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "141.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000191_1901_uuid-ac966118-2286-472e-9dad-a3750eaab7fb__r006.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "1 . *Arnoldová Milada , Pardubice , Č , Olomouc , M . 2 . Bezkybová Otilie , Olomouc , M . 3 . Bittnerová Olga , Prostějov , Olo - mouc , M . 4 . Bokůvková Libuše , Břuchotín , Olomouc , M . 5 . Hamrová Božena , Želechovice , M . 6 . Havlíková Adolfína , Velká Střel - ná , Olomouc , M . 7 . *Holušová Anna , Olomouc , M . 8 . Horáková Marie , Bystřice pod Hostýnem , Olomouc , M . 9 . Hrubá Hedvika , Olomouc , M . 10 . *Chaloupková Eliška , Skuteč , Č . 11 . Kideryová Valerie , Olomouc , M . 12 . *Kopistová Eliška , Bor , Choceň , Č . 13 . *Koutná Marie , Ratimov , Sl . , Olo - mouc , M . 14 . Lachová Marie , Skrbeň , Olo - mouc , M . 15 . Lakomá Ludmila , Křelov , M . 16 . *Loutocká Dobrosl . , Olomouc , M . 17 . Macháčková Drahomíra , Vídeň , Rak . , Olomouc , M . 18 . *Matulíková Marie , Olomouc , M . 19 . *Matyášová Olga , Svatý Hypolit , Rak . , Olomouc , M . 20 . Němečková Milada , Olomouc , M . 21 . Novotná Ludmila , Olomouc , M .",
+    "end_position": [
+      3,
+      16,
+      25,
+      38,
+      49,
+      58,
+      72,
+      81,
+      94,
+      103,
+      112,
+      121,
+      132,
+      148,
+      171,
+      180,
+      194,
+      203,
+      218,
+      227,
+      161
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "149.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;3",
+      "15;16",
+      "23;25",
+      "37;38",
+      "48;49",
+      "57;58",
+      "71;72",
+      "80;81",
+      "93;94",
+      "102;103",
+      "111;112",
+      "120;121",
+      "131;132",
+      "146;148",
+      "169;171",
+      "179;180",
+      "193;194",
+      "202;203",
+      "217;218",
+      "226;227",
+      "160;161"
+    ],
+    "start_position": [
+      2,
+      15,
+      23,
+      37,
+      48,
+      57,
+      71,
+      80,
+      93,
+      102,
+      111,
+      120,
+      131,
+      146,
+      169,
+      179,
+      193,
+      202,
+      217,
+      226,
+      160
+    ],
+    "data_source": "NER",
+    "file_name": "000201_1925_uuid-6dceb75d-a072-4059-912a-b3ef8008efe5__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Různé pohovky , křesla pro Jen u výrobce koupíte dobře a nejlevněji . nemocné , pro pohodlí . Ží - něnky od 50 K . Nejvýhod - Patentní pohovky . Divany . Křesla . nější platební podmínky . Solidní výroba čalounovaného nábytku . Mírné ceny se zárukou . ODB . ZÁVOD ČHLOUNICKÝ VOJTĚCH PŘIBYL , PRAHA - II . , Vodičkova ul . 38 .",
+    "end_position": [
+      53
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "155.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "52;53"
+    ],
+    "start_position": [
+      52
+    ],
+    "data_source": "NER",
+    "file_name": "000211_1909_uuid-b9b76000-25d0-11eb-9210-5ef3fc9ae867__r005.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Obytné čtvrti se mohou zastavovat podle těchto systémů zastavování ( vo - dorovného ) : 1 . volného ( otevřeného ) ; k tomu se počítá zastavění domy isolovanými nebo sdruženými , 2 . polootevřeného ( skupiny o 3 — 4 domech , které se eventuálně spo - jují úzkými přístavbami , terasami , zahradami a pod . ; případně se zahrnuje též v zastavění volné ) , 3 . souvislého , v blocích . Blok je skupina domů na čtyřúhelném ( zřídka také trojúhelném ) půdoryse mezi čtyřmi ( resp . třemi ) ulicemi . Bloky jsou uzavřené ( starý způsob ; na 644 starý pražský zavřený blok s vnitřním zastavěním , na 645 novější bez vnitřního zastavění ) , polootev - řené na 646 , otevřené 1647 a řadové — . ( Tímto názvem se také označují v širším smyslu domy k sobě přistavené vůbec . ) Je - li z ulice přístup ke dvěma řa -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "163.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000221_1946_uuid-1cd36386-1244-41c8-86f5-e90112ee2870__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Všichni posluchači I . - V . ročníku musí splnit základní studijní pro - spěch , a to : I . Posluchači I . , II . a III . ročníku ( reformované studium ) musí splniti studijní prospěch , předepsaný zkušebními plány . II . Posluchači VII . semestru musí vykázat za semestr minimálně úspěšné vykonání jednoho státního kolokvia z oborů stanovených pro semestr . III . Posluchači , kteří zapisují zimní semestr studijního roku 1949/50 nejméně jako VIII . semestr , musí vykázat za jeden semestr mini -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "168.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000231_1949_uuid-c3af68dd-8c72-4fe8-b38c-cd6d117a3f9a__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "sáhlé hnisání a tvoření velikých sequestrů ohrožovalo život patienta — sepse , amyloidní degenerace , inanice — bylo nutno zakročiti chirurgicky otevřením hnisavých ložisek , odstraněním sequestrů , kde nebezpečí nebylo tak veliké , uchylovali se lékaři ku konservativnímu léčení , ježto rychlé zákroky operativní ne - vedly často k cíli , poněvadž nebylo možno vždy přesně ohra - ničiti nekrotická ložiska . Uvolněné sequestry bylo nutno ovšem vždy odstraniti . Jak uvádí Glosser , docházelo k recidivám po operacích i za 10 let , ačkoliv Verdross staví se proti tomuto názoru a považuje Glosserové recidivy za exacerbaci násled - ných stavů po fosforové nekrose .",
+    "end_position": [
+      73,
+      86,
+      94
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "174.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "73;73",
+      "86;86",
+      "94;94"
+    ],
+    "start_position": [
+      73,
+      86,
+      94
+    ],
+    "data_source": "NER",
+    "file_name": "000241_1929_uuid-478ac390-e756-11e8-a438-d485646517a0__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Radio . Jaký musí býti moderní amplion ? Dnes již nestačí , aby amplion měl velkolepou ar - chitektonickou stavbu a mohutný , krásně la - kovaný trychtýř , ale jeho akustické vlast - nosti byly zanedbány . Trychtýřový amplion není zajisté nic jiného než zvětšený telefon , který může reprodukovati tóny jen ve vel - mi omezeném rozsahu . Dnes můžeme klásti zcela jiné požadavky na akustickou doko - nalost amplionu . Žádáme , aby všechny tóny byly bezvadně reprodukovány od nejhlub - ších basových tónů bubnů , až do nejvyšších flageoletových tónů houslí . Tento požada - vek splňuje dokonale na amplion Telefun - ken „ Arcofon \" . U tohoto amplionu , který jest konstruován dle přísných vědeckých hledisk , nevycházejí zvukové vlny z mem - brány , která působí na způsob pístu , nýbrž z tak zv . účinné plochy : velkoploché přelo - žené membrány . Tímto jednoduchým , při tom však originálním způsobem dosáhlo se hlasité , plné a nezkreslené reprodukce nej - hlubších i nejvyšších tónů , to jest tónového rozsahu 7 a půl oktávy . Přeložená membrá - na dovoluje totiž volné kmitání vysokých tónů v bízkosti přeložení a hlubokých tónů na méně zakřivených vnějších plochách membrány .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "186.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000261_1930_uuid-0bc31dfd-8eb1-4717-8a92-dcf622fd0594__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Účet . pošt . spoř . č . 5284 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "195.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000281_1941_uuid-769e68e8-435f-11dd-b505-00145e5790ea__r018.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Jmeno a stav . František Richter , gruntovník . František Lorenc , malíř písma . *František Schantin . Amalie Kühnelová , učitelka . Anna Zentnerová , modistka . Emanuel Czastka , soukromník . Marie Vyčichlová , služka . Tekla Vlčková , manželka učite - lova . Anna Reisserová , Anna Schantinová , šafářka . Wolf Manases , sensál . Juliana Císařová , manželka ru - kavičkáře . Jan Petlan , továrník a měšťan . Lev Pštross , soukromník . Josef Benak , lakýrník . Josef Wien , krejčovský mistr . Antonie Treumannová , služka . Marie Brožová , manželka stroj - níka . Anežka Enžlová , švadlena . František Marušák , řešetář . Klara Manasesová , modistka . Václav Matějček , malíř pokojů . Ignác Martin , obchodník . Anna Kramšová , služka . Josef Seidel , nádenník . Anna Janoušková , zahradnice . Emanuel Višňař , zedník . Barbora Lemberková , služka . Emanuel Ranzendorf , rukavičkář .",
+    "end_position": [
+      104,
+      96,
+      91,
+      85,
+      80,
+      75,
+      68,
+      60,
+      55,
+      50,
+      47,
+      39,
+      34,
+      29,
+      19,
+      24,
+      16,
+      10,
+      5,
+      109,
+      114,
+      119,
+      125,
+      155,
+      150,
+      145,
+      140,
+      135,
+      130
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "203.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "103;104",
+      "95;96",
+      "90;91",
+      "84;85",
+      "79;80",
+      "74;75",
+      "67;68",
+      "59;60",
+      "54;55",
+      "49;50",
+      "46;47",
+      "38;39",
+      "33;34",
+      "28;29",
+      "18;19",
+      "23;24",
+      "15;16",
+      "9;10",
+      "4;5",
+      "108;109",
+      "113;114",
+      "118;119",
+      "124;125",
+      "154;155",
+      "149;150",
+      "144;145",
+      "139;140",
+      "134;135",
+      "129;130"
+    ],
+    "start_position": [
+      103,
+      95,
+      90,
+      84,
+      79,
+      74,
+      67,
+      59,
+      54,
+      49,
+      46,
+      38,
+      33,
+      28,
+      18,
+      23,
+      15,
+      9,
+      4,
+      108,
+      113,
+      118,
+      124,
+      154,
+      149,
+      144,
+      139,
+      134,
+      129
+    ],
+    "data_source": "NER",
+    "file_name": "000291_1881_uuid-25d2e5e6-34ab-4254-9ba8-67524c805c7a__r010.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Prof . dr . Nevěřil : Prameny a literatura k dějinám cyrilo - metodějským ; kritický rozbor pramenů , v sobotu od 11 . — 12 . , v posl . č . 16 .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "210.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER",
+    "file_name": "000301_1925_uuid-ec469c0d-27d2-4660-aa93-66d48ab1fcaf__r008.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "OBSAH : Dr . J . Wankel : První stopy lidské na Moravě . S 6 obrázky . ( Pokračování . ) — V . Havelková : Zbytky národní ornamentiky moravské . S vyobrazením . Y J . Talský : Příspěvky k ornithologiji moravské . II . — J . Klvaňa : O geologických poměrech Moravy a Slezska . ( Pokračování . ) — M . Václavek : O kroji na Valaších . — J . Havelka : Sloup . S vyobrazením . — K . J . Bukovanský : Umělé sluje v Kloboukách na Brněnsku . S vyobrazením — H . Krch : O stavitelském umění našich předků . ( Po - kračování . ) — Dopisy , drobné zprávy ( se čtyřmi obrázky ) , literatura . Kronika muz . spolku olomuckého .",
+    "end_position": [
+      6,
+      38,
+      76,
+      102,
+      25,
+      50,
+      66,
+      88
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "219.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;6",
+      "36;38",
+      "74;76",
+      "100;102",
+      "23;25",
+      "48;50",
+      "64;66",
+      "84;88"
+    ],
+    "start_position": [
+      2,
+      36,
+      74,
+      100,
+      23,
+      48,
+      64,
+      84
+    ],
+    "data_source": "NER",
+    "file_name": "000311_1884_uuid-bd621909-b6ab-4a7b-86cf-4b7e0153b106__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Nemravná plachta v Marianské ulici v Praze nějak se čeří a pojednou bojovně zmítá ze schlíp - lého nečinna . Fouká vítr na jiný počas , ježto bez - větří zdálo se jí býti na vlastní neprospěch . A tak čteme tu zas radikálnější úvodníky než v samot - ných » Radikálních listech « , u kterých zůstal již než radikální název . Opětně se vyráží hesla , po - vely , a za bojovné deklamace se kormidluje , volá na zdouvající se vlny a vnáší nálada , jaká na lodi zápasící s bouří . Úvodníkář křičí , řve a vyvolává do ochraptění . Některé názvy nám obsah naznačí . Jako : » Jen Vlaši zahrozili obstrukcí a — dostanou universitu . « ( Tak vida , a mladočeši obstruují ob čas a nedostali ničeho . ) , » Důsledky systému « , » Buďme na stráži ! « » Končící lhůta šetření . . . « , » Chaos « , » Něco nového « , » Nechť jsou varováni v Mala ga",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "227.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "000321_1905_uuid-33dbc1a4-4350-4766-a1d9-8c0ab9de6b1d__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Roborantium ( prostředek pro vzrůst vousů ) s výsledkem se nepotkal . Stejně spolehlivý při plešatostí , vypadávání a sešedivění vlasů . Zá výsledek po řádném namazání se ručí . Zásyl - ky v láhvích po 1 zl . 50 kr . a v láhvích na zkoušku po 1 zl . obstarává J . Grolioh",
+    "end_position": [
+      54
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "235.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "52;54"
+    ],
+    "start_position": [
+      52
+    ],
+    "data_source": "NER",
+    "file_name": "000331_1885_uuid-6b8a35b8-0065-4138-b20d-0d355730190c__r024.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Spirk Frant . Srb Josef . Starý Eman . Stengl Frant . Storch Eman . Straka Vácsl . Stretti Karel . Strnad Jan . Suchomel Vácsl . Suk Frant . Svoboda Jos . ( č . ) . Svoboda Jos . ( st . ) . Sýkora Čeněk . Šambach Ondř . Šára Jan . Šebek Alois . Šebek Frant . Šedivý Vácsl . Šerks Leop . Šmaus Frant . Štěpánek Eman . Tádra Ferd . Tauš Karel . Taxis Rud . kníže . Tinger Jos . Tollmann Břetislav . Tunshorn Jos . Tálský Jos . Urban Alois . Vanouš Jan . Velišský Jos . Veselský Emil . Vysoký Frant . Výšek Alois . Wagner Jan . Waldmann Jan . Wiesner Jos . Züngel Em . Zvonař Jos . Leop . Žemlička Frant .",
+    "end_position": [
+      133,
+      130,
+      125,
+      122,
+      119,
+      116,
+      86,
+      37,
+      29,
+      26,
+      23,
+      20,
+      17,
+      45,
+      13,
+      11,
+      5,
+      8,
+      48,
+      54,
+      98,
+      95,
+      92,
+      89,
+      83,
+      51,
+      78,
+      72,
+      69,
+      66,
+      63,
+      60,
+      57,
+      75,
+      2,
+      101,
+      104,
+      107,
+      110,
+      113
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "244.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "131;133",
+      "126;130",
+      "123;125",
+      "120;122",
+      "117;119",
+      "114;116",
+      "84;86",
+      "30;37",
+      "27;29",
+      "24;26",
+      "21;23",
+      "18;20",
+      "15;17",
+      "38;45",
+      "12;13",
+      "9;11",
+      "3;5",
+      "6;8",
+      "46;48",
+      "52;54",
+      "96;98",
+      "93;95",
+      "90;92",
+      "87;89",
+      "79;83",
+      "49;51",
+      "76;78",
+      "70;72",
+      "67;69",
+      "64;66",
+      "61;63",
+      "58;60",
+      "55;57",
+      "73;75",
+      "0;2",
+      "99;101",
+      "102;104",
+      "105;107",
+      "108;110",
+      "111;113"
+    ],
+    "start_position": [
+      131,
+      126,
+      123,
+      120,
+      117,
+      114,
+      84,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      38,
+      12,
+      9,
+      3,
+      6,
+      46,
+      52,
+      96,
+      93,
+      90,
+      87,
+      79,
+      49,
+      76,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      73,
+      0,
+      99,
+      102,
+      105,
+      108,
+      111
+    ],
+    "data_source": "NER",
+    "file_name": "000341_1864_uuid-c92d46a4-e2a0-4486-8603-5e9eb410b8b3__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Všeobecně se soudí , že očekávané jmenování Wittea situaci poněkud uklidní a vyjasní . Witte vedl by mimo všeobecné politiky také ministerstvo financí a v roz - hodujících kruzích má se za to , že před - loží carovi nový reformní program , v němž budou — až na všeobecné volební právo — splněny požadavky reformní strany . Zdá se , že i Chilkov radil k zavedení liberálních reforem . Dnes již jest nepo - chybno , že říšská duma se v lednu nesejde .",
+    "end_position": [
+      63,
+      14,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "252.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "62;63",
+      "13;14",
+      "7;7"
+    ],
+    "start_position": [
+      62,
+      13,
+      7
+    ],
+    "data_source": "NER",
+    "file_name": "000351_1905_uuid-ad994343-0e1a-4193-95ac-2736297b0edb__r004.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Svatováclavské . Lech . . . . . Žluté stolní . . Ministr Miquel . President Krüger Industrie . . . .",
+    "end_position": [
+      13,
+      16,
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "285.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "12;13",
+      "15;16",
+      "0;0"
+    ],
+    "start_position": [
+      12,
+      15,
+      0
+    ],
+    "data_source": "NER",
+    "file_name": "000448_1906_uuid-6c08fe6d-75e6-4288-95b0-c5c76c9027b6__r025.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "když nemohl vyjíti . Ustavičné čtení unavilo ho též . Bolelo ho to , že zde musí sedět na zahálce . I Jiří stěžoval si , že má dlouhou chvíli . „ Mnohem radší , “ pravil , „ oral bych doma na poli . “ Hrabě však řekl : „ Co bychme oba posud byli mohli dělat ? Oba jsme cítili teprva zde pří - liš dobře , jak jsme na síle utrpěli nesnázemi na vojně , zimou a hladem . Posud bych byl nemohl podstoupiti ani delší cesty , aniž bych mohl znova na vojnu vstoupit . Mějme tedy trpělivost ! Milo - stivý Bůh , Jenž se o nás posud tak laskavě posta - ral , bude se i dále ještě starati . “ Ticho a pokoj v tomto osamělém příbytku jakož i dobré opatření šlo hraběti velice k duhu . Vypadal zas jadrně a květl v tváři , a Jiří spra - vil se také jak náleží .",
+    "end_position": [
+      153,
+      106
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "317.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "153;153",
+      "106;106"
+    ],
+    "start_position": [
+      153,
+      106
+    ],
+    "data_source": "NER",
+    "file_name": "000548_1859_uuid-602c02d9-1560-4b3c-bdb1-cab6cbc9a974__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Směr každého stojí kolmo na oblouk čelisti . Zuby tudíž se uvol - ňují v jisté divergenci vzhledem ku svým sousedům . K provisornímu , předběžnému upevnění doporučuje Mamlo - kovo a Grünbergrovo . Upevňování definitivní děje se buď na zu - bech upevněnými , nebo v zubech zapuštěnými ploténkami . Z prv - ních doporučuje systém polokorunek neb prstenů hodící se na přední i zadní zuby . Z druhé řady sympatisuje s ploténkami , upev - něnými šroubky v zubech . Práce tato vyžaduje jistý stupeň zruč - nosti , ale správně zhotovená vykazuje největší přednosti ze všech systémů . Na konec popisuje kombinace mezi předními zuby a moláry . Postup práce popsán u každého systému zcela jasně , k če - muž nemálo přispívá 46 dobrých vyobrazení . Probrány systémy pouze osvědčené a nezapomenuto upozorniti na výhody a nevý - hody každého jednotlivého . Jsem přesvědčen , že bude čtena tato knížka se zájmem .",
+    "end_position": [
+      32,
+      30
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "365.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "32;32",
+      "28;30"
+    ],
+    "start_position": [
+      32,
+      28
+    ],
+    "data_source": "NER",
+    "file_name": "000748_1922_uuid-765469e9-e755-11e8-a438-d485646517a0__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "něj všecko . . . Jen ta tvá vlídnosť výminkou . . . A přece prosím tě oč poprvé . . . “ „ Mýlíš se , šlechetná panno . . . Co činím , vše pro vaši bílou labuť . . . vše . . . i pro tebe . . . Blažej Záhoř šťastně anglické oceli unikl a až se vrátí , snad jich už na Tře - boni nebude . . . “ „ Až se vrátí , pravíš ? — Což odešel ? “ „ Tak jest , panno ctná . . . “ „ A kam ? “ „ Toť tajemstvím . . . “ „ I pro mne ? “ „ I pro tebe . . . “ „ A kdy se vrátí ? “ „ Jak bude Boží vůle ! “ „ A nevrátí - li se ? “ „ Jak bude , panno ctná , Boží vůle . . . “ „ Aspoň mi o něm povíš nějaké zprávy . . . Slyšíš - li ? „ Budu - li jen věděti . . . Je tu , ctná panno , studeno . Vane z rybníka ostrý vítr , mohla bys onemocněti . . . Potom by bylo zase úzko jemu . . . “ „ Jen slovíčko ještě , starý příteli ! A ničeho mi ne - vzkázal ? “ „ Abys byla zdráva a šťastna . . . “ „ Nic více ? “ „ Dosti toho ! — Je - li člověk zdráv a šťasten , jest i spokojen . . . “ „ Ani se mi nezmínil . . . “ „ Nesměl . . . Dal mi na to svou ruku . . . Aby se nám jen všecko vydařilo . . . Dočkal bych se toho tuze rád . . . Potom mi budeš blahořečiti . . . Potom se teprve bílá labuť stříbrem zaskvěje . . . “ „ Tys přece jen dobrý — dobrý stařeček , nejvěrnější přítel náš ! “",
+    "end_position": [
+      54,
+      134,
+      153
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "394.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "53;54",
+      "134;134",
+      "153;153"
+    ],
+    "start_position": [
+      53,
+      134,
+      153
+    ],
+    "data_source": "NER",
+    "file_name": "000848_1894_uuid-8c5120b6-389e-43c0-b629-2f2a1fdf022b__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "5 . O víro otců , příjde čas , Kdy prapor tvůj se vznese zas , Až přijde vyčistí svůj chrám A trůn svůj ujme Kristus sám ; Ó blaze tomu , kdož v ten den Mu věren bude nalezen !",
+    "end_position": [
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "468.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "25;25"
+    ],
+    "start_position": [
+      25
+    ],
+    "data_source": "NER",
+    "file_name": "001148_1941_uuid-bafb7370-312e-11eb-a034-5ef3fc9bb22f__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Navštivili jsme společně besedu studujících v Přerově a já odtud rovnou cestou po „ Marsch - routě “ a opatřen „ Zwangspassem “ do Králové Hradce , kdež mne pání internovaného drželi až do vánočních svátků r . 1860 . Nový místo - držitel hrabě Forgáč usnadnil mi návrat do Prahy . Bratří Staňkové , stateční a vlastenečtí jonáci ze sesterské Moravy , mne očekávali . Nelitostná Morana rukou zlou oba již za - stihla v květu jich mládí . Přátelská vzpomínka moje budiž skromným kvítkem na hrob přátel věrných a milených . Po vánočních svátcích roku 1860 . vstoupil jsem do redakce politického den - níku „ Čas “ , založeného drem . Alojsem Krásou . Že směl vycházeti , bylo koncessí , udělenou Ce - chům na memorandum , jež dr . Fr . L . Rieger a továrník Josef Macháček byli podali ve Vídni císaři . Shledal jsem se tu opět s Karlem Slad - kovským , Vincencem Vávrou Haštalským , Ne - rudou , Janem Kredlhansem - Liblinským a j . Bylo veselo , nastala práce ! Ku předu !",
+    "end_position": [
+      171,
+      166,
+      162,
+      161,
+      142,
+      45,
+      50,
+      53,
+      138,
+      115,
+      158
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "494.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "168;171",
+      "164;166",
+      "161;162",
+      "160;161",
+      "141;142",
+      "45;45",
+      "50;50",
+      "52;53",
+      "132;138",
+      "113;115",
+      "155;158"
+    ],
+    "start_position": [
+      168,
+      164,
+      161,
+      160,
+      141,
+      45,
+      50,
+      52,
+      132,
+      113,
+      155
+    ],
+    "data_source": "NER",
+    "file_name": "001248_1882_uuid-5254e258-d5b0-4c27-a62b-5351983e840b__r006.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Časopis tento vydává se 1 . a 15 . každého měsíce po číslech o třech arších v obálce . — Předplácí se naň ve všech knihkupectvích i u našich jednatelů čtvrtletně 1 zl . 50 kr . r . č . , pololetně 3 zl . r . č . ; s pošťovní zásýlkou čtvrtletně 1 zl . 70 kr . r . č . , pololetně 3 zl . 40 kr . r . č . Všecky dopisy a zásýlky buďtež laskavě frankovány .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "521.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "001348_1861_uuid-7e1e67e0-ec42-11ea-9a6f-5ef3fc9ae867__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "liko před ukrutností prcháš , která Tě zkaziti chce . Nezanech žádného podezřelého znamení svého útěku , a střez se všeho , coby na Tvou stopu vésti mohlo — též všeho , coby mé účastenství při tom prozrazovalo . — Buď odhodlaná a srdnatá , Bůh jest s námi ! Tvůj Oktavián ! “ Boucher dostal list a novou odměnu . Kin - ský jej zadržel . „ Jsi věren ? “ otázal se ho přísně a skoro slavně . — „ Co je to za otázku , pane hrabě ? “ zvolal hoch uražen , „ kdybych nebyl věren , jakbych byl to vše pro Vás , a pro Esterku mohl učinit . Vždyť to není jenom k vůli dukátům , nebo Esterka mi nemůže nic dáti a spočátku mi pra - nic nepřislíbila . Já jsem Esterce prisáhal , že jí budu věren , jako bratr . — To je to ! “ „ Ty nás nikdy neprozradíš ! ? “ „ Bože — já prozradit ! ? — Kdyby Efraim věděl a židé , že donáším psaní mezi Esterkou a křesťanem a panem hrabětem — že dělám posla její lásky — bylbych nešťastný člověk — on by mne zabili ! — Jak ji mohu prozradit , byť - bych i chtěl ? “ „ Také jábych Tě zabil , kdyby ze zisku , ze strachu neb slabosti slovo zrádné Ti přese rty vyšlo . — Nyní mě poslyš ! Tebe očekává zítra ještě větší odměna , šťastně - li všecko vy - vedeš , co Ti nařídím . “ Bouchera pošel mráz — hrabě požadoval",
+    "end_position": [
+      54,
+      51,
+      110,
+      138,
+      123,
+      181,
+      262,
+      172,
+      164,
+      45
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "550.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "54;54",
+      "51;51",
+      "110;110",
+      "138;138",
+      "123;123",
+      "181;181",
+      "262;262",
+      "172;172",
+      "164;164",
+      "45;45"
+    ],
+    "start_position": [
+      54,
+      51,
+      110,
+      138,
+      123,
+      181,
+      262,
+      172,
+      164,
+      45
+    ],
+    "data_source": "NER",
+    "file_name": "001448_1860_uuid-a3b18870-b42a-4ab0-975f-4532f44db6e8__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Svoji lásku a úctu k svatým ukazujeme tím , že se k nim modlíme . Avšak hned nám zas nekatolíci vytýkají : » Proč se nemodlíte přímo k Bohu ? « Na to odpovídáme : » My se modlíme přímo k Bohu . Církev nám nezapovídá modliti se přímo k Bohu . Ani nás nenutí modliti se k svatým , jenom prohlašuje ( na sněmu tri - dentském ) : že je dobré a užitečné , chceme - li od Boha skrze jeho Syna Ježíše Krista , který jest naším jediným Vykupi -",
+    "end_position": [
+      28,
+      50,
+      80,
+      41,
+      85
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "597.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "28;28",
+      "50;50",
+      "80;80",
+      "41;41",
+      "83;85"
+    ],
+    "start_position": [
+      28,
+      50,
+      80,
+      41,
+      83
+    ],
+    "data_source": "NER",
+    "file_name": "001648_1948_uuid-f9d3318d-3112-47f6-896b-129cb485445d__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "5 ) Akta v měst . arch . 9 ) Kopiáře 1 . posil . 10 . 23 . 24 . v Kroměř .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "618.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "001748_1912_uuid-00acd670-c832-11dd-a86b-0013d398622b__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Prodá po případě se pronajme menší hospodářství ve výměře 83 arů v blízké obci u Turnova ihned z rodinných důvodů . - Dotazy na značku „ Ihned levně “ do admin . t . 1 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "662.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "001948_1935_uuid-abfa9ff4-3090-46b4-af6a-b5d2dbe825b6__r027.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Dr . J . Sametz , předseda .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "703.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER",
+    "file_name": "002148_1889_uuid-bb666127-a062-4509-bbec-30b27db86f72__r005.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Obecná či národní škola . Její opravy a oddělení od církve . Sepsal Ant . Skočdopole , kand . dokt . v bohosloví , prof . pastorálky atd . na bohosl . ústavě v Budějovicích . V Praze 1868 . Náklad . a tisk . kněhkup . I . L . Kobrova . 90 str . v 12° . Příběhy mého dědečka . Dárek mlá - deži českoslovanshé . Podlé Rob . Nie -",
+    "end_position": [
+      51,
+      15
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "751.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "46;51",
+      "13;15"
+    ],
+    "start_position": [
+      46,
+      13
+    ],
+    "data_source": "NER",
+    "file_name": "002348_1868_uuid-84850180-3ff5-11ed-9667-005056822549__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Dne 14 . července . Vyhláška . Na žádost c . kr . podkrajského úřadu na Smí - chově ode dne 2 . července t . r . č . 11986 oznamuje se , že se nalezla 2 : ces úod sv Prokopa ku Praze kravata a u zmíneného norem c . k . podkrajského ú - řadu uschována leží , kde se vlastník při dokázání svého práva hlásit může . V Praze dne 4 . července 1851 .",
+    "end_position": [
+      42
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "768.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "41;42"
+    ],
+    "start_position": [
+      41
+    ],
+    "data_source": "NER",
+    "file_name": "002448_1851_uuid-ba8e9358-10bc-4593-89fe-ca41fe0b694a__r054.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Dodatek III . Obvody krajských soudů s daty o plošné výměře a počtu obyvatelstva r . 1930 podle národnosti .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "788.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "002548_1937_uuid-031f41f0-3110-11eb-a034-5ef3fc9bb22f__r011.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "150 ejeden nemocný by snášel mnohem menší bolesti , kdyby měl po ruce ihned vhodných prostředků proti své chorobě . Má tudíž kniha , jako „ Dra . Airyho methoda lečebná “ , v níž netoliko o nemocech pojednáno , ale v níž naznačeny zároveň i lékaři zkoušené a doporučené , tisícetisícůkráte osvědčené léky domácí , pro každého — buď si zdravý či churavý — nezměrnou cenu . Knihu tuto , vydanou v Richtrově ústavě nakladatelském v Lipsku , jejíž velezdařilé české zpracování objasněno jest přemnoha vyobrazeními , zasýlá vy - placeně K . Gorischek , c . k . univer - sitní knihkupec ve Vídni , I . Štěpánské nám . 6 . za 75 kr .",
+    "end_position": [
+      73,
+      94
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "866.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "73;73",
+      "92;94"
+    ],
+    "start_position": [
+      73,
+      92
+    ],
+    "data_source": "NER",
+    "file_name": "002948_1883_uuid-732c73bd-435f-11dd-b505-00145e5790ea__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "bes pošty : . . 2 . 90 poltou . . . . . 3 . 90 Za denášku do domu v Praze měs . 10 kr . — Vychází každý des mimo pondělí",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "896.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "003048_1874_uuid-279c0ec0-fe9e-4bd4-b40b-53c0143687d5__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Koupí přibylo : Zeisův prismový dvojitý dalekohled ( 12krát zvětšující ) . Pro - dlouženo vedení k projekční lampě a upraven projekční stolek . Celkem má kabinet 325 přístrojů a 36 obrazů ( 361 čísel ) . Frant . Mareš .",
+    "end_position": [
+      39,
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "925.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "37;39",
+      "3;3"
+    ],
+    "start_position": [
+      37,
+      3
+    ],
+    "data_source": "NER",
+    "file_name": "003148_1910_uuid-10103bea-edba-4126-bb8b-77588eb8551f__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Telegraficky kurs vídenský , 1 . května . Počateční bursa . Uvěrní akciz 336 . 25 , losy s roku 1560 , 108 . 30 , losy z r . 1864 145 . 50 , státní dráhy 370 . — Napol . 8 . 96 — lombardy 200 . 50 , dráha Frant . Jos . — . — severozápodní dr . — . — , Anglo - rak . banka 328 . 50 , Fran - ho - rak . Čanka 199 . 50 . banka Unice 316 . — . Poledni bursa . Stánu dluh v stříble 71 . 45 , losy s r . 1889 . 327 . — , z r . 1854 . 99 . 50 , z r . 1860 , celé losy 104 . — v pětlnách 124 . 25 , z r . 1864 . 145 . 30 , úvěr . losy 185 . 50 . úvěr . akcie 337 . — , severní dráha 233 . — , státní dráha 372 . — , lombardy 200 . 75 , rak . severozápadní dr . 211 . 40 , moravako - slezská dr . — . — , nevero - východní dr . 167 . — , východní dr . 147 . — , česká západní dr . — 0 . — , dr . Frank Jos . 203 . 75 , pardubicka dr . 186 . — , baličská dr . 257 . — , stůmihradská dr . 185 . — , dr . Rodolfova 160 . — , Londýn kr . lhůta 112 . 35 , Pahž 44 . 30 , Habark 83 . 25 , Frankfurt 94 . 85 , pruské pakladniční poukázky 1 . 68 — , Napolrony 8 . 96 , dokaty 5 . 36 . střibro 110 . 50 , banka Cnica 815 . 50 Z Tratnova , 29 . dubna . ( Trh na přtri . ) Následkem ustavičného klesau rakouské valuty jevíli kupci a rizo - zemska větší chuť ke koupi . 20ka prodávána po zl . 53 . 50 , 40ka po zl . 39 na 4 měsice neb s 2pcl . srážkou za hstove .",
+    "end_position": [
+      225,
+      253
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "950.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "221;225",
+      "251;253"
+    ],
+    "start_position": [
+      221,
+      251
+    ],
+    "data_source": "NER",
+    "file_name": "003248_1872_uuid-b159a085-32da-48fa-9c2a-2595c2cf219c__r009.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "II . oddělení . ge 5 . Staročeské písně ranní , pro sbor upravil J . L . Zvonař : a ) „ Uslyšel jsi modlitby Pane “ , ze 17 . století , b ) „ Chválu vzdejme “ , z dob Karla IV . 6 . „ Sláva “ , píseň pro baryton se sborem , od Hynka Vojáčka , nesl 7 . Scherzo od Chopina , přednesla sl . Píšová . 8 . Sbor „ Radostné cestování “ , složil E . Vašák ( úd sp . ) . III . oddělení . 9 . Sbor „ Zrušení slibu “ , složil Ed . Nápravník . 10 . Deklamace . 11 . Sbor „ Zpěv český “ , složil K . Slavík . 12 . Sbor „ Naše probuzení “ , složil Lud . Procházka ( úd sp . ) .",
+    "end_position": [
+      44,
+      18,
+      137,
+      124,
+      107,
+      85,
+      72,
+      67,
+      60
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1002.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "43;44",
+      "14;18",
+      "135;137",
+      "122;124",
+      "105;107",
+      "83;85",
+      "72;72",
+      "67;67",
+      "59;60"
+    ],
+    "start_position": [
+      43,
+      14,
+      135,
+      122,
+      105,
+      83,
+      72,
+      67,
+      59
+    ],
+    "data_source": "NER",
+    "file_name": "003448_1864_uuid-c3f0515f-725d-465d-85cc-bddc65e0985d__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Příznivá náhoda dovoluje nám doplniti předešlé obrazy od jezera Comského obrazem města , po němž jezero je nazváno . Como rozkládá se velmi malebně mezi půvabnými návršími , porostlými révou , olivami , kaštany a jinými plodonosnými stromy , na konci západního ramene jezerního . Poněvadž okolo něho vede i hlavní trat do Milána , pokračování to dráhy Gotthardské , není divu , že Como v dopravnictví a ce - stovatelství má jen úlohu průchodní stanice , od dráhy na loď a naopak . Jen poměrně málo turistů volívá si Como k delšímu pobytu , ač je zde dost , co stojí za delší pro -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1029.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "003548_1907_uuid-85d0b287-d146-414d-ae57-6bd181098432__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "mraků podobá se kočce s velikou hlavou ; ale nakonec vzdu - choloď se dostala šťastně do Kingsbay , kde byla poslední zastávka . Tam byly doplněny zásoby plynu , který nadnáší vzducholoď , motory zavrčely a vzducholoď letěla do krajů věčného sněhu a věčného ledu . Vzducholoď záhy a šťastně dostihla severního pólu . Severní pól , jižní pól ! Kolikrát byla již vyslovena tato slova , představující pomyslný , neexistující bod , kudy prochází neexistující čára — zemská osa . Ale tak jako byste marně hledali v pražských ulicích 50 . rovnoběžku , tak nenašli byste ani v polárních krajinách toto vzácné místečko . A přece , kolik hrdinů , kolik učenců položilo své životy pro několik chvil , kdy mohli by stanouti na tomto místě a do sněhu vbodnouti vlajku své země ! Vzducholoď „ Italia \" obletěla několikrát svůj cíl , při čemž učenci zaznamenávali činnost různých měřicích přístrojů . Ge -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1077.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "003748_1928_uuid-c27bcbc3-4592-4a5c-bca6-5da4a247a0d5__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "varští , kteří po bedlivé úradě pro jistotu , aby cestou do Prahy vejce nerozbili , uvařili je dříve doma na tvrdo “ . Z toho lze souditi , že již před 500 lety „ kurochov “ ve vlasti naší zkvétal ; čím ale naší praotcové tehdáž sle - pice pobádali , aby hojnost vajec nanesly : toť věru ne - vím , i ponechávám věc tak důležitou k rozhodnutí čá - stečně naším četným apoštolům hospodářským , kteří vědí někdy více , než dějiny a než nejzkušenější lidé žijící ; částečně ale také spolku pro chov „ drobného do - bytka “ , jemuž nerad bych se pletl do řemesla , aby mne za to neobdařil snad nějakou tou medalií , na něž již teď dělá laskominy všem svým věrným a upřímným , dostaví se na obě výstavy „ drobného dobytka “ , jež spolek v dubnu a květnu uspořádá .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1162.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "004148_1879_uuid-ae8f2f7b-c2e4-11e6-bf47-001999480be2__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Sestává : z hotovosti pokladní . . . . . z vkladů u bank a záložen . . . . z vkladů u pošt . úřadu šekového . . . . . z úvěru 2 leta bezúročného , který vykazoval 1 . ledna 1922 Kč 2 , 204 . 383 . 01 , ke kterémužto zůstatku z minulého roku přibylo nových zá - půjček , poskytnutých roku 1922 v částce Kč 3 , 004 . 496 . 57 , celkově splaceno bylo za rok Kč 1 , 229 . 055 . 04 , takže saldo k 31 . pro - sinci 1922 vykazuje . investice v Magistrále , společnost s r . o . , monopol nádražní a poštovní reklamy , Praha II . , Vá - clavské nám . 24 . Základní kapitál běžný účet . investice v Pražských plakátovacích podnicích , společnosti s r . o . , Praha I . , Masná 16 . nemovitosti , dům čp . 54 a 69 ve Veleslavíně s přilehlým pozemkem",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1226.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "004448_1923_uuid-7e2d48a0-3125-11eb-a034-5ef3fc9bb22f__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Zvěrolékař Jaroslav Rytíř , Krpy , pošta Kropáčova Vrutice Olakar Brenner , učitel , Babice , pošta Radošovice Václav Pokorný , profesor , Plzeň , Klátovská tř . 94 Ing . Dr . Vilém Peterka , přednosta Stát . výzkumného ústavu včelařského , Dol , pošta Letky - Libčice Ing . Dr . Jaroslav Svoboda , komisař Stát . výzkumného ústávu včelařského , Dol , pošta Letky - Libžice František Eichner , redaktor , Praha I . , Týnská 7 Odpovědný redaktor : Josef Nepraš , redaktor , Praha XIV . , Oldřichova 39 ( 522 ) ADMINISTRACE ČESKÉHO VČELAŘE V PRAZE II . , KŘEMENCOVÁ ULICE ČÍS . 6 Telefon 479 - 76 . Šekový účet číslo 66 . 563 , Praha .",
+    "end_position": [
+      84,
+      70,
+      2,
+      10,
+      19,
+      54,
+      34
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1252.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "83;84",
+      "69;70",
+      "1;2",
+      "9;10",
+      "18;19",
+      "49;54",
+      "29;34"
+    ],
+    "start_position": [
+      83,
+      69,
+      1,
+      9,
+      18,
+      49,
+      29
+    ],
+    "data_source": "NER",
+    "file_name": "004648_1936_uuid-a1303601-c3ec-11e9-adcd-001999480be2__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "poškozeny . Jedna osoba byla zabita , 26 jiných ganěno . Majitel skladiště dynamitu byl zatčen . ( Hrozný konec ženy . ) Když kupec Markobruno z Piave v Italii jel se svou 26letou ženou po železnici z Milána domů , vyčíhal si okamžik , kide vjíždí dráha mezi Orto a Chinsi do tunelu , poradil své ženě , aby se oknem ven nachýtila uvidět , jak dlouhý jest tunel ; když pak tato jej uposlechla , vyzdvihl ji za nohy a vyhodil oknem ven . Později nalezena ubohá žena v tunelu s po - lámanými údy a po všem těle hrozně potrhána , ale ještě živa . Když manžela zabykali , chtěl dokazovat , že žena spáchala samovraždu ; nevědělť ovším , že žena jeho posud žije ; ta pak prozradila , že zle s ní nakládal a jakos jiné osobě již sňatek slíbil , pročež že ji takto hleděl odstraniti . Nebohá žena podlehla utrpeným ranám v několika hodinách .",
+    "end_position": [
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1271.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "25;25"
+    ],
+    "start_position": [
+      25
+    ],
+    "data_source": "NER",
+    "file_name": "004748_1887_uuid-15a7e340-b5b0-11df-b43d-0013d398622b__r007.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "b ) Zápis , zkoušky a poplatky . Zápis do II . a III . ročníku je ve dnech 25 . a 26 . června 1931 . Zápis a přijímací zkoušky do I . ročníku jsou v úterý dne 30 . června a bu - de - li třeba dne 1 . a 2 . září 1931 vždy od 8 — 12 hod . dopoledne v budově Pöttingea . Zkouška koná se z češtiny a z počtů . K zápisu přijdou dív - ky s otcem nebo matkou nebo jejich zástupcem a přinesou si jako doklady domovský , křestní ( rodný ) list a poslední vysvědčení školní ze 3 . nebo 4 . tř . školy měšťanské nebo 4 . třídy školy střední . Dívky , které nepřicházejí z ústavů veřejných nebo soukromých s právem veřejnosti , musí předložiti vysvědčení zachovalosti . Zápisné činí Kč 10 . — , příspěvek pomůckový Kč 20 . — , školné stanoveno pro - zatím takto : v I . roč . Kč 300 . — , v II . roč . Kč 350 . — , v III . roč . Kč 400 . ročně . Zkoušky opravné a dodatečné vykonají se ve dnech 1 . a 2 . září 1931 od 8 — 12 hod . dopoledne . Vyučování začne dne 3 . září 1931 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1292.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "004848_1931_uuid-9bc86104-1a12-42f2-96db-9561bc549ae0__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Telegrufické zprůvy . Bitva karpatská . Z Budapešti , 24 . března . ( Zvl . tel . ) V » Pester Lloydu « se oznamuje : Velká bitva karpatská trvá dále . Boje ko - lísají sem a tam a nějaké rozhodnutí ještě nelze očekávati .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1339.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "005148_1915_uuid-0a6fab1b-0055-11e7-a024-92f789bb8157__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Václav 29/21695 Zuzana 36/%1704 Skřivancová Anna — 18/41685 ( 90 ) Skřivancová Magdalena , — 11/121690 ( věk neud . ) dc . J . Skřivanec Václav + 28/11689 + Dražná Anna , dc . J . z NV .",
+    "end_position": [
+      26,
+      31,
+      12,
+      5,
+      2,
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1389.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "25;26",
+      "30;31",
+      "11;12",
+      "4;5",
+      "2;2",
+      "0;0"
+    ],
+    "start_position": [
+      25,
+      30,
+      11,
+      4,
+      2,
+      0
+    ],
+    "data_source": "NER",
+    "file_name": "005448_1901_uuid-9bb024bf-ed39-419d-93f6-ac62b0fa2369__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Pravomoc výroční valné schůze MO stanoví po - drobně jednací řád MO . Výjimečně svolá mimořádnou valnou schůzi MO předsednictvo 0O v případě , kdy výbor MO po delší dobu přes všechny upomínky a výzvy neprojevuje činnosti , a provede v této schůzi ná - pravu , a to i případnou obnovou výboru MO ( čl . IV . , odst . 4 ) . Rovněž výjimečně svolá předsednic - tvo 0O mimořádnou valnou schůzi MO , jestliže tak nařídí předsednictvo krajské rady nebo širší výkonný výbor strany a určí pořad jednání takové mimořádné valné schůze .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1430.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "005648_1946_uuid-3b52aa16-abb6-469f-a86c-b3067b000e91__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "KAREL NACHTIGALL , brašnář v Praze Ferdinandova tř . č . 60 - II . ( Choděrova Plzeňská pivnice ) .",
+    "end_position": [
+      16
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1482.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "16;16"
+    ],
+    "start_position": [
+      16
+    ],
+    "data_source": "NER",
+    "file_name": "005948_1888_uuid-5bddac9b-c395-4e55-bac6-5125f8568012__r008.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "3 . ) Zajištění ubytování červené strany ( 10 . pěší divi - se ) - viz přílohu čís . 2 . - bylo provedeno čarou předních strá - ží Berenč - Dol . Taráň - Jattov mjr . - Nový Degeš mjr . - kota 121 ( asi 1 1/2 km jihových . Tardošked ) - Anna mjr . - Svinský host . - Bankesi , - hodnotou 1 praporu a 1 děl . oddílu u každé brigády , Hranice mezi brigádami : Malomseg - Tomác mjr . - M . Jat - tov a těžiště odporu : pro 19 . pěší brig . směr Komjatice - Ke - sov a pro 20 , pěší brig . směr Šurany - Tardošked . Mimo to by - lo 20 . pěší brig . zvlášť uložené střežiti směr Ersekújvár - Udvard - Bešeňov - Dol . Ohaj , Podle všeobecné situace mohla červená strana předpokládati , že snad dojde jen k nájezdům a průzkumu ne - přátelského jezdectva neb obrněných aut , ne ale k ohrožení ubytovacího dispositivu většími silami , dále že sama bude 22 . /8 . jistě postupovati . Jednalo se tedy jen o zajištění pro jednu noc a za jednoduchých taktických podmínek . Správně byly tedy chráněny jen hlavní směry . Volená čára však nesleduje všude komunikační uzle ,",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1503.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "006048_1929_uuid-23f9bc80-30e7-11eb-a034-5ef3fc9bb22f__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "3 . Dovolená : Bezplatnou zdravotní dovolenou po celý rok měla státní učitelka Kramrová Marie ( výn . min . šk . a nár . osv . ze dne 14 . srpna 1926 , č . 83 . 357/III ) . Dovolenou pro nemoc od 1 . února 1927 do 30 . dubna 1927 měla státní uč . Trmalová Julie , ( výnos min . šk . a nár . osv . ze dne 11 . března 1927 , č . 28 . 222/III ) a od 10 . dubna 1927 do 31 . srpna 1927 státní uč . Bezděková Terezie ( výnos min . šk . a nár . osv . ze dne 18 . března 1927 , č . 30 . 268/III ) .",
+    "end_position": [
+      14,
+      59,
+      100
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1526.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "12;14",
+      "58;59",
+      "98;100"
+    ],
+    "start_position": [
+      12,
+      58,
+      98
+    ],
+    "data_source": "NER",
+    "file_name": "006148_1927_uuid-ae68a578-0f65-4ad0-bbf7-a62a05a8ed00__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "1426 až do hor za Krupkau a Kyšperkem , kdežto na jedné hromadě našlo se prý přes tři sta rytířůw pobitých , 55 Čechowé zajisté ze společné umluwy nežiwili toho dne nižádného Němce , ba když sám pan Jakaubek ze Wřeso - wic , chtěje zachowati pana Waldenberka z Wolkenšteina , wzal jej byl za sebe na koně , drábi Táborští uzřewše to , prostřelili jej za ním , tak že padaje bylby bezmála i Ja - kaubka s koně strhl a o žiwot připrawil . Pročež bylotě nadarmo , že hrabat a pánůw čtyrmecítma u wsi Hrbowic pod korauhwí swau poklekli před wítězy a wstrkawše meče swé w zemi , prosili o milost ; také ti , kteří do wsí Předlice a Hrbowic se utekli , jsau tam wšichni spáleni . I zahynulo toho dne wíce lidu , nežli we kterékoli jiné bitwě husitské , a to až ku patnácti tisícům , 56 mezi ni - miž ze jména hrabata Ernst a Fridrich z Gleichen , Jindřich z Hartenšteina , Proce z Querfurtu , hrabě z Beich - lingen a jiné wzácné osoby ; se strany české ale ztráta udáwá se jen 30 mužůw , mezi nimiž Jan Bradatý , při smrti krále Wáclawowě býwalý purkmistr Pražský , byl nejznamenitější . Také wšecky wozy , pušky a 66 stanůw německých padly do rukau Čechům , kteřížto ausměšným",
+    "end_position": [
+      38,
+      163,
+      161,
+      167,
+      171,
+      199,
+      204
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1606.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "38;38",
+      "163;163",
+      "161;161",
+      "167;167",
+      "171;171",
+      "198;199",
+      "204;204"
+    ],
+    "start_position": [
+      38,
+      163,
+      161,
+      167,
+      171,
+      198,
+      204
+    ],
+    "data_source": "NER",
+    "file_name": "006648_1851_uuid-7fa31414-a48d-478f-9a8a-05b34f44358a__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Ó blaze mi na té hrudi ! Aj , co lásky ve mně budí Ku nebeské potěše Láska tvá , můj Vojtěše !",
+    "end_position": [
+      21
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1624.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "21;21"
+    ],
+    "start_position": [
+      21
+    ],
+    "data_source": "NER",
+    "file_name": "006748_1874_uuid-31310131-09f2-4de5-8fd4-b159b67f67c1__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Nábytek důkladně pracovaný , jed - noduchy i přepychový v cenách levných , se záru - kou vyrábí a hojně na skladě má Jan Procházka , Královské Vinohrady , Šumavská ul . čís . 25 .",
+    "end_position": [
+      24
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1654.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "23;24"
+    ],
+    "start_position": [
+      23
+    ],
+    "data_source": "NER",
+    "file_name": "006948_1911_uuid-e70498f0-034f-11eb-b636-005056825209__r023.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Okresní hejtmanství : Krumlov .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1699.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "007248_1913_uuid-01b392a0-ba3d-11dd-86db-000d606f5dc6__r007.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "mistr truhlářský z Prahy - Žižkova , člen Společenstva mistrů truhlářů v Praze . Narozen 9 . května 1895 . Zatčen 24 . dubna 1940 s manželkou pro pomáhání illegálním pracovníkům při odchodu za hranice , vězněn v Sachsenhausenu , vrátil se 9 . května 1945 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1717.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "007348_1947_uuid-b8691350-312f-11eb-9210-5ef3fc9ae867__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "31 . Skřínka . PRŮKOPNÍK ČESKÝCH HER V STAVOVSKÉM DIVADLE JAN ŠTĚPÁNEK . Vlastenci aneb zpráva o vítězství . 1813 . 1 . 2 . Břetislav první , český Achilles , aneb vítězství u Domažlic . 1813 . 3 . Osvobození vlasti aneb Korytané v Čechách . 1814 . 4 . Jaroslav a Blažena aneb Hrad Kunětice . 1816 . 5 . Nebožka paní aneb tři ženichové a jedna nevěsta . 1816 . 6 . Čech a Němec . 1816 . 7 . Tlachač . Fraška ve 2 jedn . 1816 . 8 . Faust , aneb : Tak se krotějí zlé ženské . 1817 . 9 . Berounské koláče . Veselá hra o 1 jedn . 1818 . 10 . Tintilivantili , aneb : Ať se to žádný nedozví ! 1819 . 11 . Loupežníci na Chlumu . ( 2 . vyd . Hradec Kr . ) 1820 . 12 . Don Juan . Zpěvohra ve 2 jedn . Hudba od A . V . Mozarta . 1825 . 13 . Nápoj lásky . 1840 . 14 . Strejček Hurlivurli , aneb : Co láska uchvátí , nerada navrátí . 1840 .",
+    "end_position": [
+      153,
+      11,
+      29,
+      26,
+      51,
+      53,
+      180,
+      166
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1736.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "153;153",
+      "10;11",
+      "29;29",
+      "25;26",
+      "51;51",
+      "53;53",
+      "180;180",
+      "161;166"
+    ],
+    "start_position": [
+      153,
+      10,
+      29,
+      25,
+      51,
+      53,
+      180,
+      161
+    ],
+    "data_source": "NER",
+    "file_name": "007448_1916_uuid-6843ef53-2398-40ab-81b5-f483c6007179__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "3 . Z jazyka francouského . Ve třídě V . 1 . Richard Bresson . ( Reproduction . ) 2 . Les druides . ( Con - tenu . ) 3 . Le chalumeau . ( Questionnaire . ) 4 . Départ des croisés en 1096 ( Questions et reponses . ) 5 . La perdrix . Reproduction . ) 6 . Le prix de la générosité . ( Reproduction . ) 7 . Le petit marmiton . ( Reproduction . ) 8 . Les Béarnais et les Basques . ( Contenu . ) Jos . Špaček . Ve třídě VI . 1 . Charles XII . blessé à Pultawa . ( Reproduction ) . — 2 . Une aventure de Georges Cuvier . ( Sommaire . ) — 3 . Excellent examen .",
+    "end_position": [
+      106,
+      13,
+      96
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1769.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "104;106",
+      "12;13",
+      "94;96"
+    ],
+    "start_position": [
+      104,
+      12,
+      94
+    ],
+    "data_source": "NER",
+    "file_name": "007648_1911_uuid-4d8de21c-e7cf-4012-a16a-cec837f5e734__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Týden v inventáři . Rodinný obrázek od Josefa Havlíka .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1801.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER",
+    "file_name": "007848_1885_uuid-d888c3c4-ff20-4f2e-a2d8-a771fd998dae__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Jeho wolení . Jednota proti němu . Kníže Kunrat II Znojemský . Bitwa u Wysoké . Obležení Prahy . Kunrat III w Čechách . Papežský legat Guido . Biskup Jindřich Zdík a knížata Morawští . Křížowá wýprawa do Pa - lestiny . Nowí klášterowé w Čechách . Fridrich I Barbarossa ; powýšení Rakaus . Wladislaw stal se králem . Wýprawa proti Milánu . Biskup Daniel . Schisma . Wýprawa proti císaři Emmanuelowi . Spory s císa - řem Fridrichem I . Král Wladislaw odřekl se trůnu ; jeho smrt .",
+    "end_position": [
+      30,
+      20,
+      9,
+      26,
+      64,
+      54,
+      71,
+      80,
+      82,
+      49
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1835.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "29;30",
+      "19;20",
+      "8;9",
+      "26;26",
+      "64;64",
+      "54;54",
+      "71;71",
+      "78;80",
+      "82;82",
+      "47;49"
+    ],
+    "start_position": [
+      29,
+      19,
+      8,
+      26,
+      64,
+      54,
+      71,
+      78,
+      82,
+      47
+    ],
+    "data_source": "NER",
+    "file_name": "008048_1854_uuid-f84df0aa-2f24-4235-8e6a-8fcec584642a__r004.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "nejoddanější Julie Mokrých .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1853.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ],
+    "data_source": "NER",
+    "file_name": "008148_1867_uuid-6279bd66-4525-430d-b7ed-e9c79f2d80f2__r004.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "stříbrnou medailli statečnosti I . třídy . V celé válce vyznamenával se šikovatel Hollas zvláštní zmužilostí a odhodlaností . Dne 3 . července roku 1866 . v obci Přímu osvědčil se svojí četou při obsazení a bránění jednoho domu velikou obezřelosť a ráznosť ; když konečně byl přinucen dům ten opustiti , táhl v největší palbě ale také v největším pořádku se svou četou nazpět . Hollas zachránil také jednoho muže , který byl těžce raněn od zajetí , vzal jej totiž na ramena a tak dlouho jej nesl , až konečně jej na dělo okolo jedoucí mohl naložiti . U labského přechodu zachránil Hollas zase dva vojíny pluku před smrtí utonutím tím spůsobem , že pomocí své ručnice , kterou jim podal , je s námahou z vody vytáhl , ačkoliv byl sám plnou výzbrojí obtížen .",
+    "end_position": [
+      104,
+      66
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1870.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "104;104",
+      "66;66"
+    ],
+    "start_position": [
+      104,
+      66
+    ],
+    "data_source": "NER",
+    "file_name": "008248_1893_uuid-4a8ce188-f5bf-4afa-848d-02b45a198c2a__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Oznamovatel . podsudní pro hostinec blíže Prahy . Kauce . Nabídky přijíma s ochoty pod šifrou A , 4 . Adm . t . 1 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1900.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "008448_1881_uuid-10506b78-fc5a-4a88-9f68-523dc02207dc__r008.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "1 . Pokud jest obnosy v markách přepočítati na měnu českosloven - skou , stanoví se prozatím přepočítávací kurs 1 marka = 1 Kč . Ustanovení přepočítávacího kursu stane se později a budou pak případné větší ná - roky , z definitivního ustanovení kursu vyplývající , uspokojeny . 2 . Úprava pensijního , starobního a invalidního pojištění a pojištění pozůstalých zaměstnanců pruských státních drah provedena bude zvlášt - ními předpisy .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1960.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "008748_1920_uuid-a186f730-7d61-11ed-a781-5ef3fcdaa9a7__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Jako osobní karaktér tak i karaktér každého národa a každé církve má své přednosti i své nedostatky . Protestantství , snažíc se k očistění víry v pyšném sebe - vědomí své pravdy dochází až k opovr - hování cizí vírou , již stotož ňuje s nepravdou . Pravoslaví daleko jest takového fanatismu . Snášenlivosť ke každé víře jest vrozena národní povaze ruské . — Nikde tak jak v církvi neobjevuje se rozdíl mezi společenským duchem a pova - hou národa jako na příklad mezi anglo - saským a ruským plemenem . V anglickém chrámě ruský č ověk myslí si : je zde mnoho krásného , ale přece jak jsem rád , že jsem se narodil a žiju na Rusi . Chrámová spo - lečnosť v anglickém chrámě jest vybraná , slavnostní , jest to shromáždění lady a gentlemenů , každá osoba má své místo , boháči dokonce svá oddělená seda - dla jako lože . Tu obráží se různosť stavů a",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1979.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "008848_1896_uuid-9caaa804-6789-411d-9e76-3208797408f8__r008.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Včelička . Včelko , ty včelinko rozmilá ! kdes pak se med dělat učila ? — kdo ti to pověděl , že tady rozkvetly již luka i sady ? kdo ti tu ty hody přistrojil , květinky medíčkem osladil ? víš - li pak , kdo tě tak miluje ? Pán Bůh je to , jenž ti vše daruje . Padesáte bájek 1848 .",
+    "end_position": [
+      51
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2046.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "50;51"
+    ],
+    "start_position": [
+      50
+    ],
+    "data_source": "NER",
+    "file_name": "009248_1862_uuid-6effc6ec-8197-4ba6-a553-fc692a65b99e__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "1 ) Chron . Aulae reg . ap . Dobner , V , 466 . Chron . Francisci Prag . ibid . VI , 257 . 2 ) Oheň byl jej dáwno ztráwil , aniž od té doby znowa byl wystawen , jakož swědčí Chron . Aulae reg . 1 . c . 3 ) Líčení o tehdejším stawu Čech , jakowé podáwá Karel IV sám we swém žiwotopisu ( Vita Caroli quarti ap . Böhmer , I , 246 sq . ap . Freher . p . 94 ) , jest prawé a mnohem důklad - nější , nežli o které pokusil se z nedorozumění F . M . Pelzel ( Leben Karls IV , 1780 , I , 44 — 46 ) . A ještě důkladněji a ži - wěji pronáší se Karel IV o přílišné zašlosti země České w úwodu ke swé „ Majestas Carolina “ ( wiz Archiv Český , III , 68 — 75 ) , kdežto dotýkaje králowa bezmocí za příčinau",
+    "end_position": [
+      17,
+      135,
+      110,
+      9,
+      64,
+      71,
+      84,
+      114
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2098.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "17;17",
+      "134;135",
+      "106;110",
+      "9;9",
+      "63;64",
+      "71;71",
+      "84;84",
+      "113;114"
+    ],
+    "start_position": [
+      17,
+      134,
+      106,
+      9,
+      63,
+      71,
+      84,
+      113
+    ],
+    "data_source": "NER",
+    "file_name": "009548_1877_uuid-83656aa8-db91-4edb-b922-2158fd2e6e39__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "věky , jak mile trouby hlas zazněl . “ — A ten hřbitov co je to za po - divná zahrada ! Sází se tam těla naše co přísada nadějná , příroda Boží přikrývá jich zeleným drnem , a svatý kříž jestiť znamením budoucího vzkříšení . Neboť ten , jenž na něm visel a z mrtvých vstal , volá k nám až posavad : „ Já jsem vzkříšení i život ; kdo věří ve mne , byť i umřel , živ bude na věky . “ ( Jan 11 , 25 . ) — Z toho ze všeho zdáž se spolu neučíme , že i my máme míti svá těla v poctivosti a vážnosti , a že všemožně se starati a přispívati máme ku zvelebení našich hřbitovů ? Vždyť tam chceme sladkého požívati pokoje , a očekávati slavného vzkří - šení . Tam mají často chodívati pozůstalí naši bratří a za duše naše po - božně se modliti na hrobech našich .",
+    "end_position": [
+      32,
+      87
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2133.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "32;32",
+      "87;87"
+    ],
+    "start_position": [
+      32,
+      87
+    ],
+    "data_source": "NER",
+    "file_name": "009748_1858_uuid-4d2402eb-b873-4deb-95c9-e08da6100bff__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "K dosažení jeho má výbor zemský království Če - ského ihned , jakmile dojde Nejvyšší rozhodnutí , kterým Jeho c . a k . Apoštolské Veličenství ustanoví Akademii protektora , navrhnouti řadu způsobilých osobností . První členové ti , jakmile dojde Nejvyšší jejich jmenování , provedou pod předsednictvím protektora nebo náměstka jeho většinou dvou třetin postupně volbu ostatních členů řádných až do tří čtvrtin počtu urče - ného pro každou třídu , načež mohou býti zvoleni čle - nové čestní až do polovice počtu ustanoveného v § 7 . Po Nejvyšším potvrzení čestných členů , budou - li jací zvoleni , provede se volba předsedy Akademie , před - sedů třídních a generálního sekretáře . Když budou schváleny volby těchto funkcionářů , svolá předseda zvláštní volební shromáždění , aby se o tom usneslo , pokud se předsevzíti mají volby ostatních členů ; na to provedou se v mezích řečeného usnesení tyto volby a ještě pak volby ostatních funkcionářů . Po volbách takto provedených ustaví se pak Aka - demie ve veřejném slavnostním valném shromáždění k tomu účelu svolaném .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2202.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "010148_1908_uuid-b9ba2bc9-4d60-40ee-b52e-3083979bf0e9__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "30 . Co zvláště předpověděli proroci o Vykupiteli ? Proroci předpověděli o Vybupiteli zvláště : 1 . že se narodí v Betlemě , a to z panny ; — 2 . že to bude sám Bůh všemohoucí ; — 3 . že umře bolestně za všechny lidi , po smrti však bude oslaven . Narodí se . „ A ty , Betleme v zemi judské , nikoli nejsi nejmenší mezi knížecími městy judskými ; neboť z tebe vyjde vévoda , který spravovati bude lid můj izraelský . “ ( Mat . 2 , 6 . ) „ Ejhle , panna počne a porodí syna , a zván bude jménem Emmanuel “ ( to znamená : s námi Bůh . Is . 7 , 14 . )",
+    "end_position": [
+      12,
+      7,
+      35,
+      109,
+      117
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2237.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "12;12",
+      "7;7",
+      "35;35",
+      "109;109",
+      "117;117"
+    ],
+    "start_position": [
+      12,
+      7,
+      35,
+      109,
+      117
+    ],
+    "data_source": "NER",
+    "file_name": "010348_1930_uuid-57e5bb59-581e-41f3-b078-10abf5784e8f__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "114 . PŘÍCHOD JARA , olej , plátno , 52 . 5 X 40 cm , r . 1907 . 115 . I POD ZACHMUŘENÝM NEBEM KVETE MÁK , olej , karton , 37 x 28 cm , r . 1896 . 116 . U RYBNÍKA , olej , karton , 67 x 33 cm , r . 1895 . 117 . PO DEŠTI V KVĚTNU ( U Milesimova ) , akvarel - kvaš , karton , 29 X 23 cm , r . 1906 . 118 . KUNĚTICKÁHORA , olej , karton , 41 x 22 . 5 cm , r . 1903 . 119 . NA POTOCE POD JESTŘABÍM , olej , plátno , 38 x 28 cm , r . 1893 . 120 . NA CHRUDIMCE U BOJANOVA , olej , karton , 50 . 5 X 33 cm , r . 1896 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2320.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "010848_1941_uuid-78d3ef30-17dc-11e9-b308-5ef3fc9ae867__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "5 . září přišel si Horák k vlastní dceři 34leté švadleně Marii Horákové do Přepeř pro nájemné za tři roky . Ta uplatňujíc jistou protipohledávku , říkala otci , že má dostat jen 92 Kč a nikoliv , jak on žádá , 902 Kč . To Horáka rozčililo tak , že vle - pil dceři políček a tahal ji za vlasy . Horákové u - chopila pak na okně talíř , mrštila jím po otci a zasáhla ho do obličeje . V zápětí nato se zmocnila také židle , kterou po otci rovněž hodila a její no - hou ho zasáhla také v obličeji . Výsledkem boje byly krevní podlitiny , oděrky a žaloba na Horá - kovou pro zločin podle § 152 tr . z . Poněvadž se Horák svědectví proti vlastní dceři vzdal , vynesl samosoudce r . z . s . Januška rozsudek osvobozují - cí . Žalobu zastupoval prokurátor dr . Soldát .",
+    "end_position": [
+      5,
+      144,
+      129,
+      62,
+      46,
+      12,
+      155
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2337.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "5;5",
+      "144;144",
+      "129;129",
+      "62;62",
+      "46;46",
+      "10;12",
+      "153;155"
+    ],
+    "start_position": [
+      5,
+      144,
+      129,
+      62,
+      46,
+      10,
+      153
+    ],
+    "data_source": "NER",
+    "file_name": "010948_1934_uuid-9a5aa1b1-4980-41af-96c9-9322aaa08f7b__r026.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Prá Turpin : » Máte svoje slova skrz olověné síto sní — íst . : tu přiloží mu pistol k ústům , v chřtán vypálí mu její pí - íst . Nemaje kočí také práce rád , ujížděl v trysku ztad , však Dick mu vrazil v leb pár kulí v chvat a přinutil ho stát . ( SBOR sarkasticky . ) Však Dick mu vrazil v leb pár kulí v chvat",
+    "end_position": [
+      1,
+      43,
+      63
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2390.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "43;43",
+      "63;63"
+    ],
+    "start_position": [
+      0,
+      43,
+      63
+    ],
+    "data_source": "NER",
+    "file_name": "011248_1898_uuid-f53a6917-e651-4c13-927d-ec8f2d6a24c1__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "90 . Snida , snidka , y , f . , ploská skyva chleba , ein flaches Schnitzlein Brod . Plk . Snídal , a , m . , osob . jm . Šd . Snídálek , lka , m . , wer gern frühstückt . Snídaň , č , f . , šp . místo : snídaně , sní - daní , vz Šnídaní . Snídaní , í , n . , v některých krajinách v ob . mluvě : snídaně , č , f . ( ve vých . Čech . , u Ra - kovníka ) , na mor . Zlínsku : sňdaní . Vz N . Brt . Das Frühstück . Přešlo i do němčiny : Gei eine schnitaine ( jdi do sednice snídat ) . Us . v Chebsku . Dch . Lépe : snídaní . Jg .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2506.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "011948_1882_uuid-545fa0a2-cf35-450e-844d-0685ed2def8f__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "JAROSOV . Taj . pošt . úřadu J . Vobiš , jenž pů - sobil do prosince v J . Hradci a pak byl prozatímně pověřen vedením pošt . a tel . úřadu v Jarošově , byl v minulých dnech jmenován přednostou tohoto poštov . úřadu .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2525.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;9"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER",
+    "file_name": "012048_1942_uuid-76a546a8-435f-11dd-b505-00145e5790ea__r007.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "ZPRÁVY Z LÉKAŘSKÝCH SPOLKŮV A SJEZDŮ . Spolek českých lékařů v Praze Program schůzí Spolku českých lékařů : 1 . V pondělí dne 12 . ledna 1925 přednáška prof . dr . K . Chodounského : Zkušenosti o na - stuzení ze světové války . 2 . V pondělí dne 19 . 1edna 1925 přednášky a demonstrace z I . interní kliniky prof . dra Lad . Syl - laby : a ) As . dr . K . Weber : Parasystolie . Několik po - známek k » mechanismu « vzniku extrasystolie . b ) as . dr . Jiří Scheiner : Toxické látky v moči . c ) Demonstrace klinické . 3 . V pondělí dne 26 . 1edna 1925 přednáška as . dra Mentla : Differenciální diagnostika Flintova příznaku . 4 . V pondělí dne 2 . února 1925 valná hroma - da Spolku českých lékařů . 5 . V pondělí dne 9 . února přednáška as . dra Kreisingera : O léčení osteomyelitid autovakcinou . 6 . V pondělí dne 16 . února 1925 . Přednáška as . dra Saidla III . porodnická klinika ) : O sepsi puerperální .",
+    "end_position": [
+      121,
+      101,
+      79,
+      69,
+      34,
+      126,
+      130,
+      183,
+      162
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2578.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "118;121",
+      "96;101",
+      "73;79",
+      "62;69",
+      "28;34",
+      "122;126",
+      "130;130",
+      "180;183",
+      "159;162"
+    ],
+    "start_position": [
+      118,
+      96,
+      73,
+      62,
+      28,
+      122,
+      130,
+      180,
+      159
+    ],
+    "data_source": "NER",
+    "file_name": "012348_1925_uuid-24e766dd-9d99-11e5-b62c-d485646517a0__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Kapitán Hull , zkušený velrybář , nemohl ničeho po - nechati pouhé náhodě . Lov jubarta je vždycky podnikem obtížným , při něm nesmí se zanedbati žádné opatrnosti . Zde se to ovšem také nestalo . Nejprve obrátil se kapitán Hull tak , že přišel vel - rybě pod vítr , * ) aby jí neprozradil žádným zvukem , že člun se blíží . Howick řídil tedy lodici stále podél rozsáhlého oblouku oněch rudých vln , v jichž středu plul jubart . Tím ho hleděl obeplouti . Tento nadlodník , plavec neobyčejně chladné krve , požíval úplné důvěry kapitána Hulla . Od něho nebylo se obávati žádné nerozhodnosti , aniž jakési roztržitosti . „ Řiďte pozorně loď , Howicku ! “ napomínal kapitán , „ pokusíme se překvapiti jubarta . Nesmí nás dříve spatřiti , až ho bude moci harpuna zasáhnouti . “ „ Dobře , pane kapitáne ! “ odvětil nadlodník . „ Popluji stále po kraji rudé vody , abych byl vždy pod větrem . “ „ Nuže ! Hoši co nejméně hřmotu při veslování ! “ Vesla brázdila bez hluku vodu .",
+    "end_position": [
+      1,
+      40,
+      64,
+      99,
+      118
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2593.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;1",
+      "40;40",
+      "64;64",
+      "99;99",
+      "118;118"
+    ],
+    "start_position": [
+      1,
+      40,
+      64,
+      99,
+      118
+    ],
+    "data_source": "NER",
+    "file_name": "012448_1884_uuid-73733936-e418-4344-bd6d-012a7e635ca5__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Tržní zprávy . Z Napajedel , 30 . září . ( Tržní ceny . ) Prodáno bylo 483 q ječmene za kor . 12 . 40 — 13 . 40 , 6 q žita za 13 . — — 13 . 50 , 33 q ovsa za 11 . — až 12 . — , — q pšenice za — . — — — . — , 14 q bram - borů za 3 . — — 3 70 . Vepřového dobytka přivezeno bylo 270 kusů . Cukr . Ve Vídni , 2 . října . ( Zvl . tel . ) Surovina kor . 18 . 05 peníze , kor . 18 . 75 zboží , — Rafináda kor . 84 . 75 peníze , kor . 85 . — zboží . Líh . Ve Vídni , 2 . října . ( Zvl . tel . ) Pohotový kor . 39 . 60 peníze , kor . 40 . — zboží .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2616.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "012548_1902_uuid-3763112a-2cae-46d1-b6c1-cdb51722ab25__r013.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "VČELA MORAVSKÁ ORGÁN ZEMSKÝCH ÚSTŘEDÍ SPOLKŮ VČELAŘSKÝCH PRO MORAVU , SLEZSKO A PODKARPATSKOU RUS .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2633.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "012648_1932_uuid-ddfe5da6-1e67-40b7-a24e-bd1fe3109acf__r000.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "tehdejšího vrchního štampfa vdově Marii Isabelle Černínové plány k stavbě nového Jemčínského dvora , jejichž autorem byl pražský stavitel Jakub Schedl . Rozpočet zněl na 2 . 414 zl 21 kr za zednické práce ; tesařské práce za 760 zl svěřeny mistru Jakubu Princovi , kamenickou dodal za 316 zl — 18 zl kamenický mistr Šebestian Steyerer , stavebního materiálu padlo za 2300 zl . zednická práce vyšla na 2669 zl 18 kr Zachovaly se vlastně dva základní plány ; podle jednoho , aprobovaného hra - běnkou 1 . března 1711 , obytné stavení , kolna a ratejna byly v jednom pořadí . Celý dvůr skládal se ze tří jednodu - chých podlouhlých budov , z nichž jedna byla dvoupatrová a spolu všechny tři vzájemně tvořily dva dvory . 26 ) Hlavní bu - dova byla dlouhá 49 sáhů , široká 7 2/8 , stáje s kolnou pro kočáry 131/2x 7 , pro - tější stodola na obilí 322/2X7 ; panský dům měřil 131/2x7 . Stavba nepostupo - vala dosti správně ; ještě r . 1746 30 . XII . stěžoval si vrchní Stumpf , že v Zadním a Jemčínském dvoře má voly docela odřené , poněvadž musí v zimě v létě 9 párů vozit materiál na stavbu Jemčín -",
+    "end_position": [
+      6,
+      20,
+      43,
+      56,
+      183
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2669.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;6",
+      "19;20",
+      "42;43",
+      "55;56",
+      "183;183"
+    ],
+    "start_position": [
+      4,
+      19,
+      42,
+      55,
+      183
+    ],
+    "data_source": "NER",
+    "file_name": "012848_1939_uuid-76842a07-435f-11dd-b505-00145e5790ea__r011.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Co nám pčinest měsíc máj č . 1940 . Každá květinka vstala a obživla a má se k životu , jen naše ubohé ovocné strom - ky , které jsme po deset roků pěstovali v našich zahrádkách a sadech , ly se nám nechtějí probudit a rašit . Tak máme po radosti i vznikly nám tím nenahraditelné škody . Některé hrušky i přes 50 roků staré jsou též zničeny . Nejvíce to odnesly hruškové stromy , mladé i staré , ity , které předržely rok 1929 . Jsem již 60 let od - borníkem a milovníkem přírody a nepa - matuji takové zničení ovocných i okras ných stromů jako letos . Hrušek je zniče - čeno 90% , jabloní 300 , švestek 500 . Zvláště šlechtěné třešně zápolí se životem a zkázou i polovina jich na květ vůbec ne - nasadila I polovina ovocných školek je zničena . Merunky a broskve jsou zničeny úplně . Konečně dosah zkázy se ukáže v",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2720.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "013148_1940_uuid-769345f5-435f-11dd-b505-00145e5790ea__r006.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Řeči mlynářově Jak náleží smál . » Což pak tobě , Milý brachu , vece král , Za to potěšení Své i mysli vyražení Dáti mám ? Buď na místě Všebojově ! Nechť pak tvůj pan Vaněk sám Na oslíku sedě Městem jede . Čili nemá , kdo chce žíti , Také síti ? « » Chraň bůh ! to se nemůž státi , Praví Strýc , vždyť neumím Ani čísti ani psáti . Tohoť si však vyprosím , ( Neboť tím nic nezkazíte , Ani země neschudíte , ) Aby dnešní lesť Na jevo se nedostala , Alebrž se všecka česť Panu Všebojovi vzdala . « Král dal Vaňku poručení , Aby Strýce k sobě vzal ; Hojné jemu vyživení Do nejdelší smrti dal . Pak že Všeboj na otázky Odpovídal bez překážky , Všudy se to rozhlásilo , Slávu jeho rozmnožilo .",
+    "end_position": [
+      109,
+      103,
+      36,
+      57
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2777.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "109;109",
+      "103;103",
+      "36;36",
+      "57;57"
+    ],
+    "start_position": [
+      109,
+      103,
+      36,
+      57
+    ],
+    "data_source": "NER",
+    "file_name": "013448_1852_uuid-7063dcd4-0b7e-41ff-840c-bf277a3efb65__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "členů Kinter Marcus , dr . , Raj - hrad 3 Knížek Jan B . , Libáň 33 Knüpfer Alfred , Broumov 11 Kober I . L . , Praha 34 Kopřiva J . F . , Pelhřimov 9 Kormout Lud . , Ústí nad Orlicí 23 Kotzura Karel , Klatovy 12 Kostka Č . , Zahrádka 3 Kračelík , Uh . Hradiště 5 Krause F . , Jílemnice 65 Kriegler F . , Jaroměř 13 Krušina J . , Červený Ko - 6 stelec Křeček J . , Česká Skalice 25 Křepelka J . , Končanice 4 Kučera J . , Napajedly 3 Kuchta T . , Orlov 11 Kupka J . , Třebechovice 18 Kvasnička J . V . , Třeboň 32 Lahodný , Popovice 3 Lácha M . J . , Netolice 20 3 Leger F . , Lužany Leicht B . , Budohostice 12 Liblinský J . , Královice 13 Linder Frant . , Jindřichův Hradec 22 3 Lípa , spolek Lipník Lodr Jan , Choceň 13 Louda V . , Hor . Bučice 43 Lvovský B . , Pětipsy 4 Maasch Kar . , Plzeň 7 Macoun Jan , Znojmo 10 Maixner J . , Hořice 40 Malina J . , Jaroměř 48 Manetín , okr . výbor 4 Maňhal Jak . , Mdr . Jinec 17 Mařan J . , Újezd Svijanský 11 Máša M . , Tišnov 23 Mášl J . , Vídeň 5 7 Matěna J . , Dvůr Král . 27 Mayer D . , Libochovice",
+    "end_position": [
+      252,
+      243,
+      237,
+      231,
+      224,
+      216,
+      208,
+      204,
+      198,
+      192,
+      27,
+      35,
+      41,
+      48,
+      53,
+      58,
+      66,
+      72,
+      78,
+      87,
+      94,
+      100,
+      106,
+      112,
+      120,
+      124,
+      132,
+      19,
+      14,
+      139,
+      187,
+      181,
+      173,
+      167,
+      156,
+      150,
+      144,
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2834.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "250;252",
+      "242;243",
+      "235;237",
+      "229;231",
+      "222;224",
+      "214;216",
+      "208;208",
+      "202;204",
+      "196;198",
+      "191;192",
+      "23;27",
+      "31;35",
+      "39;41",
+      "47;48",
+      "52;53",
+      "58;58",
+      "64;66",
+      "70;72",
+      "76;78",
+      "85;87",
+      "92;94",
+      "98;100",
+      "104;106",
+      "110;112",
+      "116;120",
+      "124;124",
+      "128;132",
+      "18;19",
+      "11;14",
+      "137;139",
+      "185;187",
+      "179;181",
+      "171;173",
+      "166;167",
+      "154;156",
+      "148;150",
+      "142;144",
+      "1;5"
+    ],
+    "start_position": [
+      250,
+      242,
+      235,
+      229,
+      222,
+      214,
+      208,
+      202,
+      196,
+      191,
+      23,
+      31,
+      39,
+      47,
+      52,
+      58,
+      64,
+      70,
+      76,
+      85,
+      92,
+      98,
+      104,
+      110,
+      116,
+      124,
+      128,
+      18,
+      11,
+      137,
+      185,
+      179,
+      171,
+      166,
+      154,
+      148,
+      142,
+      1
+    ],
+    "data_source": "NER",
+    "file_name": "013748_1879_uuid-1096eca5-483a-4db2-ba04-00cbe965af0c__r003.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Kalendáře „ Havlíček “ a „ Palacký “ na rok 1918 nákladem Zemského Ústředního Spolku Jednot učitelských v král . Českém právě vydány a to „ Havlíček “ jako ročník XVI . , „ Palacký “ jako ročník XV . Jako v každém předešlém , tak i v tomto novém vydání sešli se naši osvědčení při - spívatelé z nejpřednějších českých kruhů lite - rárních a můžeme tudíž s plným vědomím uji - stiti naše čtenáře , že se jim v obou kalendářích dostává zábavy a poučení z per nejpřednějších členů obce spisovatelské a ilustrací našich osvěd - čených českých umělců . J . S . Machar , E . X . Svoboda , Ant . Klášterský , Jan Havlasa , J . V . Sládek , Václav Krofta , Fr . Sekanina , Ig . Heir - mann , Fr . Flos , Fr . S . Procházka , Růž . Svobo - dová , Fr . Župan , Kar . Leger , J . Chýna , Jan Petrus , K . Egor , Jan Rokyta , Ant . Herynk , O . M . Vyskočil , Silva Hlubínskú , Hd . Daněk , Magda Bí - IUII HIFLKSIEIIIH",
+    "end_position": [
+      154,
+      26,
+      106,
+      112,
+      116,
+      158,
+      34,
+      162,
+      2,
+      169,
+      119,
+      125,
+      128,
+      132,
+      138,
+      166,
+      197,
+      193,
+      189,
+      186,
+      180,
+      6,
+      173,
+      176,
+      142,
+      148
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2903.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "150;154",
+      "26;26",
+      "102;106",
+      "108;112",
+      "113;116",
+      "156;158",
+      "34;34",
+      "160;162",
+      "2;2",
+      "167;169",
+      "118;119",
+      "120;125",
+      "127;128",
+      "129;132",
+      "133;138",
+      "164;166",
+      "194;197",
+      "190;193",
+      "187;189",
+      "182;186",
+      "178;180",
+      "6;6",
+      "171;173",
+      "175;176",
+      "140;142",
+      "144;148"
+    ],
+    "start_position": [
+      150,
+      26,
+      102,
+      108,
+      113,
+      156,
+      34,
+      160,
+      2,
+      167,
+      118,
+      120,
+      127,
+      129,
+      133,
+      164,
+      194,
+      190,
+      187,
+      182,
+      178,
+      6,
+      171,
+      175,
+      140,
+      144
+    ],
+    "data_source": "NER",
+    "file_name": "014148_1917_uuid-dafaf95d-32f1-11eb-93cc-001b63bd97ba__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "§ . 41 . Zápisy , kteréž z některé knihy pozemkové v nově sdělané vklady knihovní z povinnosti úřední se převádějí , buďtež číslicemi řadovými v aritmetickém po - stupu opatřeny , šetříc předpisů navedení knihovního z dne 12 . ledna 1872 , č . 5 říšsk . zák . Tento převod vztahujž se ke všem k tomu vhodným zápisům , kteréž se před uzavřením těch kterých knihov - ních vkladů knihy , kteréž buď zcela aneb částečně upo - třebiti se nemá , vykonají .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2988.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "014548_1875_uuid-f42c08ea-7171-4721-9ccf-d83246ef619c__r001.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "Bauhinia corymbosa z Číny .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3006.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER",
+    "file_name": "014648_1857_uuid-1ce74c22-435e-11dd-b505-00145e5790ea__r002.txt",
+    "anotator_id": "3"
+  },
+  {
+    "context": "☞ Díla dějepisná vydaná nákladem kněhkupectví : I . L . Kober , jichž dostati lze zde , ve všech řádných kněhkupectvích , jakož i u jednatelův nakladatelových ;",
+    "end_position": [
+      11
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "3062.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;11"
+    ],
+    "start_position": [
+      7
+    ],
+    "data_source": "NER",
+    "file_name": "014948_1866_uuid-015befbb-f0ac-41fb-8200-b33e17c96e8c__r000.txt",
+    "anotator_id": "3"
+  }
+]

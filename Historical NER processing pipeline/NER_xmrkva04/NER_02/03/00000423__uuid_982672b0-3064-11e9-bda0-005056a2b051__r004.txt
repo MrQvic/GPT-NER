@@ -1,0 +1,4 @@
+ne différaient de zéro que pour des valeurs de x, y, z correspondantes aux points
+situés dans un certain espace, par exemple, aux points renfermés entre deux surfaces
+courbes, deux surfaces cylindriques et deux surfaces planes représentées par des équa-
+tions de la forme

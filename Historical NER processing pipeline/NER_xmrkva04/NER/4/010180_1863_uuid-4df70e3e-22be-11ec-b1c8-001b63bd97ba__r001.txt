@@ -1,0 +1,22 @@
+.
+pak při a = V1/2, b= V1/2,
+V= VVi= +)=V4I+ V9+:40 —VI),
+jakož i
+Vi = VVi = V—i = V1/ — iV! atd.
+Pročež jsou kořeny z veličiny i buď jen čísla pouze po-
+myslná neb spřežitá, nikoliv ale veličiny pomyslné jakéhosi vyššího
+stupně.
+d) Patříme-li na výkony algebraické čili na smysl veličin po-
+myslných v rovnicích, jsou tu důležité dvě věty, a sice:
+z každé spřežité rovnice a + bi = a + bi plynou dvě
+1.
+nové, totiž a = a, b = b., t. j. jak části realné s jedné
+tak součinitelé veličiny i se strany druhé jsou sobě rovny.
+Z výrazu onoho jde totiž a — a = (b' — b) i, což jen
+tu smysl míti může, pakli a — a = 0, tedy i b. — b = o
+jest, jinak se veličina realná pomyslné rovnati ne může.
+Z poslední rovnice jde 2bi = 2bi, což od první odejmuto
+a — bi = a — bli podává; t. j. v rovnicích spřežitých lze
+znamení veličiny i změniti v protivná. Z té příčiny není
+třeba před i dvoje znamení psáti, jelikož se druhé samo
+sebou rozumí.

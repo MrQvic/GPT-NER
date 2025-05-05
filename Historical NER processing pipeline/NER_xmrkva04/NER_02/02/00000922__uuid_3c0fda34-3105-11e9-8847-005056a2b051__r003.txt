@@ -1,0 +1,6 @@
+Zároveň patrno jako nahoře, že a, Z a,; neboť H obsahuje dle sup-
+posice n — a — a, — a, neodvislých řádek, tedy a, odvislých, tedy
+obsahuje taky posledních n — a, — a, řádek v G, tolikéž neodvislých
+resp. odvislých, t. j. G, jest alespoň nullity a, pročež a, Z az.
+Ustanovme nyní a neodvislých systemů (z), . . ., (z(%)) hoví-
+cích rovnosti

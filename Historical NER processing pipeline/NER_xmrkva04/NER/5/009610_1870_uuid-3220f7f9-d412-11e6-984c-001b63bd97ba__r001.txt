@@ -1,0 +1,15 @@
+Použijeme-li vzorce (15) a (19), ustanovíme velmi snadno
+co doplněk integrálu rovnice
+уIV — 2y“ + y = Ae + Bet + Csinx + Deosx,
+kteráž byla při letošní zkoušce písemní předložena kandidatům
+polytechniky pařížské, bezprostředně
+Ax te + Bx2 e Csin x + Deosx
+� (a) =
+Stane-li se, že ve zvláštním případě v jest mnohonásobným
+kořenem rovnice
+§o = 0,
+obdrží vzorec (19) tvar neurčitý a musí se tudy v něm čitatel
+i jmenovatel mkráte podlé v differencovati, čímž se obdrží
+ma
+) + B cos (yx-
+an [a sin (vx-

@@ -1,0 +1,4 @@
+Pošta odpovídá odesilateli poštovní poukázky nezkrácenou výší vplacené
+částky za to, že tato částka bude náležitě vyplacena příjemci. Pošta však ne-
+odpovídá za škody, které vzniknou opožděnou výplatou poštovních po-
+ukázek.

@@ -1,0 +1,2 @@
+Die Gruppen dieser Involution sind von den variabelen Tangententripeln gebildet
+welche dem Träger C, und den einzelnen Curven der Reihe gemeinschaftlich sind.

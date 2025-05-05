@@ -1,0 +1,4 @@
+Les équations (25) fournissent le moyen de déterminer, au bout du temps t, les
+trois fonctions §, r, §, ou, ce qui revient au même, les six fonctions d, e, f, g, h, i,
+lorsqu'on connaît les valeurs initiales de ces mêmes fonctions et de leurs dérivées prises
+par rapport à t. En effet représentons par

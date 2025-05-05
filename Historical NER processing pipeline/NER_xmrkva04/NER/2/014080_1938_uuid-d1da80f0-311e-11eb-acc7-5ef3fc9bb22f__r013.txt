@@ -1,0 +1,28 @@
+T 6, = a*) je malý, tedy To, = TH, = 1, unáší rovina SH, V
+rovnoběžnou rychlostí unášení va = o,. Absolutní rych-
+lost vzi bodu 6, je kolmá na poloměr H, o, absolutního
+precesního pohybu. Relativní rychlost v bodu 6, vzhle-
+dem k unášené rovině (SH,V) dostaneme vektorovým
+rozdílem rychlostí Va1, Du). Viz obr. 168. V bodě 6, na
+obr 168 vztyčme kolmici o, H, vr, jež protne přímku
+H„ V v bodě H.17.
+Dostáváme dva podobné trojúhelníky
+A H H, O, vai Vr 61,
+jichž stejnolehlých stranách platí úměry
+H., H,: vn = H, o,: vr = H, O,: vo 1 = 1: 2,
+neboť vg1 = H,G, 2. Poněvadž jest vu = 0r, plyne
+(18)
+Vr = H, o, 2.
+H, H1 =
+odtud
+Vidíme, že vzhledem k unášené rovině (SH, V) má bod
+o, stejnou relativní rychlost vr, jako by měl na paprsku
+Hl o,, jenž se kolem bodu H, otáčí precesní úhlovou
+rychlostí 22.
+T. zn., že vzhledem k unášené rovině (SH V) se pre-
+cesní pohyb bodu o, jeví jeho relativním precesním otá-
+čením kolem bodu H,í, jenž v daném případě (rotace
+střely cop do prava, střed odporu vzduchu C před tě-
+žištěm, tedy precese 2 do prava) leží vždy vpravo od
+svislé roviny vektoru v. (Kdyby byla precese 2 do leva,
+nazývá se okamžitou osou precese.

@@ -1,0 +1,36 @@
+Úrovní AB ve výši  (viz obr. 129) a vrcholem S
+byla dráha rozdělena na oblouky a podle vzorce
+(21) byly vypočteny změny 3z příslušné obloukům
+BD, SD, AD, OD, (za t, x byly dosazeny příslušné
+hodnoty vypočtené přesným výpočtem dráhy po
+obloucích: na př. pro oblouk BD jest x = xp — �g,
+= doba letu střely po oblouku BD, u = vodorovná
+složka rychlosti střely v bodě B). Tak pro 10
+co = 8, vo = 600 msek, 9 = 30° a pro oblouky
+BD,
+SD,
+6D
+AD,
+bylo vypočteno
+3 z =
+3,6 m,
+30 m,
+105 m, 197 m.
+Odtud byly vypočteny koeficienty a, resp. a, pro dolení, resp. pro hoření vrstvu  takto:
+(197 — 105) + 3,6
+= 0,49, α, = 0,51, kdežto podle tabulky na str. 16 (řádek ys = 1000)
+197
+by mělo býti a = 0,29, a, = 0,71.
+Podobně se vypočte, že příčná úchylka 3z způsobená konstantním příčným větrem na oblou-
+ku výstupném OS činí 85% celé příčné úchylky způsobené na oblouku OD.
+Ještě větší rozdíly jsou u velmi dlouhé (a velmi vysoké) dráhy příslušné počátečním prvkům
+10 co = 1, vo = 1600 msek, � = 50°. Tu podle vzorce (21“) a pro oblouky
+BD,
+šD,
+6D
+AD,
+bylo vypočteno
+31 m,
+38 m,
+76 m, 572 m
+a odtud vypočteny koeficienty α = 0,922 resp. a, = 0,078 pro dolení resp. pro hoření vrstvu

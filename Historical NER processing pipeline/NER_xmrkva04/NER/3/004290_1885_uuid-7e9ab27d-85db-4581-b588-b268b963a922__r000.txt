@@ -1,0 +1,17 @@
+In diesem Falle haben wir die quadratische Grundfläche von
+vs aus zur Hälfte nach vorwärts und zur andern Hälfte nach
+rückwärts anzutragen. Da wir nun eine Viertelsdistanz ange-
+nommen haben, schneiden wir auf vs ein Achtel ihrer Länge
+von v aus und ein anderes Achtel von s aus ab. Durch beide
+Theilpunkte legen wir Gerade nach d/4 und gewinnen mittels
+der Schnittpunkte dieser Linien mit den durch z und s nach
+dem Augenpunkte gezogenen Geraden einerseits die hintere
+linke, andererseits die vordere rechte Ecke der Pyramide. Die
+von jeder der beiden Ecken aus nach der gegenüberstehenden
+Seite gezogenen Horizontalen schneiden auf v a und der ver-
+längerten as die dritte und vierte Ecke ab. Somit haben wir
+nur noch die drei sichtbaren Ecken der Grundfläche durch
+Gerade mit der Spitze ( zu verbinden, und die perspectivisch
+gesehene Pyramide ist fertig.
+Ein in solcher Weise vom Durchschnitt ausgehendes Con-
+structionsverfahren empfiehlt sich für complicirtere Formen ganz

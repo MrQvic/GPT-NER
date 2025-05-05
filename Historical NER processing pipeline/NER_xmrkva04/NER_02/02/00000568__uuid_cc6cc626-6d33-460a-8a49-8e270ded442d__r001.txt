@@ -1,0 +1,16 @@
+R. r = OCTCA + AD] = OCICA+ GD,] = OCICA+ OB]
+d. h.
+R.r = P. p+ G. g.
+Bei Kräften, welche nicht gleichdrehende Momente geben in Bezug auf den Punkt O, ergiebt sich
+— anstatt +. Im Ubigen bleibt der Beweis derselbe.
+Zus. 2. Die in I. § 1 Zus. 1 ausgesprochene Zulässigkeit der Verschiebung einer Kraft in ihrer
+Richtungslinie gilt auch in Bezug auf das Moment, d. h. soll das Moment einer Kraft in Bezug auf einen
+festen Punkt aus den Componenten dieser Kraft berechnet werden, so ist es gleichgiltig, an welcher Stelle
+der Angriffslinie die Kraft in ihre Componenten zerlegt wird.
+Wird zur Bestimmung des Momentes die Kraft selbst verwendet, so ist ohne weiteres einleuchtend,
+dass ihre Lage innerhalb ihrer Angriffslinie ohne Einfluss bleibt, indem weder P noch r [s. Fig. 64 Taf. I3
+sich ändert, wenn die Kraft innerhalb ihrer Richtungslinie verschoben wird. M = P. r behält dabei stets
+denselben Wert.
+Wird aber die Momentenberechnung mittelst der Componenten gemacht, so ist ein Beweis nötig, welcher
+unter Annahme der Verwendung der Horizontal- und Vertikalkomponenten im Folgenden geliefert ist.
+Beweis: Es soll sein

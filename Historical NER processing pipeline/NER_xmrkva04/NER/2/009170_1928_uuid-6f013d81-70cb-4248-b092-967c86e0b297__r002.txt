@@ -1,0 +1,13 @@
++ A,  (1 — cos o) — m. p sin o + m. p (1 — cos 0) +
++ qp Ip o — (p+ v) sin o] + ap2t [o sin 0 —2 (1 — cos o)1 —
+— bp [p o — p sin o + v sin o].
+(15) M, = — [A,] cos o — [A,] sin o + A, p a o sin o — A, pa o cos o +
++ A, p sinom, c (1 — cos o) +m, c sin o+tpac (o cos o —
+— sin o)+ qc (p + v) (1 — coso) — bc (p — b) (1 — cos o)
+[A.] sin o — I4,] cos o+ [A,J P + A, (sin o+
++ a2 0 coso)+ A,  (a2o sin 0  1 — cos o) —
+—4. 
+— cos o) + m, ap sin o — m ap (1 — cos o) —
+—t p2 (1 — cos o)+ta2 p2 (1 — cos o — o sin o) —
+tp (p + v) sin o2 — q a pà (o — sino) + qapv sino +
++ ba p2 (o — sin o) + bapv sin o.

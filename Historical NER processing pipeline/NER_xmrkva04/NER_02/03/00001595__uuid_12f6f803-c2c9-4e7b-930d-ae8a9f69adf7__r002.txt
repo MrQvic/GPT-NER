@@ -1,0 +1,6 @@
+Wenden wir uns nun zur genaueren Betrachtung der unter (28) und (29) gegebenen
+Ausdrücke für t und v.
+Die nächste Aufgabe ist, diese elliptischen Integrale auf die Normalform zu bringen.
+Wir bedienen uns zu diesem Zwecke einer Substitution II. Ordnung*), welche sehr schnell zum
+Ziele führt und sehr einfache und übersichtliche Resultate liefert.
+Betrachten wir zunächst den Fall z,a, dann ist die Reihenfolge der nach ihrer Gröfse

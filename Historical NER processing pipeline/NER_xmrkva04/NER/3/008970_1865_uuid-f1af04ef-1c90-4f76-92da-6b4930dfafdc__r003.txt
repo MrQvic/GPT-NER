@@ -1,0 +1,1 @@
+Aurum; znak: Au = 196; hutnost = 19.5; bod tání: 1200°C.

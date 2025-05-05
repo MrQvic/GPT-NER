@@ -1,0 +1,10 @@
+x = 0;
+et, pour que ces deux masses restent contigues l'une à l'autre pendant la durée du
+mouvement, il est nécessaire que la valeur de 5 relative à un instant donné, et
+à un point donné de la surface de séparation, ne soit point altérée, quand on passe
+de la première masse à la seconde. Enfin, comme, en posant x = 0, on tire de la
+première des équations (1)
+§ = sinz (A+A,) cos (kysinz — st)+ (6+,) sin (kysing— st),
+(4)
+et de la première des équations (2)
+§ = sin z' Vcos (Kysint— ét)+ ß sin (Kysina— s1),

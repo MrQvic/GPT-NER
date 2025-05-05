@@ -1,0 +1,4 @@
+Železniční: stanice = n, zastávka a nákladiště = (n), zastávka = (z), motorová zast. = (m).
+S. o. Haňšpach: 1 Haňšpach, 2 (n) Horní Poustevna, 3 (n) Wölmsdorf, 4 Mikulášovice střed, 5 (n) Mi-
+kulášovice horní nádraží, 6  Mikulášovice dolní nádraží, 7 Velký Šenov, 8 a Dolní Poustevna, 9 (z) Velký
+Šenov zastávka, 10 (n) Zeidler.

@@ -1,0 +1,18 @@
+213886 + 4000
+Beträgt Z blos 3", und da die 4 Hängeisen in der Brückenbreite, den Durchmesser zu 2“ gerechnet,
+4x3.1416 = 12.566“ haben, so kann man prol" wenigstens 560 Spannung annehmen, was für den ganzen
+Querschnitt G=7000f gibt. Dann wird m=0.4515 aus der Gleichung resultiren.
+Wir sehen also, dass es nothwendig gewesen ist die Stemmstücke für die Streben in die Tragbänder
+einzulassen; denn, wenn sie nicht wären eingelassen worden, so wäre k =0 und 10 =0, demnach wäre
+Tkri
+164371 — 5233 — 159138
+164371— 1    4 . 3.14 . 5000. 1
+m=1o
+—:10+ G
+H 42
+217886+7000
+224886
+224886
+das ist m =0.70715. Da nach Boucharlat oder Coulomb der Reibungscoefficient nur 0.65 nach Anderen aber
+Tanne auf Eiche im Aufange einer Bewegung blos m =0'53 beträgt; so belehrt uns die Gleichung für M, nämlích
+k'= !9 ((g9—m) — (n;“—+m G), dass für den Werth m =0.53, (da tangq=0.7685 ist, der horizontale Schub

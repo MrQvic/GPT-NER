@@ -1,0 +1,10 @@
+Die Formel erhält das Zeichen +, weil der Hauptring eine Wegdifferenz — o hat
+und jener der beiden interferirenden Strahlen, welcher diesseits des Hauptringes den
+grösseren Weg hat, jenseits desselben den kleineren haben wird. Gilt also das eine
+Zeichen, z. B. das Zeichen + für die äuseren Ringe, so gilt für die inneren Ringe das
+Zeichen —.
+Lässt man den Diameter des Hauptringes abnehmen bis zur Nulle dadurch, dass
+man die Neigung des Spiegels gegen den Strahl verringert, so verschwinden die inneren
+Ringe, der Hauptring degenerirt in einen hellen Mittelpunkt und man hat wieder das
+Phänomen des ersten Versuches. Setzt man daher in der letzten Formel f =0, so
+hat man

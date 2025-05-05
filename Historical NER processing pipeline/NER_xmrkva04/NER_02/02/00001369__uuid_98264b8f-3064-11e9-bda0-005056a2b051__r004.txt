@@ -1,0 +1,6 @@
+Il reste à faire voir comment ou pourra trouver les valeurs des coefficients d, t, f, g,
+h, i exprimées en fonctions de la variable t et des constantes arbitraires k, a,
+b, c. On y parviendra sans peine, à l'aide des considérations suivantes.
+Considérons d'abord le cas particulier où chacune des inconnues §, η, 5 serait re-
+présentée par un seul des termes compris sous le signe E dans les formules (11),
+c'est-à-dire, le cas où l'on aurait

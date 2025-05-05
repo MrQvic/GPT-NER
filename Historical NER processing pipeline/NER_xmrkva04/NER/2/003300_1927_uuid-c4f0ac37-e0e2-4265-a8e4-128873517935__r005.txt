@@ -1,0 +1,17 @@
+1. Vzorky vody pro rozbor odebírají se vždy
+v hlavní proudnici.
+2. Při šířce hladiny toku od 20 do 50 m odebírají
+se kromě toho vzorky aspoň v jedné charakteristické
+svislici, a to podle možnosti na té straně, která má pro
+příslušné pozorování zvláštní význam.
+3. Při širších tocích aneb také v prostoru mezi-
+hrázovém provede se ojediněle další interpolace při od-
+běru vzorků ve větších vzdálenostech (na př. 50, 100 m),
+ale tak, aby mezihrází bylo charakterisovano aspoň
+1 vzorkem.
+4. Při exundované vodě, dosahuje-li její hloubka na
+celém území průměrně aspoň 30 cm, odebírají se ojedi-
+něle vzorky také z této, a to tak, aby na prvý na tok
+přiléhající kilometr příčného profilu zaplavovaného
+území připadl 1 vzorek, na každé další 2 km taktéž
+1 vzorek.

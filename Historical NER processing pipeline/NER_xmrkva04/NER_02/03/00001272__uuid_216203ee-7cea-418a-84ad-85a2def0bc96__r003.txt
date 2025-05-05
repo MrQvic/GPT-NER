@@ -1,0 +1,8 @@
+O 6. hod. bylo vyšetřeno:
+váha balonu s přítěží = 884 kg,
+tpi = 180 C,
+tvzd = 189 C,
+b = 740 mm,
+rpl = 26,
+rvzd = 68,
+přetlak = 30 mm vodního sloupce,

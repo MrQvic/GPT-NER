@@ -1,0 +1,3 @@
+a vymezí velikosť hmotné změny s přesností algebraickou. Jednotka
+tato bude zajisté pro každý ze tří jmenovaných druhů hmotné práce
+jiná a musí pro každý z nich býti zvláště vymezena.

@@ -1,0 +1,3 @@
+Výběr masky. Jestliže jsme se rozhodli pro určitý typ masky,
+čeká nás neméně důležitá věc, abychom si vybrali vhodný kus.
+Plynové masky se vyrábějí zpravidla ve 3 velikostech: velká,

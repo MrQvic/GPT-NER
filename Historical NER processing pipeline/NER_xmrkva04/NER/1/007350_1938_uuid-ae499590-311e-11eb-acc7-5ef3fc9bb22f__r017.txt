@@ -1,0 +1,9 @@
+Tato (již dříve známá) úměra se nazývá »hypotesou
+aide-mémoire«. Můžeme jí užíti k snadnému výpočtu pořad-
+nice y, příslušné k dané úsečce x na dráze, jejímž úhlem
+výstřelu je 91, jestliže známe (na př. z číselných tabulek
+střelby) závislost dostřelu na úhlu výstřelu (pro danou
+střelu a danou počáteční rychlost). Z této závislosti vyčteme
+k vodorovnému dostřelu x (viz obr. 99) příslušný úhel vý-
+střelu �2 (y2 = 0). Svislý pokles na dráze g, označíme
+x tg J, — y1 = AB a z úměry (30) dostaneme

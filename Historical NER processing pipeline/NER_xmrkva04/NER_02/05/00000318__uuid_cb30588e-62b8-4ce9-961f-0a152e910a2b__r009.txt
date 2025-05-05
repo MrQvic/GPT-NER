@@ -1,0 +1,15 @@
+Aufl. Die in Fig. 7 dargestellte Inanspruchnahme s, auf Drück wird
+54000
+= 6 kglqcm
+S, = 
+90. 100
+Zur Berechnung der Inanspruchnahme s, auf Biegung hat man
+M = N. e
+= 54000 . 10
+= 540 000 cmkg
+уM M
+s, =
+J
+Jy
+1
+(vergl. II § 6 und 7).

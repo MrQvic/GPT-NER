@@ -1,0 +1,7 @@
+een derde vergelijking kunnen bijvoegen. Maar alleen als
+wij a en b van T onafhankelijk zouden mogen stellen. En
+daar wij daarvan niet zeker zijn, zullen wij deze derde ver-
+gelijking moeten ontberen. Wij zullen dan ook voorloopig w
+als bekend aannemen. Er is weder een stel van waarden van
+z en u, dat aan beide vergelijkingen voldoet, maar verworpen
+moet worden, n. l.

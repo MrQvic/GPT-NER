@@ -1,0 +1,7 @@
+I. § 15. Statisches Moment.
+Man nennt das statische Moment einer Kraft P in Bezug auf einen festen Punkt O das Pro-
+dukt aus Grösse der Kraft und Abstand des Punktes von der Angriffslinie der Kraft
+M = P. a.
+Wird z. B. der Abstand in Metern und die Kraft in Kilogramm gemessen, so ist das Moment ausgedrückt
+in Meterkilogramm [mkg]. Ist die Kraft bestrebt, im Sinne des Uhrzeigers um den Punkt zu drehen
+[Fig. 61], so bezeichnet man das Moment als ein positives.

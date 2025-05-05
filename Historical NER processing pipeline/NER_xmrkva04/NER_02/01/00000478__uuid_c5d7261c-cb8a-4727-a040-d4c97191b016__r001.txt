@@ -1,0 +1,13 @@
+1.) přirážky k daním ostatním nevybíraly
+2.) přirážky k daním ostat. vybíraly podle sazby:
+25 . . . . . . . . .
+až
+50% . . . . . . . . .
+přes 25%
+„
+50% a méně než 110% . . . . . . . . .
+. . . . . . . . . . . .
+110%
+.
+110% a méně než 150% . . . . . . .
+150% . . . . . . . . . . . . . .

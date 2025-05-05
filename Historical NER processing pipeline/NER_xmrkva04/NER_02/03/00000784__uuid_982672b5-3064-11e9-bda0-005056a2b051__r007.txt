@@ -1,0 +1,3 @@
+De plus le second ellipsoide sera pareil au premier, et placé a l'égard des axes
+coordonnés des X1, y1, z, comme le premier l'est à l'egard des axes coordonnées
+des x, y, z, si l'on a

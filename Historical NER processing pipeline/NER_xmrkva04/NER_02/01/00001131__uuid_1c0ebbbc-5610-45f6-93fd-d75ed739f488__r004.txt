@@ -1,0 +1,2 @@
+Gerechnung der Kraft, welche, normal auf die Längenrichtung, die Fibern des
+Ouerschnittes zu verschieben strebt.

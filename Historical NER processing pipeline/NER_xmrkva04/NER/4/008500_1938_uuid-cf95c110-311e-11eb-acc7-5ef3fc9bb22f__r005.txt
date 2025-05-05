@@ -1,0 +1,11 @@
+Podle principu otáčivosti drah záměrný úhel cíle §, příslušný dané šikmé dálce n (viz obr.
+151), by měl býti nezávislý na
+polohovém úhlu 9, t. j. křivkou stejných záměrných úhlů5 (při
+střelbě s týmž střelivem) by měla býti kružnice K o středu O
+a poloměru n.
+Víme však, že tento »princip« platí jen hrubě přibližně a to
+jen pro dosti malé polohové úhly 9. Spokojíme-li se s touto jen
+hrubou přibližností, můžeme dráhu příslušnou malému úhlu vý-
+střelu g konstruovati bod za bodem s použitím číselné tabulky
+střelby, která přísluší danému střelivu a záměrnému úhlu 5 pří-
+slušnému vodorovným dostřelům X rostoucím po hektometrech.

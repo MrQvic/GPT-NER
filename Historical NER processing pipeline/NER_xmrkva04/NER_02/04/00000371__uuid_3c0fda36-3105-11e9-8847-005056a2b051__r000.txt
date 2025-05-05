@@ -1,0 +1,7 @@
+Rovnice (1) jest rovnicí nejnižšího stupně o skalarných koeffici-
+entech, které vyhovuje matice M.
+Abychom to ukázali, stanovme nullitu libovolné celistvé funkce
+(M) naší matice. Za tím účelem označme levou stranu rovnice (1)
+symbolem (M) a stanovme největšího společného dělitele polynomů
+p(x) a v(z); budiž z(x) tento divisor. Pak, jak známo, lze stanoviti
+dva polynomy p. (x) a v. (x) tak, aby platilo totožně

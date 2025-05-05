@@ -1,0 +1,15 @@
+Wäre z. B. ko=, us=ulo, also f=f“, so würde für den Werth von h/1 = 1%, die Totalspannung und
+Pressung betragen =kof=k, f= 1. gl=ql; und bei h/t =1/2 wäre hof =hof=3. gl=ql; das heisst: Wenn die Wand-
+höhe o der Spannweite beträgt so erleiden hier die Streckbänder bei gleichmässig vertheilter Belastung der Brücke,
+eine Anspruchnahme, welche 1/4 der Totalbelastung (ql) gleich ist; dagegen beträgt für h/t =1/2 die Totalspannung
+und Totalpressung der Tragbänder in der Mitte der Spannweite genan ql d. i. die Totalbelastung.
+c). Wir fanden früher (§. 175. S. 160) für die Zugkraft, wenn n, eine ungrade Knotenzahl verstellt, und
+blos 9 im Knoten 1 hängt fir genannten Knoten Hn,=+[(n—1)1/2e-+e“Jllh. und für eine gerade Knotenzahl, die
+Stemmkraft bei n,j=n.+-1; 
+—9(n+-1), wo e=e+e“ ist.
+24
+Bei Neville's System ist aber et=e"=12e. Wenden wir dies nun auf unsere Formel
+kf=f=(9x+qx. /x) an; so finden wir sowobl den Einfluss von 9, als auch den von der gleichmässig
+vertheilten Belastung q pro Currenteinheit. Es sei z. B. n,=11; demnach bestehet r aus (n—1)/e+e"=10. 1e+e
+2. 1. Ferner ist die Stemmkrafl bei n,,=u, + 1 = 12 gleich
+und die Zugkraft ist Hn,=0(5e-

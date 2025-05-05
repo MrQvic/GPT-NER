@@ -1,0 +1,23 @@
+a) Výpočtem z čísla zmýdelnění.
+Účinkem KOH zmýdelňují se tuky dle rovnice:
+C, H, (OR, 1 3KOH— C, H, (OH),
+3 ROK
+draslo
+mýdlo draselné.
+tuk
+glycerin
+Z rovnice vyplývá, že 3 molekuly KOH odpovídají 1 molekule glycerinu
+čili 1 g KOH 0.54664 g glycerinu.
+Glycerin v tucích jest vázán na mastné kyseliny, nelze tudíž mluviti
+o obsahu glycerinu v tucích, nýbrž o výtěžku glycerinu zmýdelněním tuku
+získaného. Poněvadž při hydrolyse tuku vstupuje v reakci voda, dle rovnice:
+C,H,(OR) + 5 H.OH = C,H, (OH), + 3 ROH,
+poskytuje součet mastných kyselin + glycerin číslo větší nežli 100.
+Z čísla zmýdelnění dá se vypočísti glycerin v tom případě, jsou-li tuky
+neutrálné. Při tucích kyselých počítá se glycerin z čísla estherového.
+Příklad: Ve vzorku podzemnicového oleje nalezeno číslo zmýdelnění
+192 4, acidita 5.2. Jest tudíž jeho číslo estherové 187.2, čili
+1 g oleje odpovídá 187.2 mg KOH a tyto pak 102.33 mg glycerinu.
+Ze zkoušeného oleje lze tedy získati 10.23% glycerinu.
+b Analyticky: Viz analysa glycerinu.
+Stanovení látek nezmýdelnitelných viz str. 15.

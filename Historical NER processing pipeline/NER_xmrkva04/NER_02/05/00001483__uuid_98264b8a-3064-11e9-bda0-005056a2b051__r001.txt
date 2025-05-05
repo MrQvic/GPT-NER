@@ -1,0 +1,2 @@
+les qui déterminent le mouvement d'un système de molécules sollicitées par des forces
+d'attraction ou de répulsion mutuelle.

@@ -1,0 +1,14 @@
+a) Berechnung nach Longs' Methode.
+§. 136. Es sei nun eine Bricke nach Longs' System von 184 Fuss Spannwelte zu berech-
+nen. Diese muss seiner Theorie gemäss 16 Fächer oder Felder und 5 Hangerahmen erhalten, indem 2 Bahnen
+oder Geleise darüber gehen sollen. Dem gemäss ist die Fachlänge von Mitte zur Mitte der Säulen = 48 = 111/2
+und die Fachhöhe von Milte zur Mitte der Tragbänderhöhe oder Dicke =132 (11/2)= 17.3“. Breite jeder Fahrbahn
+ist 11 also die ganze lichte Breite beider Fahrbahnen = 22 Fuss; so dass die Gesammflache der 2 Bahnen
+=22X184=4048Fuss. Höchste zufällige Belastung rechnet Long per  zu 120fB, was also für beide Brü-
+ckenbahnen 120x4048 � oder 216.8 Tonnen, jede Tonne zu 20 Ctr. und jeder Ctr. 1125 gerechnet, beträgt.
+Die zufällige Belastuug pro Cur. Fuss der Brücke ist also 22x120=26406. Nun berechnet Long das
+Gesammtgehölz zu dieser Spannweite 96460 Kubikinhalt im Brettmasse oder Schachlfussen zu 1/, Kubfuss, was
+80581/2 Cubfuss gibt. Er nimmt das spec. Gewicht des weichen Holzes (namentlich der Weisstanne) zu 0.5 des
+Wassers, wo nach englischem-Inhalts- und Gewichtsmasse 1 Cub. FussWasser = 62'51t wiegl, also zu 51'2bis51'27a.
+803B1/4 X51 2
+=1565%, und die

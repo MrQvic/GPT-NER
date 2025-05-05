@@ -238,7 +238,7 @@ if __name__ == '__main__':
     #index_, value_ = random_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=8)
     #write_file(dir_="./gpt3-data/cnec_mrc/test.100.cnec.random.8.knn.jsonl", data=index_)
 
-    test_mrc_data = read_mrc_data(dir_="./gpt3-data/historical_ner_dataset", prefix="test.154.json")
-    train_mrc_data = read_mrc_data(dir_="./gpt3-data/historical_ner_dataset", prefix="train.json")
+    test_mrc_data = read_mrc_data(dir_="./gpt3-data/historical_ner_dataset", prefix="SDMA_test_qid.json")
+    train_mrc_data = read_mrc_data(dir_="./gpt3-data/historical_ner_dataset", prefix="SDMA_train_qid.json")
     index_, value_ = random_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=8)
-    write_file(dir_="./gpt3-data/historical_ner_dataset/test.154.historical_ner_dataset.random.8.knn.jsonl", data=index_)
+    write_file(dir_="./gpt3-data/historical_ner_dataset/test.114.SDMA.historical_ner_dataset.random.8.knn.jsonl", data=index_)

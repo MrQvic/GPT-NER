@@ -1,0 +1,4 @@
+aby bylo u neb v ohniskem soustavy prvé resp. druhé.
+Prochází-li křivka body kruhovými i, i,, aneb má-li v nich
+body vícenásobné, nazýváme realné body jich tečen ohnisky kruhovými
+č. cirkularnými té které soustavy; jsou to tedy realné body kruho-

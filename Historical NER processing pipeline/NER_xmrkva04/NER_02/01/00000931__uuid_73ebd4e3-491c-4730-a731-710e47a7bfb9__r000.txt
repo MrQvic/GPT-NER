@@ -1,0 +1,8 @@
+Since the direction of the diffusion changes sign with
+changing concentration, the criterion of equilibrium camot be
+a uniform osmotic pressure and the explanation of van't
+Hoff can hold as a first approximation only for solutions in
+which the volume occupied by the solute may be neglected.
+What the real criteria for equilibrium are, is an interesting
+problem for which no satisfactory answer has yet been found.
+Cornell University.

@@ -1,0 +1,10 @@
+c) Z mathematiky:
+1. Podnikatel vypůjčil si z banky 10.000 K a umořuje dluh tento
+ročním obnosem 1000 K při 5% celoročním úrokování. Po splacení páté
+annuity banka sníží úrokovou míru na 41/2%. Po kolika dalších letech bude
+dluh umořen a jak velká bude poslední splátka?
+2. Trojúhelník o stranách a, b, c otáčí se postupně kol svých tří
+stran. a) Nalezněte obecně poměr obsahů tří těles tak vzniklých. b) Uží-
+vajíce výsledků a) vypočítejte tyto obsahy pro a = 4, b = 13, c = 15.
+3. Na skalině neznámé výšky je postaven maják, z jehož vrcholu jest
+viděti loď v úhlu hloubkovém a; od jeho paty je viděti tutéž loď v hloub-

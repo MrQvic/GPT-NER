@@ -1,0 +1,28 @@
+Gednotný počet.
+Žens.
+1 — anti
+2 — antim
+3 — antjáh
+4 — antjau
+5 — antjáh
+6 — antjáh
+7 — antjám
+8 — anti
+Dwogný počet.
+1 — antjau
+2 — antjau
+3 — antibhjám
+4 — antibhjám
+5 — antibhjám
+6 — antjoh
+7 — antjoh
+8 — antjau
+Množný počet.
+1 — antjah 1 — anti
+2 — antijah 2 — anti
+3 — antibhih 3 — abhih
+4 — antibhjah 4 — abbhjah
+5 — antibhjah 5 — abbhjah
+6 — antinám 6 — atám
+7 — antišu 7 — atsu
+8 — antjah 8 — anti

@@ -1,0 +1,5 @@
+§. 58. Berechnung der rückwirkenden Festigkeit der mittlern 4 Stütz-
+und Tragrippen. Wir wollen nun untersuchen ob genannte Rippen genog Stärke besitzen, den auf sie ent-
+fallenden Druck zu übernehmen. Hierzu dient die Angabe der mechanischen Schriften, dass die rückwirkende
+Festigkeit der Weisstanne 57 bis 70 Ctr. á “ beträgt, wovon der 10te Theil für die Praxis gänzlich zulässig er-
+scheint, den wir mit 7 Ctr. annehmen wollen.

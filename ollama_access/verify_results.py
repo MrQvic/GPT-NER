@@ -29,7 +29,7 @@ def read_mrc_data(dir_, prefix="test"):
 def read_results(dir_, prefix="test"):
     print(f"Reading results from {os.path.join(dir_, prefix)}")
     file_name = os.path.join(dir_, prefix)
-    file = open(file_name, "r")
+    file = open(file_name, "r", encoding="utf-8")
     results = []
     for line in file:
         results.append(line.strip())
@@ -72,6 +72,10 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL"):
             prompt = f"Verify if this word is a {transfered_label} entity. {upper_transfered_label} entities {sub_prompt}.\n\n"
             prompt += f"Sentence: {context}\nWord: \"{entity}\"\n"
             prompt += f"Is this a {transfered_label} entity? Answer only 'yes' or 'no'."
+
+            #prompt = f"Zkontroluj, zda je slovo entita osoby. Entity osoby jsou pojmenované osoby nebo rodiny.\n\n"
+            #prompt += f"Věta: {context}\nSlovo: \"{entity}\"\n"
+            #prompt += f"Jedná se o entitu osoby? Odpověz pouze 'ano' nebo 'ne'."
             
             prompts.append(prompt)
             entity_index.append((entity_idx, len(entity.strip().split())))
@@ -95,6 +99,13 @@ def construct_results(gpt_results, entity_index, prompts_num, verify_results):
         if len(string_) >= 2 and string_[:2].lower() == "no":
             return "no"
         return ""
+    
+    #def justify_cz(string_):
+    #    if len(string_) >= 3 and string_[:3].lower() == "ano":
+    #        return "yes"
+    #    if len(string_) >= 2 and string_[:2].lower() == "ne":
+    #        return "no"
+    #    return ""
 
     results = []
     start_ = 0
@@ -131,9 +142,9 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        model="llama3.1",  # or your chosen Ollama model
+        model="qwen2.5:72b",  # Ollama model
         temperature=0.0,
-        max_tokens=512
+        max_tokens=4096
     )
 
     mrc_test = read_mrc_data(dir_=args.mrc_dir, prefix=args.mrc_name)

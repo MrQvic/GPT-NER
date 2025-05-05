@@ -1,0 +1,19 @@
+Zur mathematischen Behandlung wählen wir ein rechtwinkeliges
+Coordinatensystem. Die eine der Coordinaten-Ebenen sei die Oberfläche
+des Krystalles, die zweite die Ebene, deren Lage durch die optische
+Axe und das Einfallsloth bestimmt wird, die dritte, die auf beiden
+senkrecht durch den Punkt A gelegte. Dieser ist dann der Ursprung,
+und der Schnitt der letzteren Ebene mit der Oberfläche des Krystalls
+stelle die Axe der X, das Einfallsloth die der Z vor.
+Ist o die Fortpflanzungsgeschwindigkeit des Lichtes parallel zur
+Axe, s die senkrecht darauf und ist die optische Axe unter dem Winkel
+z gegen die Oberfläche geneigt, so wird nach Fresnel's Theorie
+die Wellenoberfläche des ausserordentlichen Strahles durch das Rota-
+tionsellipsoid vorgestellt, dessen Gleichung lautet:
+4) o2 (x2
+— y2
+z2)
+(s2 — o2) (y cos z — z sin z)2 = oe*
+Bildet der einfallende Strahl S A, (Fig. III), mit der Axe Z den Winkel
+8 und die Einfallsebene mit der Ebene XZ den Winkel 1, so ist der-
+selbe bestimmt durch die Gleichungen:

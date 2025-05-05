@@ -1,0 +1,4 @@
+Je-li odběratel v prodlení s placením, je dodavatel
+povinen účtovati a odběratel dodavateli zaplatiti
+1 z dlužné částky jednou provždy a vedle toho ještě
+1/2 %% z dlužné částky za každý den prodlení.

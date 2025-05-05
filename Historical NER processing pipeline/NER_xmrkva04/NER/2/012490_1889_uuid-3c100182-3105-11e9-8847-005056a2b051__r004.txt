@@ -1,0 +1,8 @@
+9(M) = M° + z,M1+.+  =0
+základní rovnice matice M, jest arci r Z0; násobením maticí M-
+1+ zM+r,M-2+... v„M =0
+jakožto základní rovnice matice M-1; neboť z každé rovnice nižšího
+stupně by okamžitě plynula rovnice nižšího než mbo stupně, které by
+hověla matice M.
+Kořeny u., ..., u. matice M podává rovnice P(u) = O a kořeny
+matice M-1 rovnice

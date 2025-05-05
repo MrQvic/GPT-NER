@@ -1,0 +1,17 @@
+Potentialdifferenzen in ionisierten Gasen.
+Metalle dürfte kein Ausschlag im Elektrometer wahrzu-
+nehmen sein.
+Die Versuche bestätigten im großen uud ganzen allerdings
+diese Erwartungen: bestanden die Elektroden aus zwei ver-
+schiedenen Metallen, so luden sie sich zu numerisch gleichen,
+dem Vorzeichen nach entgegengesetzten Potentialen, wenn das
+eine oder andere geerdet wurde; bestanden sie dagegen aus
+dem gleichen Metalle, so zeigte das Elektrometer nahezu
+keinen Ausschlag. Ein Ubelstand jedoch, welcher übrigens
+vorauszusehen war, machte sich unangenehm bemerkbar, näm-
+lich die Abhängigkeit der Potentialdifferenzen von der Be-
+schaffenheit der Oberfläche der Metalle.
+So ergaben sich z. B. für Cu—Zn die Werte:
+0,80 Volt
+frisch geschmirgelt.
+nach längerem Liegen an der Luft . 0,66 „

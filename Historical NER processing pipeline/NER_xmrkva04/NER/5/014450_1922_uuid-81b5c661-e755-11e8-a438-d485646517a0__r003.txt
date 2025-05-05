@@ -1,0 +1,3 @@
+d. = část základní zlaté vložky, zapuštěná v kazivé dutině.
+z. = část základní zlaté vložky, vyčnívající nad okraj dutiny.
+v. = povrchová část modelu, vymodelovaná z vosku.

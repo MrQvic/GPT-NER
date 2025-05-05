@@ -1,0 +1,12 @@
+A. EBERHARDŮV VÝPOČET VRHU ŠIKMO VZHŮRU (1 0).
+V rovnici (u) píšeme 7 místo y, (t. j. 7 značí výšku střely nad
+ústím děla). Dostaneme
+dv2
+Co
+29
+F(v) =—2g—2 6é6—"F(v), (u)
+dn
+sin z
+, kte-
+při čemž jsme označili co střední hodnotu proměnné
+sin

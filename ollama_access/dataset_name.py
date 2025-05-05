@@ -66,5 +66,14 @@ FULL_DATA = {
         "PER": ("PER", "人名和虚构的人物形象"),
         "GPE": ("GPE", "按照国家,城市,州县划分的地理区域"),
         "ORG": ("ORG", "组织包括公司,政府党派,学校,政府,新闻机构"),
+    },
+    "CNEC": {
+        "PER": ("person", "are named persons or family"),
+    },
+    "HISTORICAL": {
+        "PER": ("person", "are named persons or family"),
     }
+
+
+
 }

@@ -1,0 +1,4 @@
+guts) nach Einlieferungs-Nr.,
+Einlieferungs-A, Gegenstand,
+Verpackung, Aufschrift, Bestim-
+mungsort usw.

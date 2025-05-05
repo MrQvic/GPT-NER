@@ -1,0 +1,23 @@
+0.1968, bei Kupfer für gelbes Licht n 1.1140, n, 0.8865, n. 1.3090.
+Für Silber gibt er also bei anomaler Dispersion fast denselben
+durschn. Exponenten an wie KUNDT, für Kupfer zwar einen bedeutend
+höheren, doch aber immer einen kleineren als z. B. beim Wasser,
+für n, einen kleineren als für den luftleeren Raum.
+G. QUINCKE berechnet aus eigenen Beobachtungen mit Hilfe der
+EISENLOHR'schen Formeln 10) n für Gold 0.2705, für Pt n 1.9493.
+W. VOIGT erhält nach eigener Theorie 11) aus den Beobachtungen
+JAMIN'S n bei Silber für Rot 0.28, Grün 0.26, Violett 0.21, bei Kupfer
+für Rot 0.87, Grün 1.38, Violett 1.32, ferner berechnet er aus den
+Beobachtungen S. HAUGHTON'S (Phil. Trans. 1, 1863, p. 87) n. für
+Silber 0.37 (gewalzt), 0.39 (gegossen), 0.40 gewalzt, für. Gold 0.40,
+für Kupfer 0.42, für Platin 1.3, und aus den Beobachtungen QUINCKE'S
+(Pogg. Ann. Jubelbd. 1874, p. 336) für Platin n 2.05, n 1.55.
+P. DRUDE rechnet aus eigenen Beobachtungen
+für Gold n-Gelb 0.366, n-Rot 0.306,
+0.203,
+„ Silber „ 0.181,
+0.580,
+„ Kupfer „ 0.641,
+2.06
+Platin ,
+2.16.

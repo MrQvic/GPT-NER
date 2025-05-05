@@ -1,0 +1,21 @@
+2p. a
+Součet všech odchylek od A jest v tomto případě — 310, to zna-
+mená, že střední hodnota bude ve skutečnosti menší než A
+o určitou hodnotu, která jest pojmenována b a jež se vypočte,
+dělí-li se tento součet odchylek počtem všech individuí variační
+310
+— 0.310 a násobí se rozmezím c = 0.25
+řady, b =
+1000
+mm. Hodnota A = 2.875. (Třída s největším počtem variant jest
+2.75— 3.00 mm.)
+M = A + b . c = 2.875—0,310  0.25 = 2.79750 mm
+Střední hodnota šířky obilky čisté linie 15/35 z ročníku
+1920/21 jest 2.79750 mm.
+Tímto způsobem byly vypočteny pro všechny čisté linie
+střední hodnoty uvedených pšenic jak z pokusu statistického,
+tak i pro naznačené tři čisté linie pšeničné, jež jsou zařazeny
+do statického pokusu na vyčerpání živin z půdy.
+Jest však nezbytně třeba, aby střední hodnota vypočtená
+na zákládě variační řady nějaké měřitelné vlastnosti organismu,
+byla vždy udávána se střední chybou m, jež se vypočte podle

@@ -1,0 +1,8 @@
+Równanie to w najprostszym wypadku atomu wodoru (V=
++ Const., gdzie r oznacza odległość elektronu od jadra)
+nie dla wszystkich wartości parametru E posiada rozwiazania
+prawidlowe, proste i skończone, lecz tylko dla nastepujacych:
+2n2 met
+E. = Const.
+n=1, 2,3...
+hina

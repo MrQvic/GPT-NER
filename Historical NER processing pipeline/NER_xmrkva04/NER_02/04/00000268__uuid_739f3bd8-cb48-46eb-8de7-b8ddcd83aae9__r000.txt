@@ -1,0 +1,5 @@
+Zouden wij dit op koolzuur mogen toepassen dan vinden
+wij met v, = 0,0042, b = 0,0023. Maar deze waarde van b
+is dan zeer veel kleiner dan b, welke volgens de hierboven
+gevonden betrekking, b/b = 0,731, circa 0,00315 zou be-
+dragen.

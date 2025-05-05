@@ -1,0 +1,14 @@
+(k)
+An Stelle des Inbegriffs der GröBen p, haben wir jetzt
+die kontinuierliche Variable y einzuführen. Auf dem Element
+da der Saite befinden sich ndx Massen; allen schreiben wir
+denselben Wert y der Elongation zu, sie tragen alle in gleicher
+Weise zum Wert von W bei; daher hat auch ô W/Op, für
+alle denselben Wert, wofür wir jetzt auch o W/Oy schreiben
+können. Die auf dem Element d'x befindlichen Massen liefern
+also für den Wert der lebendigen Kraft den Beitrag
+nda ſoW2
+2m (dy
+Führen wir noch die Liniendichte der Saite G = nm ein, und
+integrieren diesen Ausdruck über die Länge der Saite, so er-
+halten wir für die gesamte lebendige Kraft den Ausdruck:

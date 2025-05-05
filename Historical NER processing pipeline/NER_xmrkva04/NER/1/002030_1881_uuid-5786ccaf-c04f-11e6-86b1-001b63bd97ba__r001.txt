@@ -1,0 +1,4 @@
+*) Číslu, udávajícímu velikosť ploského obsahu, přikládá se pro krátkosť
+a pro vyrozumění jeho původu také jméno „ploský obsah,“ nebo jen „plocha“
+právě tak, jako číslo, délku přímky udávající též jen krátce základna, výška
+a t. d. slove.

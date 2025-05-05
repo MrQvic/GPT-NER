@@ -1,0 +1,29 @@
+b) Postup právě popsaný v odstavci a) opakujeme vycházejíce
+nyní od hodnot , Vop, X,, t. j. z křivky na obr. 184 vyčteme ku
+X, druhou přibližnou hodnotu c. (c. je lepší než c.); pak k hodnotám c., Vop, X,
+ze sítí oprav větru vyčteme opravu Caw (lepší než Clw). Dostaneme druhou (lepší) hod-
+W
+notu opraveného dostřelu
+X, = Xp — Cawx 10
+c) Týž postup opakujeme po třetí vycházejíce od hodnot , Vop, X. Postupně dostaneme
+W
+Obyčejně již jest X, = X,, takže skončíme opravování vlivu
+c,, Cswrr X. = Xp — Cawx
+10
+větru.
+d) Poslední hodnota c, přísluší k střední váze střely pp a k specifické váze vzduchu
+u děla Ap. Tedy k tabulkovým hodnotám p, A, = 1,211 kgm“ přísluší balistický koeficient
+1,211 Po
+c =
+(20)
+Aop P
+K hodnotám q, vo, c vyčteme ze sítě dostřelů hledaný normální dostřel X.*)
+e) Výpočet normálního dostřelu X kontrolujeme takto: k hodnotám q, vo, X vyčteme
+ze sítí opravy Cc, Cvo, Cwx a přesvědčíme se, zda k perturbacím
+46p — 1,211
+ pa. = P]
+8c = c
+1,211
+1,211
+vskutku přísluší perturbovaný dostřel
+X, = X + C. 3c + Coo 2Vo + Cwx

@@ -1,0 +1,6 @@
+deformacím pružným nelze zanedbávati. Chceme-li však řešení zvole-
+ného problému sledovati dle známých zásad theorie pružnosti, jest
+nám šetřiti jejich předpokladů a tudíž vycházeti při určování modulů
+pružnosti od deformací pružných a ne trvalých, které za tím účelem
+jest náležitě na vzájem rozlišovati. Z té příčiny byly čitatelé Ada 4 U
+poměrů 2 a � v obou tabulkách I. a II. odvozeny podle vzorců:

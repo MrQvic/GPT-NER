@@ -1,0 +1,2 @@
+Jelikož M má nullitu u, tedy existuje z neodvislých systemů (x),
+které označíme Z., hovících rovnosti

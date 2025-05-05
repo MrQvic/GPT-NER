@@ -1,0 +1,11 @@
+Si, au bout du temps t, on divise l'espace en une infinité de tranches par des plans
+parallèles les uns aux autres, et correspondants aux valeurs de v qui reproduisent des
+de
+valeurs données de la fonction a et de sa dérivée
+, la constante l représen-
+tera évidemment l'épaisseur de chaque tranche, tandis que la constante T repré-
+sentera la durée des oscillations isochrones successivement exécutées par une molécule.
+Nous nommerons ondes planes les tranches dont nous venons de parler, et, pour fixer
+les idées, nous supposerons ces ondes comprises entre des plans tracés de manière qu'au
+bout du temps t l'épaisseur de l'une d'elles soit divisée en parties égales par le plan
+auquel appartient l'équation

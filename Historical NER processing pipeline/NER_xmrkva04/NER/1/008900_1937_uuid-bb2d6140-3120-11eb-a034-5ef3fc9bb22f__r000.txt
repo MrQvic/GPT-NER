@@ -1,0 +1,8 @@
+20. Podstavec se skládá ze základní desky s rámy, ze
+zadního a předního stojánku.
+Základní deska s rámy je základnou celého podstavce.
+Skládá se:
+a) ze základní desky (střední část) a
+b) z dvou pohyblivých rámů nestejné velikosti, nastrče-
+ných na desce. Rámy jsou udržovány v žádoucí poloze na
+základní desce pojistnými šrouby.

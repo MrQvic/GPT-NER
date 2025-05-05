@@ -1,0 +1,11 @@
+Tragmom. Gleichung bei dem wir bereits unter a. 1. fanden, dass, wenn man alles durch die absolute Festig-
+keit ausdrückt das Widerstandsmoment der rückwirkenden Tragbänder gleich ist jenem der absolut wirkenden.
+Da hier nur dieser Faktor bei der Untersuchung entscheidend ist, so brauchen wir ihn nicht mehr
+zu untersuchen, und haben daher blos den Werth des Trägheits-od. Biegungsmomentes anzugeben. Wir erhiel-
+uN
+8uN/ k
+ten daselbst, 401= (fr+ufr), wo blos bei dem andern Faktor , für u sein Werth eingeführt erscheint.
+Werden hier noch f und * durch F und II ausgedrückt substituirt, so erhallen wir
+16N. L0. . F.H
+16uN . k . '. F . 2 H3
+491=

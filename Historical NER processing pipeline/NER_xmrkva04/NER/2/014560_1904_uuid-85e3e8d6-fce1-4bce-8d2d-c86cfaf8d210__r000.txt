@@ -1,0 +1,16 @@
+Vn +1 21
+Es bedeutet nun S/Vn + 1 die Projektion der Schnittfigur S
+auf eine der Koordinatenebenen, z. B. auf die Überebene x = 0.
+Diese Projektion kann berechnet werden als ein n-faches In-
+tegral nach den Koordinaten α1, a,,... „. Das Integrations-
+gebiet erstreckt sich für jede Koordinate von —h bis + h;
+außerdem aber ist zu beachten, daß nur solche Kombinationen
+der a, . . . x, in Betracht zu ziehen sind, zu denen sich ein
+co§h finden läßt derart, daß o + x1 + ... a, = æ. Das
+Integrationsgebiet der Variabeln z1, z,, . .. x, ist daher durch
+die weitere Bedingung zu beschränken:
+x
+a, 1 K h.
+Nach dem Vorgange von Dirichlet berücksichtigen wir
+diese Bedingung dadurch, daß wir unter dem Integral einen
+„Diskontinuitätsfaktor“ hinzufügen, der für alle der Un-

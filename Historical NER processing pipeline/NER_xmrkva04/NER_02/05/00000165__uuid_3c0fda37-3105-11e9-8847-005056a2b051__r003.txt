@@ -1,0 +1,3 @@
+z(M) = 9(M)
+má-li v (M) býti nullity n t. j. má-li
+*(M) = 0.

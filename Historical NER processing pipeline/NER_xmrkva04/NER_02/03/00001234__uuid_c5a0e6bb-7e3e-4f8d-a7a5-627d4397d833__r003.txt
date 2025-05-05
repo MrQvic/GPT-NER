@@ -1,0 +1,3 @@
+Die Componenten von R nach zwei zu R parallelen Richtungen, zwischen welchen R liegt, sind
+gleichgerichtet mit R; sie verhalten sich umgekehrt wie ihre Abstände von R und ihre Summe ist
+gleich R.

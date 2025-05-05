@@ -1,0 +1,6 @@
+Předpokládejme, že střední rychlost hoření r se s teplotou prachu v zapalovači mění úměrně
+jako se [podle rovnice (2) na str. 365] mění rychlost hoření C zapalovače hořícího v klidu. Tedy
+že jest dr =rk,99 a pro 29= + 10°C jest
+(18)
+dr = 10 r ka.
+Dosadíme-li z rovnic (17), (18) do rovnice

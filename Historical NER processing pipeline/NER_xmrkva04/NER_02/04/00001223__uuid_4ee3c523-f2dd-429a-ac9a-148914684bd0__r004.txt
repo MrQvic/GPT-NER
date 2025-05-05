@@ -1,0 +1,6 @@
+Anmerkung. Die neuern Mathematiker bestimmen fürs Praktische den Modul dur Elastizität nicht aus
+grossen Versuchsgewichten, die bei der absoluten Festigheit bereits an der Gränze des Zerreissens, und bef der-re-
+lativen Festigkeit an der Gränze des Bruches liegen, oder gar das Zerreisen und den Bruch hervorbringen; weil in
+diesen Gränzen nicht mehr jene Proporzionalität zwischen den Belastungen (oder Spannkraften) und den Ausdehnun-
+gen oder Biegungen statt findet, welche bei kleinen Belastungen, ohne blejbende Ausdehnung oder Biegung statt fand.
+Da findet schon eine Alteration der vollkommenen Elastizität statt, und die Körper nehmen eine bleibende Ausdehnung

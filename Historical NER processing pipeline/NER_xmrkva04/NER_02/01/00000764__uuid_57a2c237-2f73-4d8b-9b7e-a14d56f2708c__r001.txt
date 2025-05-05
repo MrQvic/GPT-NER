@@ -1,0 +1,11 @@
+so muss dH=II
+!-
+folglich 11—. woraus folgt n — 1=1—n, oder n=1.
+jn-
+Das Resultat ist: Sollen die Tragbänder-Sekzionen einander gleich sein und die neutrale
+Axe in |1" liegen, so muss diesen Sekzionen der 6te Theil der Tragwandſläche zu ihrem Querschnitle gege-
+ben werden, und dann sind (für n =1) die Festigkeiten der Tragbänder und der Tragwände genau einander
+gleich, wie es die Fundamentalgleichung nft—f=díl—tudit zeigt, die jetzt ist ft—ſiz /dH—dII. In die-
+sem Falle trägt also jedes Tragband der einzelnen Wände den 4ten Theil der Last, welche an der Trag-
+wand wirksam ist, und die Wand selbst (das Gitterwerk oder die Blechwand) trägt mit beiden ihre Festigkei-
+ten 44 der übrigen Last.

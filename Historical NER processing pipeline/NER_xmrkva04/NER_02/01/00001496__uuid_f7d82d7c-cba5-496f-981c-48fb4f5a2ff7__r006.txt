@@ -1,0 +1,3 @@
+Je-li událost U jinou nežli lineární funkcí proměnných x, y, z,
+jest tuto pro řešení převésti na tvar lineární; jedna z možných cest
+k tomuto cíli jest tato:

@@ -1,0 +1,7 @@
+K vůli dalšímu zjednodušení uvažme, že moment ohybu M, kolem
+osy U se tím více blíží k nulle, čím více zvětšujíce poloměry křivosti
+a kroucenosti, necháme schody točité přecházeti tvarem do schodů
+přímoramenných. Z té příčiny jakož i s ohledem na nepoměrnou převahu
+momentu W.  W, dle (22) nad momentem W, leží na snadě zanedbati
+v rovnici (31) člen první vůči členu druhému. Dosadíce dle (11) ještě
+m

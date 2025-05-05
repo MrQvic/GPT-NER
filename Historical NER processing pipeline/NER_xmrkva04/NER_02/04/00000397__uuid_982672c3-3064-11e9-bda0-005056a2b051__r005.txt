@@ -1,0 +1,3 @@
+dont la première devra être étendue à toutes les valeurs positives du nombre entier n,
+et la seconde à toutes les valeurs de n qui surpassent l'unité. De plus, en dévelop-
+pant les expressions

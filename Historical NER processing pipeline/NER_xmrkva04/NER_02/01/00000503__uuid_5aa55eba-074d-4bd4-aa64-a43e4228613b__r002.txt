@@ -1,0 +1,2 @@
+Ermittlung des Winkelfehlers der Triangulation
+I. Ordnung in Österreich-Ungarn.

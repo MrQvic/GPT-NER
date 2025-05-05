@@ -1,0 +1,3 @@
+Die Komponenten der pro Sekunde von F im reflektierten
+Lichte ausgesandten Bewegungsgröße, normal und tangentiell
+zur Platte genommen, sind:

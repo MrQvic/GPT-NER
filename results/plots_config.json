@@ -1,0 +1,35 @@
+{
+  "conll_random_without_verification": {
+    "dataset": "CONLL_RESULTS",
+    "plot_type": "barplot",
+    "title": "Random Retrieval - Without Self-Verification",
+    "filters": {
+      "Method": "Random",
+      "Verification": "without_verification"
+    },
+    "x": "Model",
+    "y": "Score",
+    "hue": "Metric",
+    "palette": {
+      "Precision": "#2ecc71",
+      "Recall": "#e74c3c", 
+      "F1": "#3498db"
+    },
+    "ylim": [0, 100],
+    "show_bar_labels": true,
+    "filename": "conll_random_without_verification"
+  },
+  "cnec_comparison": {
+    "dataset": "CNEC_RESULTS",
+    "plot_type": "barplot",
+    "title": "CNEC Dataset - Model Comparison",
+    "filters": {
+      "Method": "Random"
+    },
+    "x": "Model",
+    "y": "Score",
+    "hue": "Metric",
+    "figure_size": [12, 8],
+    "filename": "cnec_comparison"
+  }
+}

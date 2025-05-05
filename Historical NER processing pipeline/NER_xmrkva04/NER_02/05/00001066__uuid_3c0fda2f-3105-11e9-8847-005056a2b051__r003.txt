@@ -1,0 +1,15 @@
+an — u, ara, . . .
+din
+dz1,
+d,2 — u, . . . zn
+. . . . . . . . . . . . . . . .
+dn2,
+dni,
+. . . m —u
+Tuto rovnici, která jest patrně tvaru
+ƒ(u) = (— 1)'" + c, "—1+ c,n—
+kde c, značí determinant A =/ M  , nazveme charakteristickou rovnicí
+matice M.*)
+Hodnoty koefficientů c lze snadno udati; patrně máme, značí-li
+Ax minor determinantu  náležející k elementu aa,
+c1 = — (A+ ,+ . . . + A);

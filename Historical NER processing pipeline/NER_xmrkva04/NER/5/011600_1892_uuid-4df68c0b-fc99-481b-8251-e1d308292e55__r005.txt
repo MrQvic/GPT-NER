@@ -1,0 +1,14 @@
+9
+Lithographen .
+.
+Maler . . . . .
+. . . 6
+Schlosser (Bauschlosser) 45
+»
+(Maschinen-
+schlosser) . . 59
+Schmiede . . . . . . 10
+Schneider . . . . . . 4
+Schuhmacher . . . . . 12
+Seiler . . . . . . . . 1
+Spengler . . . . . . . 15

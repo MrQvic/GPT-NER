@@ -1,0 +1,1 @@
+Proto jest počet rovnic výminečných, jejž hledáme,

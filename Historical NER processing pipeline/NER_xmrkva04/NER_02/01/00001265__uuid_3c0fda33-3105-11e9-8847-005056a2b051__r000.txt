@@ -1,0 +1,7 @@
+neb jinak by byla O vícenásobným kořenem než a — a-násobným.
+Dále platí a, Z a, neboť dle supposice jest v G n — a, — «,
+neodvislých řádek, tedy jest i tolik neodvislých v posledních n — a,
+řádkách matice M,, tedy jest mezi nimi odvislých n —a,—(n— a,— a,)
+t. j. α., a tedy jest M, alespoň nullity a., pročež a,Z a.
+Stanovme nyní a, neodvislých soustav (y), . . ., (yf“2) hovících
+rovnosti

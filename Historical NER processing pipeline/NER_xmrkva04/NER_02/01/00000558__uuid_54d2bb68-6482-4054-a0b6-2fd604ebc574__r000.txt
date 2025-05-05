@@ -1,0 +1,12 @@
+Die Zahlen der Gruppe I. sind in den Zahlen der Gruppe III. enthalten, wenn n in III.
+ungerade ist, und die Zahlen der Gruppe IV. sind in der Gruppe II. enthalten, wenn p in IV.
+ungerade ist.
+Setzt man in II. (pn) = a2, p = 2, n = , so geht die Formel über in
+a + 2 = a + n, 2a und setzt man in III. die Werthe für pn und n ein, so geht sie über in
+n
+a2 + “ = a + 2p + 2a, welche letzte Formel in die vorhergehende übergeht, wenn 2p = n
+V
+p
+2a
+ist, folglich müssen die Wurzeln aus allen Zahlen, die sich ausdrücken lassen durch a2 —
+gleich sein dem Kettenbruch a +

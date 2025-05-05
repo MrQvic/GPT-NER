@@ -1,0 +1,3 @@
+il suffira d'égaler entre eux les termes qui, dans les deux membres des équations (43)
+et (44), représenteront des fonctions homogènes de u, v, w du degré 2n pour obte-
+nir les formules

@@ -1,0 +1,15 @@
+in d, und d, resp. mit 4, und 1, und die Schnittpunkte dieser Tangenten resp. mit v, d, und
+v, d, mit den Buchstaben ò, und 8,, so sind auch (d,. ô,) und (d,, ô,) entsprechende Punkte
+der beiden projektivischen Reihen.
+Soll nun zum Punkte x, das Paar entsprechender Punkte x,, x, gefunden werden,
+so handelt es sich darum, die Schnittpunkte des Trägers C, mit den beiden durch x, gehenden
+Tangenten des Involutionskegelschnittes zu bestimmen. Diese zwei Punkte ergeben sich uns
+nun als Doppelpunkte der beiden projektivischen Systeme, in welchen sich aus z, die beiden
+auf d, v,, d, v, befindlichen projektivischen Punktreihen projiciren.
+Es sei nun o der zweite Schnittpunkt der Geraden, welche x, mit dem Schnittpunkte
+der Geraden v, d,, v, d, verbindet, mit dem Träger C,; ferner mögen sich die Punkte o,, ô,
+aus x, in ô, o, auf den Träger C, projiciren. Den beiden projektivischen Systemen auf C,
+deren Doppelpunkte die gesuchten Punkte x2, x, sind, gehören nun die Paare:
+V, 0; ov,; d, ò. ; o, d,
+als Paare entsprechender Punkte an. Die Axe 2E der beiden projektivischen Systeme ist
+bestimmt durch die drei Punkte:

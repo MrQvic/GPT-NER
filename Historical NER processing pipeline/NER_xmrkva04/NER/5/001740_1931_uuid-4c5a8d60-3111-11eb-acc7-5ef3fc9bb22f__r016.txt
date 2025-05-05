@@ -1,0 +1,10 @@
+Pohyb nemocných podle divisních oblastí.
+Mouvement général des malades par territoire de division
+Pohyb nemocných podle zbraní a služeb.
+Mouvement général des malades par arme et service
+Pohyb nemocných podle měsíců a divisních oblastí. Absolutní čísla.
+Mouvement général des malades par mois et par territoire de division. Nombre absolu
+Pohyb nemocných podle měsíců a divisních oblastí. Poměrná čísla na 100.000 prů-
+měrného počtu živených.
+Mouvement général des malades par mois et par territoire de division. Proportion pour 100.000
+d'effectif moyen ..

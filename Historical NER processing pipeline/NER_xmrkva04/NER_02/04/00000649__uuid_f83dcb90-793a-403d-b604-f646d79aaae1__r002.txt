@@ -1,0 +1,13 @@
+I. Rychlovlak přijíždí k nádraží po vodorovné dráze stálou rychlostí
+c = 21 msek. Když byla v parním kotle uzavřena vodní pára, vykonává
+vlak následkem tření pohyb rovnoměrně zpožděný.
+1. Jak veliké je zpoždění v, je-li koefficient tření o
+vlaku?
+2. Která je rychlost c, vlaku po prvé vteřině?
+3. Která jest dráha za tuto první sekundu?
+4. Kdy zastaví se rychlík?
+Řešení: 1. Uvážíme-li, že zrychlení způsobená silami stálými
+mají se k sobě při téže popuzované hmotě tak, jako měrná čísla sil, bude
+980.6
+4.9 cm/sek2.,
+Mg: My= 1: —, a proto y

@@ -1,0 +1,5 @@
+Tento závod je buď vícebojem nebo závodem zvlášt-
+ním. Závodí se buď jen v povinných sestavách nebo
+jen ve volných sestavách nebo v povinných i volných
+sestavách. K závodu lze připojiti i závod v prostných,
+povinných nebo volných i obojích.

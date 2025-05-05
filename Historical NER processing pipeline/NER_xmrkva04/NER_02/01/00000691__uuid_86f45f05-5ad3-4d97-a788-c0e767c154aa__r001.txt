@@ -1,0 +1,11 @@
+SA
+Na,8,O,.5H,O
+0,569
+CaCl, 6H,O
+0,56
+Na,HPO.12H,O 0,734
+H,SO,.H,O
+0,433
+CaN,O,.4H,O
+0,519
+Sie bestätigen durchweg die Regel.

@@ -1,0 +1,13 @@
+Resultaten der Wägung anzubringenden Correctionen sind somit nicht unbe-
+deutend, da die Wage bei 50 Grammen Belastung noch 0.05 Milligramme
+ausschlägt, der durch die Unrichtigkeit der Wage hervorgebrachte Fehler
+aber beinahe 0.4 Milligramme beträgt, während er bei 1 Gramm Belastung
+nur 0.03 Milligramme ausmacht.
+Dass diese Methode das Verhältniss von r zu 1 direct zu bestimmen,
+auch abgesehen von jeder Biegung des Balkens, von grossem Nutzen ist,
+dürfte in die Augen springen, wenn man bedenkt, dass es unmöglich ist,
+die beiden Hebelarme absolut gleich lang zu machen, eine absolut richtige
+Wage also kaum existiren dürfte und die Methode der doppelten Wägung
+zeitraubend und der Gefahr des zweimaligen Fehlens ausgesetzt ist.
+Ebenso dürfte es nicht praktisch sein das wahre Gewicht aus der
+Formel

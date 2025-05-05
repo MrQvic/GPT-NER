@@ -1,0 +1,8 @@
+B. Für den östlichen Teil der Monarchie.
+Anzahl der Schlußfehler: n = 501.
+a) Anzahl der positiven Schlußfehler .
+. . . . Z4.= 252
+Anzahl der negativen Schlußfehler . . . . . Zx= 249
+Unterschied . .
+. . Z4x— Z X=+ 3
+Die Theorie gibt nach 13) als Grenzen: 242 — 259.

@@ -1,0 +1,28 @@
+Zahřívá-li se plyn z 00 na 2730, zdvoj-
+násobuje se podle zákona Charles-Daltonova
+jeho objem; podle toho, ochladí-li se plyn z 00
+na —2730 (absolutní temperatura), pozbyl by
+svého objemu, t. j. pod —2730 nemůže se
+již vyskytovati.
+Teplotu měříme na stupně podle Celsia
+nebo Reaumura. Reaumurova stupnice =
+4/52 stupnice Celsiovy, Celsiova pak = 5/4 stup-
+nice Reaumurovy.
+Teplota plynu na slunci dosahuje až 600
+nad teplotou vzduchu, za noci až 200 pod ní.
+Hustota jest vyjádřena počtem kg v 1 m3
+— t
+při tlaku — p/b/ — a teplotě
+Normální hustotou jest hustota při tlaku
+760 mm a 0% C.
+Normální hustota vzduchu jest 1.293 kg
+Specifická váha jest váha jedné objemové
+jednotky plynu, měřená vahou jedné objemové
+jednotky vzduchu při stejném b a t.
+Ypl
+S =
+Yvzd
+Nosnost plynu v libovolné výšce atmosféry
+se rovná vztlaku zmenšenému o váhu plynu.
+Vztlakem nazýváme váhu vzduchu vytlače-
+ného plynem

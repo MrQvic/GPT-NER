@@ -1,0 +1,3 @@
+10 Latein.
+2 Deutsch.
+2 Französ.

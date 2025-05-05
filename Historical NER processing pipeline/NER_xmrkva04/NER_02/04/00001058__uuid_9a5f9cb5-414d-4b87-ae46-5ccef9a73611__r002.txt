@@ -1,0 +1,4 @@
+Hiernach ergibt sich der Satz:
+„Eine Schar von col Krümmungselementen ay ýl
+bildet einen Verein, ihr Punktort eine Integralkurve nur dann,
+wenn die Koordinaten den beiden Differentialgleichungen

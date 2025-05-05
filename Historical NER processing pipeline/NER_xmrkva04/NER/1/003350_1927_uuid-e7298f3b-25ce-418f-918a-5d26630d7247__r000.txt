@@ -1,0 +1,21 @@
+323
+866
+1000
+974
+Dolejší řada vzniká součtem variant v jednotlivých třídách
+(podle Johannsena „Aufzählungsreihe“). Hranice poloviny řady
+(Med), která nepřekročuje 500 promile, musí býti mezi 2.75
+mm a 3.00 mm. Za předpokladu, že varianty jsou stejnoměrně
+ve třídě rozděleny (tomuto předpokladu přibližujeme se tím
+více, čím užší jsou variační třídy, čím menší jest rozmezí),
+můžeme lehce hledanou hranici nalézti. Do 2.75 mm nalézá se
+323 promile, chybící do 500, 500—323= 177 leží nad 2.75 mm
+a pod 3.00 mm. V této třídě jest 543 variant (promile), proto
+177:543 =0.326 mm. Tuto hodnotu třeba přepočítati ovšem na
+rozmezí 0.25 mm. Bude potom hranice první poloviny řady
+2.75 mm + 0.08150 mm
+Med = 2.83150 mm
+V případě ideálně souměrné křivky jest hodnota Med rovna
+střední hodnotě M. Nerovná-li se však rozdíl M—Med nule,
+nýbrž hodnotě záporné, t. j., je-li Med větší než M, jest křivka
+skloněna na pravou stranu, je-li rozdíl M—Med kladný, jest

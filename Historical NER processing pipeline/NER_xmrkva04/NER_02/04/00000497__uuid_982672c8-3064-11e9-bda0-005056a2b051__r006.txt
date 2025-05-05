@@ -1,0 +1,2 @@
+le carré du demi-axe qui, dans l'ellipsoide, coincide avec la trace du plan de l'onde
+primitive sur le plan mené par le point O perpendiculairement à l'axe des z, et

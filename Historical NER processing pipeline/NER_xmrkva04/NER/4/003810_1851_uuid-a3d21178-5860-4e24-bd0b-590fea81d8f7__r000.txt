@@ -1,0 +1,23 @@
+21227 : 2122695 = 99,9997
+212265
+212220
+211770
+207270
+162270
+na místě 100 pinet dle přísného poměru, napočítaloby
+se dle tuto zvoleného poměru 99,9997 pinet; v ce-
+lých číslech na místě 1000000 sblížených byloby
+999997 přísně počítaných, tedy jest rozdíl při 100 pintách
+jen o 3/10000 pinty, při 1000000 pintách o 3 pinty, což
+ve skutečnosti docela zmízí. Jest tedy poměr víd. mázů
+k českým pintám 27: 20 velmi dobrý i pohodlný.
+Jiný příklad.
+b) Dle IV. tabulky rovná se
+560,01 pruských liber s 467,711 víd. librami anebo
+560010
+= 467711
+„
+„
+„
+jaké z toho dostaneme sblížené poměry?
+467711 : 560010 =1

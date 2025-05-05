@@ -1,0 +1,14 @@
+První způsob. Vyrovnanou hodnotu co,, vypočtenou vzorcem
+(3), přijměme nyní jako konstantní balistický koeficient pro všech-
+ny dráhy počítané grafické tabulky střelby. Opět si vykresleme
+ve velkém měřítku bod A (x', yí) a v jeho okolí základní dráhu Z
+(příslušnou k úhlu výstřelu g), jakož i dráhu Z2 příslušnou k úhlu
+výstřelu (� + 10). Dráhu Z, dostaneme z dráhy Z pomocí dife-
+renciálních koeficientů příslušných k změně q = + arc 10'. Viz obr.
+192. V tomto zobrazení změříme kolmou vzdálenost Kg obou drah
+Z, Z,. Hodnotu ky známe z předešlého výpočtu. Perturbovanou
+dráhu Py, jež přísluší k úhlu � a je vyrovnána jen vzhledem k bal.
+koeficientu co, změňme nyní změnou  — 9 = 2 v dráhu P.í,
+jež bude vyrovnána jak vzhledem k co, tak též vzhledem k vyrov-
+nanému úhlu výstřelu '. Obdobně jako jsme dostali rovnici (1),
+dostaneme též

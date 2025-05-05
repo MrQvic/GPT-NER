@@ -1,0 +1,4 @@
+Výstřel způsobuje tyto sluchové vněmy: krátká rána výstřelu, dlouhý zvuk letící střely
+a (měla-li střela rychlost větší než c) velmi krátký třesk vlny balistické. Vnímání těchto dojmů
+závisí též na umístění pozorovatele vzhledem k dráze střely.
+Z předešlých odstavců známe již příčiny rány výstřelu i vlny balistické.

@@ -1,0 +1,10 @@
+V případě, že rozmezí není rovno jedničce, jest třeba použíti
+hodnoty, nikoliv jako hodnoty skutečného středního kolísání,
+nýbrž jako nepřepočítané hodnoty v našem případě na rozmezí
+variační řady šířky obilky 0.25 mm.
+Pro čistou linii 15/35 z ročníku 1920/21 jest hodnota čísla
+sklonu značně negativní, bude tedy variační křivka silně sklo-
+něna na pravou stranu. Tím způsobem byly vypočítány hod-
+noty čísla sklonu všech variačních řad šířky obilky pozorova-
+ných čistých linií v jednotlivých létech a čistých linií z pokusu
+statického.

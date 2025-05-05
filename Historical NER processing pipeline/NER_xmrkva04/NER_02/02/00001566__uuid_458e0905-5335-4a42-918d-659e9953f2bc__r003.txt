@@ -1,0 +1,4 @@
+Die Produkte der absoluten Festigkeit betragen 9808.2; jene der rückwirkenden Festigkeit 3(7846.42)=9808.
+Sie sind also einander vollkommen gleich. Man kann daher beide Tragmomente gleich setzen 2r=2x9808=
+19616 oder 19600. Demnach ist die Gleichung zwischen den offensiven und defensiven Kräften
+19l=44. (2.)N, wenn N Tragwände sind.

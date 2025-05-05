@@ -1,0 +1,2 @@
+C. Jak se integrují rovnice s částečnými differen-
+ciálními poměry.

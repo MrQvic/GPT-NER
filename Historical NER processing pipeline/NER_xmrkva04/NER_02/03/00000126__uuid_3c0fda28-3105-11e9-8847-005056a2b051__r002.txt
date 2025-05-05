@@ -1,0 +1,10 @@
+budou příslušná řešení (x) linearně neodvislými dle čl. 6. A poněvadž
+každý system c,„+1, . . ., �„ lze složiti z vytknutých v neodvislých
+systemů, lze každé řešení (x) složiti z vytknutých v řešení (x).
+Nyní snadno dokážeme, že platí i opak, t. j.: Vyhovuje-li
+daným rovnicím v neodvislých řešení (x), pak musí A býti nullity,
+která není menší než v, t. j. determinant A musí vymizeti i se
+všemi minory stupně vyššího než n— v. Neboť jakmile by některý
+nemízící minor byl stupně o n—v, tu bychom ihned soudili, že
+může existovati nanejvýš n — 6 linearně neodvislých řešení (x), proti
+supposici, že jich máme v n — 6.

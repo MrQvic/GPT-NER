@@ -1,0 +1,17 @@
+Versuche nachgewiesen wurde, dass die Niete eben so stark sind, als das Blech, durch dass sie gehen: so muss
+man hei den Fugen mit einfachen Vernielungen die Bleche so durchbohren, dass eben so viel massives Blech
+bleibt als die Räume betragen, welche die Platte wegen der Durchbohrung verlor, (wenn man den Widerstand
+der Reibung vernachlässigt). Es beträgt aber, wenn die Zahl der Niete (n) ist, die Zahl der gesammten zwischen
+den Löchern blefbenden Intervallen des Bleches sammt den 2 äusseren (n+ 1). Bezeichnet (d) den Durch-
+messer der Bolzen, so ist die Gesammtbreite der nach der Durchhohrung im Blech bleibenden Stellen (n+1) d.
+Die (n) Nieten, nehmen der Breite nach den Raum nd ein, so dass die Breite (b) der ganzen Platte gleich ist
+nd+ (n+ 1)d = (2n+ 1)d. Und darans ergibt sich das Verhällniss der Schwächung des Metalls, wenn die
+Dicke der Platten mit (2) bezeichnet wird, mit K=+ 1) da n+ 1
+(I
+202n+
+1)
+k
+(2n+1)da 2n + 1
+Bei langen Fugen ist dieses Verhältniss nur wenig von 1/2 verschieden, was folgendes Beispiel bewei-
+sen wird. Es sei b = 10; d=1“. Weil b= (2n + 1)d ist, so folgt daraus n =
+(2). )

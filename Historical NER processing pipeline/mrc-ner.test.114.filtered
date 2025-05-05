@@ -1,0 +1,1859 @@
+[
+  {
+    "context": "kteří ve šlechetné dobročinnosti spolku hluchoněmých sv . Františka Saleského příspěvky věnovali :",
+    "end_position": [
+      8,
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "6;8",
+      "9;9"
+    ],
+    "start_position": [
+      6,
+      9
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000001__uuid:09ae4994-0ad9-4071-9f81-7df50a08c84a__r003.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "pod nápisem : o měřenj teploty a zákonech saučast - úowáni tepla . Obtjžné uměnj zkaušenj ukazuge se w tomto spisu welmi šťastně spogeno s zběhlostj wý - padky swětlegi a wšeobecněgi udělati , an rozboru mathematického se užilo .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000001__uuid:7e444927-0d40-4ea3-a17c-fe409f46d4c7__r000.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "OLOMOUC 1920 . ARCIBISKUPSKÁ KNIH - A KAMENOTISKÁRNA V OLOMOUCI . NÁKLADEM CYRILLOMETHODĚJSKÉ BOHOSLOVECKÉ FAKULTY .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "12;12"
+    ],
+    "start_position": [
+      12
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000002__uuid:dced2e26-2d42-4de0-b765-f997de6ed856__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "RAKOUSKO - UHERSKO , ITALIE , ŠVÝCARY , NĚMECKO .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000004__uuid:4f55f740-c6f6-43cd-8d47-37d98d917151__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "XV . Návěští pro školní rok 1909 — 1910 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000004__uuid:b504e793-e51f-4199-8ebe-fb69f7c75311__r001.txt",
+    "anotator_id": "05"
+  },
+  {
+    "context": "Cassa - Rechnung des Zaubſtummen : Inſtituts für das Solarjahr 1831 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000005__uuid:21f6f7b8-2028-405c-a17c-910db0ce0a16__r006.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "KNIHTISKÁRNA K . REYL V PRAZE - III . NÁKLADEM VLASTNÍMN .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000007__uuid:12abee44-790c-40c9-ab2e-51e8939dc14e__r005.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Vycházky a výlety v okolí benešovském . Sestavil prof . Rud . Bačkovský .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "7.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "8;12"
+    ],
+    "start_position": [
+      8
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000008__uuid:39276a90-0ac5-4f66-9e13-8314b2ea4604__r001.txt",
+    "anotator_id": "05"
+  },
+  {
+    "context": "Josef Pavlíček , 674 May Street Chicago , III .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "8.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000009__uuid:af2167c0-4bd6-11ed-8b12-0050568d9066__r014.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Seznam poskytnutých darů , podpor a pohřebních příspěvků za čas od 1 . října 1889 do 30 . září 1891 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "9.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000014__uuid:0fcae465-50e3-47ad-853f-d455524112fb__r010.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Čistý výnos připadne matici pro stavbu kostela v Husovicích .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "10.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000016__uuid:dd3ed852-7946-4624-b2c9-6c4e3824b2f9__r001.txt",
+    "anotator_id": "05"
+  },
+  {
+    "context": "OBZOR LITERÁRNÍ A UMĚLECKÝ .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "11.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000024__uuid:4be4f240-fb34-11ed-a810-5ef3fcdaa9a7__r003.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Dolní Hedeč Dolní Dvůr Dolní Malá Úpa Dolní Chřibská",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "12.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000025__uuid:893d0a48-1290-4ea9-8525-69395270d1ea__r068.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Od Otavy . Slíbil jsem ku konci svého dopisu v č . 11 . přihlížeti k ostatním pomě - rům „ mikroskopicky “ . Mohloť by se to mylně",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000026__uuid:90125a00-98f6-11ea-ba7c-5ef3fc9bb22f__r001.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "N . SLOVANSKÁ NIHOVNA A ČÍTÁRNA Č . A . Z . V PRAZE",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000027__uuid:c2ab5ab4-d3f7-4cff-99d4-56aeaed54cda__r014.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "110 Toman a lesní panna I . 111 Toman a lesní panna II . 112 Polednice",
+    "end_position": [
+      1,
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;1",
+      "8;8"
+    ],
+    "start_position": [
+      1,
+      8
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000031__uuid:12334414-831d-4349-a345-00941c037503__r003.txt",
+    "anotator_id": "05"
+  },
+  {
+    "context": "Lombar - die Benátsko Ligurie Emilie Marky a Umbrie Toskána Latium Jižní po - břeží mo - ře jader - ského Jižní po - břeží mo - ře Středo zemního Sicilie Sardinie V celé Itali hl .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "16.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000033__uuid:8b00d09c-ccc4-4a71-9ac9-4ee23878cf12__r003.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Tiskem A . Haase . — Nákladem vlastním .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "17.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;4"
+    ],
+    "start_position": [
+      1
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000034__uuid:a228471d-654e-45f9-ab3c-d21d91200fa3__r004.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Vorträge der Lektoren : Drei čechische Sprachkurse von Dr . Koydl , zwei von Dr . Rippl , zwei von Dr . Liewehr .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "18.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000036__uuid:7f98f8d0-fcf8-4e9c-a03f-10bca2fbb7eb__r003.txt",
+    "anotator_id": "05"
+  },
+  {
+    "context": "26 . I . 1831 7 . XII . 1870",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "19.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000038__uuid:044bfa58-9b13-4d21-b6e3-1ea554e20950__r004.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "1 ) Pověst tato jest ve spojení s pověstí shora uvedenou o doprovodu kněžny Doubravky do Polska .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "20.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "14;14"
+    ],
+    "start_position": [
+      14
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000041__uuid:0fec396d-720d-44e3-90a3-77022d8a0ba5__r001.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "v sezení dne 28 . ledna 1864 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "21.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000042__uuid:d3794b63-1233-4b64-a83b-daf12581f540__r006.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Cheb , dívčí Jablonec n . N . , dívčí Liberec , dívčí Plzeň , dívčí Praha II , dívčí Teplice - Šanov , dívčí Ústí n . L . , dívčí Karlovy Vary , dívčí",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "22.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000043__uuid:eb47bdf0-7d70-11ed-bcd6-005056822549__r004.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "VST v ofělsvošjer8 8 L meďaiT",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "23.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000044__uuid:b69dea9b-69f4-496e-b7c3-8ccf8d8bfa6f__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "RoM , 12 . September 1883 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "24.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000046__uuid:6cffce11-4227-4f99-9421-681cc307881c__r002.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Důvěřujte sobě , důvěřujte Okresní záložně hospodářské , u níž plody Vaší práce jsou výhodně a bezpečně uloženy !",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "25.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000050__uuid:c472512e-850a-4eb8-8964-fbd9fa66d23f__r005.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Ctwrti měſjce , domnělá powetrnoſt , ſtoletý a židowſký , kalendář .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "26.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000052__uuid:9af23fc3-e0ed-4d77-9443-3d4494e0b569__r143.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Dr . Josef Göbbels , jenž vymyslil plán k požáru říšského sněmu .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "27.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000053__uuid:d9851250-d3bf-43c2-baf1-a64fcc5ccd8f__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "1Donáta Lorence Zuzany Kláry Zippol . Ewzebia",
+    "end_position": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "28.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0",
+      "1;1",
+      "2;2",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000057__uuid:18b8529b-3ca1-499e-81f2-c5e8737f989d__r041.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "IIPEГЛEДAO ЧEIKИ ЗEMAJCKИ CABEЗ 3A VHATIPEBEIHBE ПOCETE CTPAHAILA Y KPAJBE - BИHИ ЧELIKOJ . — REVIDOVÁNO ČESKÝM ZEM - SKÝM SVAZEM PRO POVZNESENÍ NÁVŠTĚVY CIZINCU V KRÁLOVSTVÍ ČESKÉM .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "29.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000058__uuid:0b8c1daa-69ba-42d7-8173-e2aed1d07da0__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "dyž wečer dewátá hodie na bila , ach duſſe Kry = ſtowá truchliwá byla ! mo - dlil ſe w zahradě , horliwē wolage k Bohu Orcy ſwé mu — k němu .",
+    "end_position": [
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "30.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "25;25"
+    ],
+    "start_position": [
+      25
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000059__uuid:7626939f-33bd-4b4b-81e4-8243bd1b1ab0__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Fortunáta b . Božího Těla Klotildy Kvirína",
+    "end_position": [
+      3,
+      5,
+      6,
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "31.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "3;3",
+      "5;5",
+      "6;6",
+      "0;2"
+    ],
+    "start_position": [
+      3,
+      5,
+      6,
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000061__uuid:351bd6e1-3202-4814-9ca9-afac2f2edc5b__r022.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Jos . Beneš t . č . předseda .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "32.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000062__uuid:19edd227-742f-4be6-aed4-6240a09f0868__r008.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Expedice v knihkupectví Ladislava Kuncíře",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "33.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "3;4"
+    ],
+    "start_position": [
+      3
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000062__uuid:afb43967-39a3-4def-9275-b522bac27b35__r000.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "132 . Sedící děvče , patin . sádra 133 . Portret F . J . , patin . sádra PAVLA SVOBODOVÁ - BERÁNKOVÁ",
+    "end_position": [
+      14,
+      22
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "34.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "11;14",
+      "19;22"
+    ],
+    "start_position": [
+      11,
+      19
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000070__uuid:e36fcdb1-18d2-43c9-b067-cd3d0d4047b2__r003.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "To kdy , ljbezné zwuky laudě ze strun , Amfion hlásal , stawila třikrát praud Dirce , * ) i chmurný tolikrát zakrautil W teyl se Cythéron .",
+    "end_position": [
+      9,
+      26
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "35.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "9;9",
+      "26;26"
+    ],
+    "start_position": [
+      9,
+      26
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000071__uuid:2b4078e9-500b-407b-a46c-68bfdb9c3aea__r003.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Anna * 1829 — manžel Josef Čejka , hospodář a majitel domu na Kolmarku u Kutné Hory , později statkář † 1895 . v Prusicích u Čern . Kostelce . * 1829 , † 1894 .",
+    "end_position": [
+      6,
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "36.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "5;6",
+      "0;0"
+    ],
+    "start_position": [
+      5,
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000072__uuid:56bf0d1d-723d-4847-ab3d-51254e21b909__r000.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "* ) Spanicu . ** ) Zrland . ** ) England .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "37.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000074__uuid:ecb5346d-922c-4e69-aa67-4a6139b94e54__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Ten vůdce náš — toť z Judy lev , jenž vítězně vždy kráčí v před a setrvá až naposled ; onť obhájí svou korouhev , jíž zdobí Jeho svatá krev .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "38.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000076__uuid:5ebe8727-b97d-47e0-b740-b74c4e1bcf36__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Dr . Ladislav Čelakovský , c . k . řádný professor botaniky na universitě české , řádný člen Kr . České Společnosti Náuk .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "39.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000078__uuid:4ccafe2b-3105-11e9-8847-005056a2b051__r004.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "a ) Vrstvy sladkovodní . Rost - liny , Cythere , ostny ( Ichthyo - dorulites ) etc .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "40.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000079__uuid:4ccafe47-3105-11e9-8847-005056a2b051__r009.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Klesalo tělo , však duši odvahu dal , abych jak Daniel v jámě lví pro pravdu Jeho v slzách , však vzpřímen a nesehnut stál .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "41.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "10;10"
+    ],
+    "start_position": [
+      10
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000084__uuid:bf7b54f0-de3b-4ab0-8f56-d4d3478ca980__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "BAVORYNĚ , pošta Zdice siche - viz Baborin , Post Zditz",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "42.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000085__uuid:5c4ac55d-3d60-4c02-996d-2ae6b24384e0__r010.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Aug . Bartoš : Petr Dejmek :",
+    "end_position": [
+      5,
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "43.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;5",
+      "0;2"
+    ],
+    "start_position": [
+      4,
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000092__uuid:316eb160-7d5a-11ed-a781-5ef3fcdaa9a7__r004.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Reservní fond co vlastní jmění spořitelny obnášel dne 31 . prosince 1872 Čistý výnos fondu koncem prosince 1873 Náčiní v ceně inventární . po odrážce částky na upotřebování náčiní , v obnosu Knížky vkladní a úroční v ceně",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "44.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000099__uuid:f944f2de-c960-40a8-8a5f-74b165cee08f__r000.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "VII Habrmannova 9 VIII tř . Rudé armády 22 X Sokolovská tř . 57 XI Husitská 60 XII Stalinova tř . 7 XII Stalinova tř . 38 ( spec",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "45.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000101__uuid:bb9d483c-89af-4b5e-ac6b-eaaf55a4c8ea__r005.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Nařízení vlády republiky Československé ze dne 19 . října 1920 , čís . 587 Sb . z . a n . ,",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "46.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000112__uuid:dc0df982-3db8-42f4-8dc2-a80ef70c7cc0__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "BY Přijmu dva dělníky neb řemeslníky nár . - soc . do bytu , po případě s celým zaopatřením . Josef Přibyl v Podolí čís . 130 .",
+    "end_position": [
+      21
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "47.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "20;21"
+    ],
+    "start_position": [
+      20
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000114__uuid:5657f210-cce6-11ea-9a89-005056825209__r015.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Váhy desetinné patentní a stolní všech soustav výroby firmy V . Jakoubek , Žižkov , Bořivojova ul . č . 733",
+    "end_position": [
+      11
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "48.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "9;11"
+    ],
+    "start_position": [
+      9
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000115__uuid:f0040c00-7284-11ed-9856-5ef3fcdaa9a7__r023.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "WEŘEGNÝ SPIS WŠENAUČNY PRO WZDĚLANCE NÁRODU ČESKOSLOWAN - SKÉHO . Djl třetj . Částka prwnj .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "49.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000118__uuid:d78c0f7d-5482-4aa4-ba8d-70480800f7cd__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "SEKRÍ TAŘ . Poučný a zábavný časopis věnovaný zájmům národohospodářským , živnostenským , obecním a právním .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "50.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000121__uuid:2034df20-f1d7-11ea-b427-005056825209__r001.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Příruční kniha pro montéry elektrotechnické , upravená inž . Em . Kopeckým , vychází v se - šitové úpravě nákladem knihkupectví I . L . Kobra v Praze .",
+    "end_position": [
+      11,
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "51.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "9;11",
+      "21;25"
+    ],
+    "start_position": [
+      9,
+      21
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000122__uuid:9e7a8221-e23e-11ea-8ce6-005056825209__r007.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Tato zpráwa gest stručné sestawenj wšeho toho , co nešťastný kapitán Tukey we swém dennjku gest zaznamenal . Tukey odplaul d . 16 . unora r . 1816 , z",
+    "end_position": [
+      11,
+      18
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "52.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "11;11",
+      "18;18"
+    ],
+    "start_position": [
+      11,
+      18
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000123__uuid:060247ea-5109-4b3f-ae9f-73de83198fd5__r000.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Vizmberk . Zábřeh . Zdounky",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "53.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000132__uuid:5e91f577-9442-473e-8184-c9bca775c735__r040.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Program : V Dolomitech . Přírodní . — Krištof Kolumbus . Dějepisné . — Dupin se stěhuje . Komické . — Ples v lepší společnosti Ame - rické . Moderní Americká veselohra .",
+    "end_position": [
+      14,
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "54.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "14;14",
+      "7;9"
+    ],
+    "start_position": [
+      14,
+      7
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000137__uuid:42183b80-722a-11ec-b93a-5ef3fc9bb22f__r011.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Rád 2 . Rohožilci ( Ceratophyta ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "55.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000138__uuid:2d0a729d-a4c7-4738-9554-143e82a41f1a__r006.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "b ) Členové „ přípravního kursu “ , kteří během měsíce února b . r . přijati byli za členy „ Hlaholu . “",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "56.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000143__uuid:16e346df-e563-4d02-94a8-eb1309ed6535__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "§ 8 . Dílčí legislativní plán ústředního úřadu . ( 1 ) Každý ústřední úřad vypracuje po slyšení příslušného úřadu slovenského návrh dílčího legislativního plánu pro pří -",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "57.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000144__uuid:30a01104-0e36-4b9a-9819-b3f957966b5b__r001.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "SBÍRKA SOKOLSKÝCH STANOV A ŘÁDŮ ČÍS . 5 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "58.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000161__uuid:27d890c4-a592-4319-b39c-cb3fba9952ea__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "ROCZNIK FRANCISZKAŘSKI KRAKOWSKI",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "59.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000161__uuid:d0245921-5e15-4c0e-a7f9-9fe0b085226f__r003.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "VÝBOR VE SPRÁVNÍM ROCE 1912 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "60.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000162__uuid:d309f48c-57d1-4804-9e0d-3c7acab10e32__r000.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "PRAHA - I . NARODNÍ RADA ČESKÁ : Pranlilikovo nábrezt 10 )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "61.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000171__uuid:0f5a3f0e-ef1a-435d-9d96-26f0d4bde3ee__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "O PŘIJÍMÁNÍ . Zach . 9 . : Zaplesej , K dcero Sionská , rozvesel se , dcero Jerusalémská : Aj , král tvůj ti přišel , svatý a Spasitel světa !",
+    "end_position": [
+      29
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "62.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "29;29"
+    ],
+    "start_position": [
+      29
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000174__uuid:2e6ac25e-893e-423f-b241-caf517e7cedb__r009.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Jeník však nehodlá zimy se báť , na návsi klouzačka , šel by tam rád .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "63.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000175__uuid:a8332520-30da-11eb-a034-5ef3fc9bb22f__r006.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "( JIŘÍ KNÍŽE Z LOBKOWICZ . )",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "64.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;4"
+    ],
+    "start_position": [
+      1
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000176__uuid:d18e1dac-7188-47a8-9741-fc3797b39d42__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "FRANTIŠEK MICHL 110 . Spálený vrch na Chodsku , olej - plátno , 40x651/2 , r . 1938 . . . . . . . . . . . . K 1 . 300 . —",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "65.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000177__uuid:c45f2afb-fa90-4425-997d-6f546766743d__r005.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Pobočka pedagogické fakulty , zřízená vládou podle § 2 , zák . č . 100/1946 Sb . , je administrativní částí pedagogické fakulty .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "66.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000182__uuid:030ee231-c6dc-4222-856d-ac2276082265__r003.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "3 . III . 1858 5 . V . 1852 28 . VI . 1840",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "67.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000186__uuid:044bfa58-9b13-4d21-b6e3-1ea554e20950__r002.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Dr . Spina Franz do 23 . III . 1938",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "68.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000197__uuid:2534d194-fae7-4327-ad23-9b78c19e5ae9__r182.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "O truchlohře . ( Podlé Boileauwa Despréauxwa ) .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "69.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "5;6"
+    ],
+    "start_position": [
+      5
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000199__uuid:56b3e5df-39ef-4208-b54c-8b9fea95bd5e__r003.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "170 . Vládní nařízení ze dne 27 . srpna 1946 , kterým se vydává statut pedagogických fakult a určuje studijní doba učitelů .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "70.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000202__uuid:3c7b24c8-2ba5-4bdf-b89c-f921aa7d4257__r002.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "18 . Feb . 1829 . 18 . Feb . 1829 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "71.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000213__uuid:35f5f4c5-5880-4def-a515-091b2245b0e8__r025.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Janáček Eduard , c . k . professor v VIII . tř . hodn .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "72.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000214__uuid:a9abbe7d-e907-44b1-98a8-9889c180188d__r008.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Během školního roku vstoupili",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "73.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000216__uuid:6c281f7e-3a30-4f48-b0ce-3384538f79b3__r005.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Wyborné Modlitbr Baučtcó ſe s Rodičkau Bożi Pannau Maryi .",
+    "end_position": [
+      6,
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "74.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "6;6",
+      "7;9"
+    ],
+    "start_position": [
+      6,
+      7
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000216__uuid:73e07084-ab94-4091-89e9-7f4020a0a905__r000.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Soudruh František Haller , obuvník , zhotovuje veškeré práce v obor ten spadající , dobře a levně bytem u p . A . Bukovanského na Rybníčku č . 14 .",
+    "end_position": [
+      23,
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "75.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "21;23",
+      "1;2"
+    ],
+    "start_position": [
+      21,
+      1
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000219__uuid:69343800-b227-11ea-998c-005056827e51__r015.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Anežka Hašková , Šlapanice",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "76.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000221__uuid:10eb3e00-707b-4f79-8f4e-5c438c526849__r008.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Výsledek dotazníkové akce provedené III . odborem M . A . P . v letech 1923 a 1924",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "77.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000224__uuid:d603aa3d-f5a3-4843-85d0-de8df97e8143__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Josef Čížek , puškařství a sklad střel , zbraní , přísežný znalec c . k . soudu , prodej střel . prachu . Ml . Boleslav , Železná ulice . proti staré lékárně v domě p . Müllera .",
+    "end_position": [
+      1,
+      37
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "78.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "37;37"
+    ],
+    "start_position": [
+      0,
+      37
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000228__uuid:216e3010-7793-11ec-bc36-005056827e51__r036.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "« Baych » Leverkusen nad . R . ( Německo )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "79.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000235__uuid:d3908caa-4539-446b-aa4b-68e26dc0c474__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Nákladem krajské volební komise v Pardubicích .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "80.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000236__uuid:1c02d760-3c07-4d6c-b976-124f5ce01d06__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "až do r . 1873 1873 — 1887 1888 — 1892 1897 — 1893 - 1902 1898 - 1907 1903 1912 1908",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "81.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000238__uuid:1ba2b058-89ca-43c7-bced-ee9374d07fdf__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "1759 . Capella s . Palmatii mart .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "82.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "3;7"
+    ],
+    "start_position": [
+      3
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000240__uuid:0863504d-beee-4138-90eb-32a8beb89514__r003.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "„ Lepší je zušlechtěná opice než kleslý Adam . “ Clapanéde .",
+    "end_position": [
+      7,
+      10
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "83.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;7",
+      "10;10"
+    ],
+    "start_position": [
+      7,
+      10
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000241__uuid:17355262-c045-4415-99c5-5e21ee1b151d__r004.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "( Vyhlášena výnosem ministerstva veřejného zdravotnictví a tělesné výchovy ze dne 19 . listopadu 1930 , č . 36 . 812 ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "84.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000242__uuid:cf45e85b-374b-4383-8882-4c83dc5039e9__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Pan Bedřich Frey ve Vysočanech , C . z Gonzalles v Šoproni , „ „ F . ze Schoellerů v Praze a „ August svob . pán ze Stummerů ve Vídni .",
+    "end_position": [
+      23,
+      2,
+      7,
+      16
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "85.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "23;23",
+      "1;2",
+      "6;7",
+      "14;16"
+    ],
+    "start_position": [
+      23,
+      1,
+      6,
+      14
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000242__uuid:fd942ed6-fb5b-41d5-918c-81567ca3122f__r009.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "správce školy na Hlubině .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "86.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000244__uuid:01d44f7e-f0bb-40cc-a965-b7963572c855__r091.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "* ) Velenovský 1 . c . str . 72 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "87.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000245__uuid:2fc3a45f-55b5-443a-9dcc-d2038f5d23fb__r005.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "7 . 3 . 93 . Bunis tr . Gostin",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "88.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000248__uuid:27199ba0-4c10-48ff-a1f2-42a4980c9f96__r031.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "ARABIE BRITSKÁ Konsulát v Adenu ( honorární ) : Činnost dočasně zastavena . Agendu konsulární vykonává gen . kons . v Jerusalemě . Diploma - tickou agendu vykonává velvyslanectví v Londýně .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "89.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000254__uuid:325fe8ab-8f2b-47d0-b379-fd31d9881356__r005.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "☞ Připadne - li časem tržní den na zasvěcený svátek neb neděll , odkládají se trhy až na některé výjimky většinou dle poměrů místních na předcházející nebo následující den všední .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "90.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000258__uuid:83cd75e0-d6ca-432a-9275-8f67dce4c319__r001.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Odpovědný redaktor : Hynek Koudelka . — Tiskem Josefa Nešněry v Mladé Boleslavi .",
+    "end_position": [
+      4,
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "91.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "3;4",
+      "8;9"
+    ],
+    "start_position": [
+      3,
+      8
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000266__uuid:288a8660-7477-11ec-b93a-5ef3fc9bb22f__r023.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "ADMINISTRAČNÍ BUDOVA TOVÁREN V HORNÍ BŘÍZE .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "92.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000271__uuid:2470fbe7-c59d-4409-a4b1-dfbda33c877e__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Veškeré objednávky vy - řizuje správní rada v Nuslích , Havlíčkova třída číslo 422 .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "93.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "10;10"
+    ],
+    "start_position": [
+      10
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000276__uuid:20e73460-cb65-11ea-9a89-005056825209__r032.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "se na swaté gezero , obětugj zdegšjmu chrámu štědré dary , čjmž zádušj Sw . Mikuláše nad mjru zniklo . Od - tud mjstnj gméno .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "94.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "13;15"
+    ],
+    "start_position": [
+      13
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000277__uuid:9e88e05a-3a1d-42e9-ab75-6a9e1c3e2137__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "O . Členové přispívající . Slavná Jednota českých mathematiků v Praze . Slavný sbor professorský real . gymnasium v Chrudimi .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "95.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000284__uuid:06a4f25e-cad0-4dc2-9e55-6bd4f7791851__r000.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "Moderní Revue , duben 1918 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "96.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000284__uuid:c65e2773-8a03-43c4-a701-27617dc1df8f__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "MANNING W . WESTLEY . 92 . Kostol sv . Františka v Asissi 93 . V Granade",
+    "end_position": [
+      3,
+      12
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "97.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;3",
+      "8;12"
+    ],
+    "start_position": [
+      0,
+      8
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000285__uuid:2249b590-edae-406b-b831-810756912ffb__r000.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "SPISŮV POCTĚNÝCH JUBILEJNÍ CENOU KRÁL . ČESKÉ SPOLEČNOSTI NÁUK V PRAZE",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "98.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000291__uuid:4ccafe28-3105-11e9-8847-005056a2b051__r001.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "NÁKLADEM ZÁLOŽNÍHO ÚVĚRNÍHO ÚSTAVU .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "99.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000304__uuid:4b4eaef3-13b2-4624-b47f-bbf69ee91adc__r004.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Chotěboř mit Dobkau u . Nemajow Allod . - Hschft .",
+    "end_position": [
+      2,
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "100.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;2",
+      "5;5"
+    ],
+    "start_position": [
+      2,
+      5
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000306__uuid:33b7115b-320d-4436-87e8-2ef608335126__r042.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "kteráž odbývati se bude v neděli dne 27 . listop . 1870",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "101.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000307__uuid:64d76f97-5299-44a6-b05a-4888eba2de19__r000.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Kurs německé konversace .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "102.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000312__uuid:b0db14fc-e33d-4b0f-92e0-b7cc6be10b72__r014.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "Mudrotwj . O Logice . Od Šjra 553 .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "103.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000313__uuid:fab3fa6d-71e4-4b21-8852-28b70c289f3b__r005.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Na jakém základě se tvoří nová společnost ? Základem nové společnosti je socialismus . Socialismus se vyznačuje tím , že místo třídy kapitalistů se dostává k moci dělnická třída a pracující lid . Dělnická třída spolu s pracujícím",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "104.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000319__uuid:a488dd40-ffdd-48e2-b4f1-8a298eeb8443__r002.txt",
+    "anotator_id": "02"
+  },
+  {
+    "context": "2 . Zprávy školní . Podává ředitel za přispění sboru .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "105.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000319__uuid:bf3e5313-8ec7-4ccd-8848-7c49abe5bba5__r002.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "U všech řádných knihkupců ČESKÁ GRAFICKÁ UNIE A . S . PRAHAII . , SVOBODOVA UL . 1",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "106.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000325__uuid:2aeca639-d717-4bfb-9af1-e825232857a8__r011.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "kraj . a jim podříz . soudy Praha",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "107.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000327__uuid:42254e13-f926-4283-af77-2434fcf066a6__r021.txt",
+    "anotator_id": "04"
+  },
+  {
+    "context": "Praha XIX . , Na Kuthan - сe 844",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "108.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000327__uuid:570c691a-1e50-4c20-8f47-e1e7a41821d7__r000.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Johann , Heinrich u . Theodor Freih . v . Liebig Rudolf Heidrich",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "109.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000328__uuid:0baa77cf-6cc3-47eb-85e6-1f0c744b02ce__r045.txt",
+    "anotator_id": "03"
+  },
+  {
+    "context": "PORADNÍ SBOR STŘEDOŠKOLSKÝ .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "110.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": [],
+    "data_source": "NER_02",
+    "file_name": "00000332__uuid:4995e690-7d5b-11ed-a781-5ef3fcdaa9a7__r001.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Riezler K . , Hypothese d . Kausalität . Akademie — Erlangen 1925 , str . 140 — 143 .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "111.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000335__uuid:72322d3e-0af2-480f-81fd-d580d4992c25__r001.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "Panna Maria Strážná ( de la Garde ) u Marseille .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "112.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000343__uuid:042e6cf0-e5ee-11ea-8ce6-005056825209__r001.txt",
+    "anotator_id": "01"
+  },
+  {
+    "context": "o K Soloturnu wogjn přiklopotá , zatraubiw dj ta slowa : č Wzali gste Ludwjka do brány , hněwu se třeste Cjsa -",
+    "end_position": [
+      14
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "113.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "14;14"
+    ],
+    "start_position": [
+      14
+    ],
+    "data_source": "NER_02",
+    "file_name": "00000344__uuid:d64ebace-2e95-422d-a3b7-ccb014fb933e__r004.txt",
+    "anotator_id": "02"
+  }
+]

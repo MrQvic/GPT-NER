@@ -1,0 +1,8 @@
+die nach der Definition eine Parabel sein muss.
+Die Gleichung sagt, dass die Parabel ein Erzeugniss ähnlicher
+Punktreihen ist. Ihre einfache Construction wurde oben begründet.
+Allgemein lassen sich die analytischen Criterien zur Classification
+der Kegelschnitte aus den Werten für die Coordinaten der Tangirungs-
+punkte ableiten. Diese bestimmen sich direct wie folgt: Ein Punkt der
+Curve ist der Schnitt zweier unmittelber auf einander folgenden Tan-
+genten; demnach gelten die Gleichungen:

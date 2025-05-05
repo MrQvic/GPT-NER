@@ -1,0 +1,82 @@
+{
+  "CONLL_RESULTS": {
+    "Random": {
+      "without_verification": {
+        "GPT-3 (Paper result)": {"Precision": 88.18, "Recall": 78.54, "F1": 83.08},
+        "GPT-3.5": {"Precision": 51.83, "Recall": 51.36, "F1": 51.6},
+        "Llama3.1-70b": {"Precision": 21.74, "Recall": 29.55, "F1": 25.05},
+        "GPT-4o-mini": {"Precision": 60.98, "Recall": 79.55, "F1": 69.03},
+        "Qwen2.5-72b": {"Precision": 60.3, "Recall": 90.45, "F1": 72.36}
+      },
+      "with_verification": {
+        "GPT-3 (Paper result)": {"Precision": 88.95, "Recall": 79.73, "F1": 84.34},
+        "GPT-3.5": {"Precision": 58.55, "Recall": 51.36, "F1": 54.72}
+      }
+    },
+    "Sentence": {
+      "without_verification": {
+        "GPT-3 (Paper result)": {"Precision": 90.47, "Recall": 95.00, "F1": 92.68},
+        "GPT-3.5": {"Precision": 73.42, "Recall": 79.09, "F1": 76.15},
+        "Llama3.1-70b": {"Precision": 29.59, "Recall": 13.18, "F1": 18.23},
+        "GPT-4o-mini": {"Precision": 60.55, "Recall": 79.55, "F1": 68.76},
+        "Qwen2.5-72b": {"Precision": 74.82, "Recall": 94.54, "F1": 83.53}
+      },
+      "with_verification": {
+        "GPT-3 (Paper result)": {"Precision": 91.77, "Recall": 96.36, "F1": 94.01},
+        "GPT-3.5": {"Precision": 80.55, "Recall": 79.09, "F1": 79.82}
+    }
+    }
+  },
+  "CNEC_RESULTS": {
+    "Random": {
+      "without_verification_eng": {
+        "robeczech-base": {"Precision": 92.72, "Recall": 80.9, "F1": 86.44},
+        "Qwen2.5-72b-CNEC": {"Precision": 74.5, "Recall": 62.6, "F1": 68.1},
+        "Qwen2.5-14b-CNEC": {"Precision": 76.83, "Recall": 50, "F1": 60.58},
+        "Llama3.1-70b-CNEC": {"Precision": 61, "Recall": 48.41, "F1": 53.98},
+        "Deepseek-r1-70b-CNEC": {"Precision": 84, "Recall": 66.66, "F1": 74.34}
+      },
+      "with_verification_eng": {
+        "robeczech-base": {"Precision": 92.72, "Recall": 80.9, "F1": 86.44},
+        "Qwen2.5-72b-CNEC": {"Precision": 82.11, "Recall": 61.9, "F1": 70.59},
+        "Qwen2.5-14b-CNEC": {"Precision": 90, "Recall": 50, "F1": 64.29},
+        "Llama3.1-70b-CNEC": {"Precision": 84.5, "Recall": 47.62, "F1": 60.91},
+        "Deepseek-r1-70b-CNEC": {"Precision": 86.96, "Recall": 63.49, "F1": 73.39}
+      },
+      "without_verification_cz": {
+        "robeczech-base": {"Precision": 92.72, "Recall": 80.9, "F1": 86.44},
+        "Qwen2.5-72b-CNEC": {"Precision": 70.33, "Recall": 65.87, "F1": 68.03},
+        "Qwen2.5-14b-CNEC": {"Precision": 70.42, "Recall": 39.68, "F1": 50.76},
+        "Llama3.1-70b-CNEC": {"Precision": 70.48, "Recall": 58.76, "F1": 64.07},
+        "Deepseek-r1-70b-CNEC": {"Precision": 91.78, "Recall": 53.17, "F1": 67.33}
+      },
+      "with_verification_cz": {
+        "robeczech-base": {"Precision": 92.72, "Recall": 80.9, "F1": 86.44},
+        "Qwen2.5-72b-CNEC": {"Precision": 84.69, "Recall": 65.87, "F1": 74.11},
+        "Qwen2.5-14b-CNEC": {"Precision": 80.65, "Recall": 39.68, "F1": 53.19},
+        "Llama3.1-70b-CNEC": {"Precision": 89.02, "Recall": 57.94, "F1": 70.19},
+        "Deepseek-r1-70b-CNEC": {"Precision": 93.15, "Recall": 53.97, "F1": 68.34}
+      }
+    }
+  },
+  "HISTORICAL_RESULTS": {
+    "Random": {
+      "20-examples": {
+        "robeczech": {"Precision": 71.42, "Recall": 37.23, "F1": 48.95},
+        "Qwen2.5-72b": {"Precision": 56.25, "Recall": 19.14, "F1": 28.57},
+        "Deepseek-r1-70b": {"Precision": 69.23, "Recall": 9.57, "F1": 16.82}
+      },
+      "154-examples": {
+        "robeczech": {"Precision": 73.33, "Recall": 58.62, "F1": 65.14},
+        "Qwen2.5-72b": {"Precision": 67.65, "Recall": 12.2, "F1": 20.67}
+      }
+    }
+  },
+  "HISTORICAL_RESULTS_ANNOTATORS": {
+    "121-examples": {
+      "Annotator 1": {"Precision": 65.36, "Recall": 56.12, "F1": 60.39},
+      "Annotator 2": {"Precision": 61.45, "Recall": 53.53, "F1": 57.22},
+      "Annotator 3": {"Precision": 68.16, "Recall": 59.51, "F1": 63.54}
+    }
+  }
+}

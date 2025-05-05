@@ -1,0 +1,4 @@
+par conséquent les deux quantités T et l, c'est-à-dire la durée des oscillations
+moléculaires du fluide éthéré, et l'épaisseur d'une onde plane.
+Lorsque dans les équations (74), (75), (76), (77) on substitue à 0, ,
+leurs valeurs approchées tirées des formules (68), on trouve

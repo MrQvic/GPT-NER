@@ -1,0 +1,28 @@
+übergehet.
+Tragfähigkeit Amal grösser, so dass (VII), in
+5)1+Vv*
+2tens wirkt aber die Belastung, nicht in der Richtung der Länge, bewirkt also innerhalb der ganzen
+Länge nicht gleiche Spannung, so dass dieselbe proportional den Abständen von den Unterstützungspunkten ab-
+nimmt, und an diesen Punkten selbst Null ist, dem gemáss man nun für (c) blos den halben Werth =12« an-
+01 4.2 Kыh3
+Ea
+blos der Werth k:
+nehmen darf. Es ist also nun für k in die Gleichung
+8.)
+5 (I Vy)
+ol
+Ea . 4. 2Xbh2
+16E.bh3.a
+woraus Q
+einzuführen. Dies gibt die Gleichung
+4
+21x 3 (1+Vv)
+31(I+ V)
+folgt. Da aber in diesem Falle die Ausdehnung (z) nicht gemessen werden kann, und sich erst aus der
+Biegung oder dem Pfeile (u) bestimmen lässt; so ist mit dieser Gleichung noch eine 5te Modifikazion vor-
+zunehmen. Man muss nämlich in dieselbe das hier herrschende Gesetz zwischen Ausdehnung (*) und Bie-
+gung oder dem Pfeile (u), in dieselbe einführen. Bekanntlich verhält sich die halbe Ausdehnung 1/2α zu der
+Höhe des Balkens =h, wie der Pfeil (u) zur halben Länge 1/21, also 1/2: h=u: 1I, woraus folgt
+4hu
+(8“)
+VII)

@@ -1,0 +1,10 @@
+Um aus diesen Proben die fraglichen Grössen zu ermitteln, nehmen wie zuerst unsre Tragmomen-
++4
+l. Dabei bedenken wir aber, dass wir es hier
+tengleichung dieses Modells zu Hilfe, nämlich k —
+4 . 1200
+mit sehr grossen Probebelastungen zu thun haben, die alle bedeutend die Hälfte des Bruchgewichtes von
+192892 a übersteigen, dass wir also für k . grosse Werthe erhalten werden. — Für den 1ten Versuch ist
+P = 132035 � das Belastungsgewicht, und 1!. G = 1/2 . 10875  = 5437 �, dass halbe Gewicht der Modellröhre;
+ 25776 %.
+demnach k = 137472. 75. 12

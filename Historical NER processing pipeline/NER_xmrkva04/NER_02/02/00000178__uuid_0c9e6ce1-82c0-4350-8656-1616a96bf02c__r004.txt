@@ -1,0 +1,5 @@
+Anmerkung. Es würde nun keinem Anstande unterliegen diese Tragmom.- Gleichung in die Biegungs-
+gleichung zu verwandeln. Man würde in dieselbe für (u) den aus dem Biegungsgesetze des an beiden Endstützpunkten
+frei aufliegenden Trägers entspringenden Werth durch den Pfeil u ausgedrückt substituiren. Dieser ergibt sich aus der
+nu
+bekannten Proporzion 4ul: r=u: 1/2I, mit  = Mit diesem Werthe ergibt sich die Biegungsgleichung

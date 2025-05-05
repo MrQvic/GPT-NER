@@ -1,0 +1,9 @@
+Dvojice, která má přijímat podání v první hře,
+stanoví si, který ze spoluhráčů začne přijímat
+první a tento spoluhráč bude pokračovat v při-
+jímání podání v každé liché hře této sady. Druhá
+dvojice si podobně stanoví, který spoluhráč
+bude přijímat podání v druhé hře a tento spolu-
+hráč bude přijímat podání v každé sudé hře
+této sady. Jejich spoluhráči je střídají v přijí-
+mání po každé hře.

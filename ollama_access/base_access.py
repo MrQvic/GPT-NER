@@ -1,6 +1,7 @@
 import requests
 import logging
 from typing import List
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -30,7 +31,16 @@ class AccessBase(object):
                 response.raise_for_status()
                 data = response.json()
                 final_response = data.get("response", "")
-                results.append(final_response)
+		
+                # Clean up response
+                filtered = re.sub(r'<think>.*?</think>', '', final_response, flags=re.DOTALL)
+                filtered = re.sub(r'\n{3,}', '\n\n', filtered)
+                filtered = filtered.strip()
+                
+                # Remove newlines
+                filtered = filtered.replace('\n', ' ') 
+                    
+                results.append(filtered)
             except Exception as e:
                 logger.error(f"Error calling Ollama API: {str(e)}")
                 results.append("")

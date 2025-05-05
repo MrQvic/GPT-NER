@@ -1,0 +1,5 @@
+§ 1.
+Der deutlicheren Übersicht halber sei das Eingreifen der
+ersten Gaussschen Flächenform in das Lagrangesche Trans-
+formationsverfahren kurz dargelegt, wenn sich auch sachlich
+dabei nichts wesentlich Neues ergeben dürfte.

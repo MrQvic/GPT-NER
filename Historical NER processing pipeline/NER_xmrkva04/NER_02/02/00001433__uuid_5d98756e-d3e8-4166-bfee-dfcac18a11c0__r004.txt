@@ -1,0 +1,12 @@
+Beispiele. Wie gross ist die Tragfähigkeit der Amerikanischen Gitterbrücke auf der Philadelphia-
+Reading-Eisenbahn, welche 12"= b=h Streckbänder, die Breite 26', die Landpfeiler-Spannweite 13°; die übrigen
+mittleren Spannweiten circa 110 halle. Es sind N=2 Tragwände mit 3 Reihen Streckbänder, der Modul
+des Tannenholzes ist — = v5, wenn wir die Belastung in Zentnern setzen; =0.00061, also k=uE=
+E
+0.00061X25000 Cir.=14 Ctr. wofür
+wir k=7 Ctr., da die Träger aus Theilen zusammengesetzt sind, an-
+nehmen. Für e und e“ sind, wenn
+=2 gesetzt wird e=32.7“, e“= 12.7", und wenn = 1§ angenommen
+wird e= 40.4“, e"=20.4 zu selzen; "= 9 d=2x1.414', und die Totalbelastung per Current Klafter
+=210 bis 214 Ctr.
+Substituirt man in (24) die Werthe, so ist für 7=13°

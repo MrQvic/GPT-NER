@@ -76,10 +76,14 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
                 labels += " "
             labels += " ".join(context_list[last_:])
 
-            exampel_prompt += f"The given sentence: {context}\n"
+            #exampel_prompt += f"The given sentence: {context}\n" #ENGLISH
+            #exampel_prompt += f"The labeled sentence: {labels}\n" #ENGLISH
+            exampel_prompt += f"Vstupní věta: {context}\n" #CZECH
+            exampel_prompt += f"Vyznačená věta: {labels}\n" #CZECH
+            
             
             # exampel_prompt += f"{prompt_label_name} entities: {labels}\n"
-            exampel_prompt += f"The labeled sentence: {labels}\n"
+            
         return exampel_prompt
         
     print("Processing prompts...")
@@ -100,9 +104,10 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}, and if that does not exist output \"none\". Below are some examples.\n"
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}. Below are some examples.\n"
         # prompt = f"You are an excellent linguist. Within the OntoNotes5.0 dataset, the task is to label {transfered_label} entities that {sub_prompt}. Below are some examples, and you should make the same prediction as the examples.\n"
-        # prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Output only the labeled sentence, without explanations. Do not include the 'The labeled sentence:'. Output only the labeled sentence. Below are some examples."
-        prompt = f"You are an excellent linguist. Your task is to label person entities that are named persons or family. Output whole input sentence and surround the found entities with @@ and ##, like @@Harry Gregorry##. If there are no entities, just output the input sentence as is. DO NOT include any explanation or anything, just a sentence as is or sentence with labeled entites. Below are some examples. \n"
-	# prompt = f"You are an excellent linguistic. The task is to label {transfered_label} entities that {sub_prompt}. First, articulate the clues and reasoning process for determining {transfered_label} entities in the sentence. Next, based on the clues and your reasoning process, label {transfered_label} entities in the sentence. Below are some examples.\n"
+        # prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Output only the labeled sentence, without explanations. Do not include the 'The labeled sentence:'. Output only the labeled sentence. Below are some examples." #ENGLISH
+        prompt = f"Jsi vynikající lingvista. Úkolem je označit entity osoby v dané větě. Entity osoby jsou pojmenované osoby nebo rodiny. Všimni si, že pokud daná věta neobsahuje žádné entity osoby, vypiš pouze stejnou větu, nebo pokud entity typu osoby existují, ohranič je pomocí @@ a ##. Nezahrnuj 'Označená věta:'. Vypiš pouze označenou větu a bez žádného vysvětlení. Níže jsou některé příklady."
+        # prompt = f"You are an excellent linguist. Your task is to label person entities that are named persons or family. Output whole input sentence and surround the found entities with @@ and ##, like @@Harry Gregorry##. If there are no entities, just output the input sentence as is. DO NOT include any explanation or anything, just a sentence as is or sentence with labeled entites. Below are some examples. \n"
+	    # prompt = f"You are an excellent linguistic. The task is to label {transfered_label} entities that {sub_prompt}. First, articulate the clues and reasoning process for determining {transfered_label} entities in the sentence. Next, based on the clues and your reasoning process, label {transfered_label} entities in the sentence. Below are some examples.\n"
 
         # prompt += get_knn(test_sentence=context, nums=example_false, label_name=transfered_label, positive_idx=0)
         # prompt += get_knn(test_sentence=context, nums=example_true, label_name=transfered_label, positive_idx=1)
@@ -113,7 +118,8 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         # for sub_idx in range(len(context_list)):
         #     index_string += f"{context_list[sub_idx]} {sub_idx}\n"
         # prompt += f"The given sentence: {context}\n{index_string}{prompt_label_name} entities:"
-        prompt += f"The given sentence: {context}\nThe labeled sentence:"
+        # prompt += f"The given sentence: {context}\nThe labeled sentence:" #ENGLISH
+        prompt += f"Vstupní věta: {context}\nOznačená věta:" #CZECH
         # prompt += f"The given sentence: {context}\nThe labeled sentence:"
 
         #print(prompt)

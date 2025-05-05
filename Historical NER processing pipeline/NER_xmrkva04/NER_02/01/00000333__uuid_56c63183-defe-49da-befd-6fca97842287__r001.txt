@@ -1,0 +1,8 @@
+u,, in welcher die Coëfficienten von u, verschwinden müssen, wenn die
+Gleichung für jeden beliebigen Wert von u, gelten soll; dies gibt die
+drei weiteren Bedingungsgleichungen:
+avo y1 x2 + by, x, = 0
+c (u, x, + vo y, + 1) — duo x, y, = 0
+a (u, x, + vo y, + 1) — b (u, x, y,) + cvo y, x, + dyi x, = 0
+Die dritte Gleichung wird durch die beiden ersten erfüllt.
+Daraus werden nun höchst einfach:

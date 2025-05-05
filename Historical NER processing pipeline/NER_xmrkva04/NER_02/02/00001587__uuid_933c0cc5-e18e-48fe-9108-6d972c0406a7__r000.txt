@@ -1,0 +1,21 @@
+Eine sehr große Anzahl diskreter, längs einer Hauptachse
+äquatoreal polarisierter Kreisel, deren stabile feldfreie Gyrations-
+hauptachsen die gleiche Richtung haben mögen, sei dem orien-
+tierenden Einfluß eines ebenso gerichteten gleichförmigen
+Feldes unterworfen. Seine Intensität variiere im Bereiche + co
+stetig und genügend langsam; dabei sei vorderhand abgesehen
+von einer eventuellen gegenseitigen orientierenden Wirkung
+der Kreisel; diese seien alle gleich in bezug auf Trägheit und
+Polarisation. Was ihre kinetischen Gyrationsenergien betrifft,
+so sollen im folgenden beispielsweise einmal die Konse-
+quenzen aus der Annahme hergeleitet werden, daß diese in
+der Weise über den Kreiselschwarm verteilt seien, wie es das
+Boltzmann-Maxwellsche Gesetz zunächst für translatorische
+Geschwindigkeitsquadrate fordern würde.
+Kürzlich habe ich nachgewiesen1), daß jeder Einzelkreisel
+an und für sich hierbei unter Umständen „Orientierungs-
+hysterese“ zeigen wird, so daß die Funktion
+ = funct (a,)
+zum Teil durch eine isokinetische Schleife darzustellen ist,
+etwa wie die in Fig. 1A gestrichelte. Die dem „Labilitäts-
+punkte“ L bez. L entsprechende Feldintensität beträgt dann

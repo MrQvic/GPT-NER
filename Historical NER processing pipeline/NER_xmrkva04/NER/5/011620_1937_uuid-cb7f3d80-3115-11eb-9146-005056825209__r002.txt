@@ -1,0 +1,9 @@
+Na paralely, z nichž každá se rovná jedné vrstevnici,
+z průsečíků profilové čáry s vrstevnicemi spustíme kol-
+mice a pak spojíme všechny body na paralelách čarou,
+kterou se snažíme správně vystihnout detail mezi dvěma
+vrstevnicemi. Normální vzdálenost paralel u speciálky by
+byla 1.3 mm, u plánu 4 mm pro 100metrovou vrstevnici.
+Poněvadž by takový profil nevynikl, zvětšíme podle po-
+třeby několikrát tu vzdálenost a o profilu pak říkáme,
+že je „zveličený“.
