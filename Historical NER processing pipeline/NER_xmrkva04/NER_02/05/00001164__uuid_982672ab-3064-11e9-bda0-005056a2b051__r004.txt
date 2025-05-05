@@ -1,5 +1,0 @@
-et par suite la formule (60), qui détermine s en fonction de k pour une direction
-donnée du plan O0'0, pourra servir encore à déterminer T ou 2 en fonction de
-7. Donc il existera généralement une relation entre la vitesse de propagation 2 d'une
-onde plane et son épaisseur l.
-Si la condition (63) était remplacée par la suivante

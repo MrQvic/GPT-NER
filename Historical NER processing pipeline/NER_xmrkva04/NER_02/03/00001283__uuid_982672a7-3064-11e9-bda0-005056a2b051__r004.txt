@@ -1,6 +1,0 @@
-Les inconnues 5, r, § et 8, a", 8" ou les déplacements de la molécule m me-
-surés parallèlement aux axes des x, y, z et à ceux de l'ellipsoide (36), étant dé-
-terminées comme on vient de le dire, on en déduira sans peine la vitesse o. de la
-molécule m au bout d'un temps quelconque t. En effet, si l'on projette cette vi-
-tesse 1.° sur les axes des x, y, z, 2.° sur les axes de l'ellipsoïde (36), on trou-
-vera pour projections algébriques dans le premier cas

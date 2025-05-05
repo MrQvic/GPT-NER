@@ -1,9 +1,0 @@
-It deals with certain interesting problems in n-dimensional
-Geometry, the method adopted being one of deduction from first
-principles. The second part contains certain interesting results
-in the Geometry of Hyper-spaces, which is now recognised as an
-indispensable part of that science with extensive applications in
-mathematical Physics. In the treatment of subject-matter, the
-easiest possible methods have been adopted, so that the dis-
-cussions can be followed by an ordinary student of Mathematics
-without a knowledge of Higher Mathematics.

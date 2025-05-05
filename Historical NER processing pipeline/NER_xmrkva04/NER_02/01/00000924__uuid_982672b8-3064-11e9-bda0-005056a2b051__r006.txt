@@ -1,5 +1,0 @@
-dans lesquelles on devra remplacer w, par w, si les droites OP, OQ forment
-le même angle avec l'axe des z. Cela posé, les conditions nécessaires et suffisan-
-tes pour que l'elasticité de l'éther puisse être censée rester la même en tous sens
-autour d'un point quelconque, ou bien autour d'un axe quelconque parallèle à l'axe des
-z, c'est à dire, les conditions (30) et (31) pourront s'écrire comme il suit

@@ -1,3 +1,0 @@
-Main engine.
-Thrust engine
-Theoretic output.

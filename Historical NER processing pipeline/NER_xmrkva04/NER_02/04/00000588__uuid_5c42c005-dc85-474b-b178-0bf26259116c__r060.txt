@@ -1,7 +1,0 @@
-I., II., V.
-IV.. V., VI.
-II.,III.,IV., V.,
-VII.
-I., II., III., V.
-II., III., VI.
-II., III., V., VII.

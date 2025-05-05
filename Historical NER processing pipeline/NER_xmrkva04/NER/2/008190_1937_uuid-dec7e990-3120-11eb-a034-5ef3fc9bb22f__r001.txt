@@ -1,8 +1,0 @@
-10. Aby střela vskut-
-ku cíl zasáhla, musí být
-hlavni udělen příslušný
-elevační úhel. (Obr 100.)
-Elevační úhel (e) = polohový úhel (z) + záměrný úhel (5)
-Polohový úhel (z)udělíme hlavni zamířením na cíl.
-Úkolem zaměřovače je, aby samočinně udával hlavní zá-
-měrný úhel (§) a připočítával jej k polohovému úhlu (z).

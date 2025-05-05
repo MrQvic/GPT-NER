@@ -1,5 +1,0 @@
-seront les carrés des trois demi-axes de l'ellipsoide qui détermine les loix de la pola-
-risation. Donc, lorsque cet ellipsoide, étant de révolution, se trouve représenté par
-l'équation (58), ou ce qui revient au même par l'équation (59), deux des rapports (73)
-sont egaux à l'expression (60), et le troisième à l'expression (61), ensorte qu'on
-peut prendre

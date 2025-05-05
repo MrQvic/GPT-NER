@@ -1,5 +1,0 @@
-má též dimensi délky 0,
-jsou nezávislé na volbě jednotek hmoty a času. Poslední z nich
-tedy nezávisí ani na volbě jednotky délky. První dva (2, co) mají dimensi délky 2, tudíž jejich
-poměr  má dimensi délky 0 a nezávisí na volbě jednotky délky. Dáme-li tedy vztahu (37) tvar
-funkce dvou argumentů

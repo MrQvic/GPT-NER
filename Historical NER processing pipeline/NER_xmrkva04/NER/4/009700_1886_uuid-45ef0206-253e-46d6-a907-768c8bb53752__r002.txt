@@ -1,8 +1,0 @@
-6. Body hlavní, ohniska a body uzlové jsou charakteristické
-body soustavy lomné, pročež se nazývají body základní neb
-kardinalní soustavy lomných ploch. Při geometrické konstrukci
-předmětů a jich obrazů lze dle okolností těch neb oněch užiti;
-jmenovitě užitím bodů hlavních se konstrukce valně zjednoduší
-Tak na př. měli-li bychom dány body hlavní a ohniska, najdeme
-s bodem L v prostředí prvém, sdružený v prostředí posledním
-následovně:

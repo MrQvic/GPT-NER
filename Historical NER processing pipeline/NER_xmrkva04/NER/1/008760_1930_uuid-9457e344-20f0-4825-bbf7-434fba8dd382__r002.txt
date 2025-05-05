@@ -1,6 +1,0 @@
-R = Revoluční Národní shromáždění
-NS = Národní shromáždění
-vol. kr. = volební kraj
-sen. = senát
-skrut. — skrutinium
-vl. = vláda.

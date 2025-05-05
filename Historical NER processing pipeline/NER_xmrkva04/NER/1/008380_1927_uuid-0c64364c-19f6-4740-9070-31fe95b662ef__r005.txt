@@ -1,7 +1,0 @@
-a) meteorologických:
-1. teplota vzduchu, vody a půdy,
-2. vlhkost vzduchu,
-3. barometrický tlak a
-4. druh a oblasti srážek (déšť déle trvající, příval
-bouřka, její časový příchod a trvání, kroupy, sníh
-ihned tající, sníh s deštěm, tání sněhu;

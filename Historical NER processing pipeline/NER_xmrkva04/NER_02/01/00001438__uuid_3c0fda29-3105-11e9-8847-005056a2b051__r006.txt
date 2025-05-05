@@ -1,6 +1,0 @@
-O soustavách (a), (b), . . . (g) můžeme předpokládati, že tvoří
-n — v linearně neodvislých soustav, jinak bychom jich mohli několik
-z praemissy (3) vypustiti a do (4) s nullovými koefficienty vepsati.
-Jsou-li ale (a), (b), . . ., (g) linearně neodvislé, pak každá soustava
-(r) hovící rovnicím (3) jest složena z v specialných soustav (x1), (x7),
-. . ., (zív), tedy

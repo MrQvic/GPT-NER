@@ -1,5 +1,0 @@
-poslední nerovnost ukazuje, že v tomto případě nullita matice M jest
-nanejvýš a.
-15. Má-li M kořeny u, . . ., u, tu má matice p(M) kořeny
-p(u.), . . ., w(u.), značí-li p(M) celistvou funkci matice M.**)
-Mějmež obyčejným rozkladem algebraickým

@@ -1,4 +1,0 @@
-Na rozdíl od analysy (1)—(18), ve které, vycházejíce od zák-
-ladních vzorců (1) a (2), uvažovali jsme odvislost pracovních vý-
-konů od průměrných stálých hodnot S, V, s, v a denních nepřetrži-
-tých dob pracovních T a t, vycházejme nyní od výrazů:

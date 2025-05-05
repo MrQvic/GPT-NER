@@ -1,6 +1,0 @@
-§. 107. Es sei Fig. 16. Taf. II. der Querschnitt einer Blechwandbrücke; f, und f., sind die ab-
-solut wirkenden Sekzionen; f, und ſ, die rückwirkenden Sekzionen der Tragbänder; h., h,, h,, h4 mögen
-die Abstände von der Wandmitte bis zur halben Höhe der Sekzionen beziehungsweíse vorstellen. Der Abstand
-der neutralen Axe von der Wandmitte sei x=mn; in (m) ist die Wandmitte, in (n) liegt die neutrale Axe.
-Demnach haben wir zwischen den offensiven und defensiven Krätten bei N frei aufliegenden Trägern, die
-gleichförmig belastet sind, die bekannte Gleichung

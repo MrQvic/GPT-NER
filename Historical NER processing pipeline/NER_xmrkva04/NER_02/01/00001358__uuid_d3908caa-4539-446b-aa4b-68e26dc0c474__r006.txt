@@ -1,7 +1,0 @@
-Elityran, Preloban, Prolan, Unden
-Prolan
-Unden, Prolan, Preloban
-Hypophysin, Orasthin
-Orasthin, Hypophysin
-Prolan
-Prolan, Preloban

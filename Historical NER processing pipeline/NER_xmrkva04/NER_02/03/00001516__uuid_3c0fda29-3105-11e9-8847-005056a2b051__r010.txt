@@ -1,2 +1,0 @@
-(a), (b), . . ., (g).
-Jest tedy každé řešení (5) rovnic (5) linearně složeno ze soustav

@@ -1,8 +1,0 @@
-Ana se tato čísla vyskytují v počtu nekonečném, musí jich sou-
-stava míti arithmetickou derivaci D (ap,), jejíž prvky se nalezají
-2-
-v intervallu (5... co) a tedy převyšují . Avšak prvky tyto náležejí
-též soustavě D (— a nemohou převyšovati g. Následovně musí
-"=0
-existovati číslo n řečené vlastnosti. Pak ale obdržíme násobením
-nerovností

@@ -1,5 +1,0 @@
-représenteront les projections algébriques de la force accélératrice qui sollicitera la mo-
-lécule m, et qui sera due aux actions des molécules m, m', etc... D'autre part, si
-l'on prend x, y, z, t pour variables indépendantes, les projections algébriques de
-la force accélératrice capable de produire le mouvemeut observé de la molécule m,
-pourront être représentées par les expressions

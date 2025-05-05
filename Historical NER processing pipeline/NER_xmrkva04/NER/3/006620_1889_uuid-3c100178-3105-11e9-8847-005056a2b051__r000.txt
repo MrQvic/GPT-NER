@@ -1,7 +1,0 @@
-Druhá věta, analogická předchozí větě Weierstrassově, **) zní
-takto: Je-li M orthogonalná matice o realných elementech a u a-ná-
-sobný kořen její, pak jest M — u nullity «.
-Jelikož matice M má kořeny o modulu 1, mohou realné kořeny
-míti toliko hodnotu + 1. Vezměme nejdříve tyto v úvahu, označivše
-+1 literou u. Kdyby M— u a (M — u)2 nebyly stejné nullity, pak
-by existovaly podstatné soustavy (y) a (c) hovící rovnostem

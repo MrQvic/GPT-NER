@@ -1,8 +1,0 @@
-verhält es sich nun mit schräg gesehenen Parallelen, die auch
-innerhalb schräger Ebenen sich bewegen?
-Wir wollen uns auch diesen Fall unserer bisherigen Gewohn-
-heit gemäss sofort durch ein Beispiel veranschaulichen. Unsere
-Aufgabe sei, einen zum Pfeiler zugehauenen Stein zu zeichnen,
-dessen eines Ende am Boden ruht, während das andere bis zu
-einer gewissen Höhe aufgerichtet ist, wie Figur 44 dies im
-Aufriss zeigt.

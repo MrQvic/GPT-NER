@@ -1,3 +1,0 @@
-substituire das nach (66) und (67) und löse nach y und z auf. Ich erhalte daher für einen Punkt
-der Curve S' die Coordinaten:
-x =0.5

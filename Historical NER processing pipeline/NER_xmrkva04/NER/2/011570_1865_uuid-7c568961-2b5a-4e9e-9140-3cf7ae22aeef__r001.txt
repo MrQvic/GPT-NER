@@ -1,4 +1,0 @@
-keinem Anstande.
-Bezeichnen wir nämlich diese, wie leicht ersichtlich, einwerthige
-Function von « durch f (&), so gibt die Gleichung
-f (a) = cos a + i šin a

@@ -1,3 +1,0 @@
-Mit Beseitigung des Magnetisierungsstromes verschwand
-auch der Entladungsstrom (in der Regel) oder es blieb ein
-Rest i, z. B. für

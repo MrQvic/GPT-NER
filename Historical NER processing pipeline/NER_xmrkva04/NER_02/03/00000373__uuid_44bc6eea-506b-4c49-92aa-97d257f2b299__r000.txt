@@ -1,8 +1,0 @@
-Ebene. Es wurde bereits bei der ſchiefen Ebene abgeleitet, daß in die=
-ſem Falle ſich die Kraft zur Baſt verhält, wie die Hohe der ſchiefen Ebe=
-ne zur Baſis. Die Hohe der ſchiefen Ebene iſt in dieſem Falle aber die
-Höhe eines Schraubenganges, und die Baſis der ſchiefen Ebene iſt hier
-der Umfang des Schraubencylinders; folglich halten ſich bei einer
-Schraube Kraft und Laſt das Gleichgewicht, wenn ſie ſich verhalten,
-wie die Hohe eines Schraubenganges zum Umfange des Schrauben=
-cylinders.

@@ -1,6 +1,0 @@
-Il est important d'observer, qu'en vertu de la formule (38) la quantité s dépend
-uniquement de la durée des oscillations moléculaires, c'est a dire, de la nature de la
-couleur, tandis qu'en vertu de l'équation (35) jointe aux formules (12) et (37) les
-quantités k, 2 et l dependent simultanément de la couleur et de la nature du
-milieu dans lequel se propagent les ondes lumineuses. Quant à l'angle z il depend
-uniquement de la direction des plans parallèles qui renferment ces mêmes ondes.

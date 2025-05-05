@@ -1,7 +1,0 @@
-Es ist oben erwähnt worden, dass diese Ausdrücke nur näherungsweise geeignet sind, die jährlichen
-Temperaturänderungen wiederzugeben, namentlich ist die Eintheilung nach Monaten zu weit; man muss,
-um genaue Resultate zu erlangen, engere Intervalle nehmen. Ein Beispiel, wie dieses Problem scharf
-gelöst werden kann, gibt uns Bessel in der schon erwähnten Abhandlung (Astr. N., Nr. 136), wo er
-24jährige Königsberger Beobachtungen der Rechnung unterwirft. Wenn man den Constanten des Bessel-
-schen Ausdruckes dieselbe Bedeutung gibt, welche die Constanten bei Kämtz haben, dann erhält man
-in Réaumur'schen Graden

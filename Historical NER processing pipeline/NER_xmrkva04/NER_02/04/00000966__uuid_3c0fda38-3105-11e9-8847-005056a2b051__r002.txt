@@ -1,4 +1,0 @@
-Toť Cayleyova rovnice nbo stupně (v. Philos. Transactions,
-vol. 148, pag. 24.), které hoví každá matice o nn elementech; neboť
-má-li M kořeny a, ug, . . ., uz resp. a, , . . ., 2-násobné, tedy
-obsahuje

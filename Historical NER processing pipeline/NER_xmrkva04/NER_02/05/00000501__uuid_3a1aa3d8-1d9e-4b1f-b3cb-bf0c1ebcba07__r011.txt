@@ -1,5 +1,0 @@
-a) V nejjednodušším případu:
-1. hloubky a rozchody drénů,
-2. srážkové poměry,
-3. fysikální vlastnosti půdy a
-4. sklizňové výsledky.

@@ -1,4 +1,0 @@
-čehož se užívá při odmocňování v případech zvláštních, kde
-z jednoho faktoru možná odmocninu přímo ustanoviti, jakož
-patrno z příkladů
-V8 = V4.2 = V4. V2=2V2

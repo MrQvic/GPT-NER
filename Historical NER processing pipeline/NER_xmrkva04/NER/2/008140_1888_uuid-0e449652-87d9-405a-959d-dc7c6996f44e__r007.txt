@@ -1,4 +1,0 @@
-pro každé a, b, c, d, z čehož snadno vyvodíme a = 6 = 7 = 0= 0.
-Dále lze snadno ukázati, že existuje jedna a jen jedna matrice
-té vlastnosti, že její součin s libovolnou matricí M se rovná zase M,
-t. j. že

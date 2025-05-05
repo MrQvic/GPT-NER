@@ -1,3 +1,0 @@
-O kořenech matice a jich charakteristických číslech.
-14. Dána-li libovolná matice M = laxll, tu lze vždy stanoviti
-takový skalar u, že matice M — u má alespoň nullitu 1, t. j. že

@@ -1,5 +1,0 @@
-Sans rien changer à la direction de l'axe des z, on peut disposer du plan des
-y, z, de manière à simplificr l'équation (114). Effectivement on y parviendra,
-en faisant coincider le plan des y, z avec celui qui passant par l'axe des z sera
-perpendiculaire au plan de l'onde. Alors la droite OP, perpendiculaire au plan
-de l'onde se trouvera comprise dans le plan des y, z; et comme on aura par suite

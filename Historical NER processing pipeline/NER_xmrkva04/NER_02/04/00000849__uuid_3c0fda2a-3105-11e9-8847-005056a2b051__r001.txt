@@ -1,5 +1,0 @@
-t. j. soustava (h) jest řešením rovnic (5), a proto jest soustava (h)
-složena z (a), (b), . . ., (g), co bylo dokázati.
-12. Na základě předchozích úvah prozkoumáme nyní nullitu
-součinu dvou neb více matic. Buďťe dány matice — arci veskrze
-o nn elementech —

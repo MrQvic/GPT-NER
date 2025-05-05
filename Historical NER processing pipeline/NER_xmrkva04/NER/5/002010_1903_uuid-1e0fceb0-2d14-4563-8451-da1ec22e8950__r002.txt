@@ -1,2 +1,0 @@
-J. Mestscherský1) řeší problem dvou těles o proměnlivé hmotě a
-dle zákona Newtonova se přitahujících. V základních rovnicích

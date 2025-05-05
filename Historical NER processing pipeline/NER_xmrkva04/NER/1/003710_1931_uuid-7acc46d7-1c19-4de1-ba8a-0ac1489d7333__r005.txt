@@ -1,4 +1,0 @@
-c= (aV—v) (b.T—2t); = aS (bT— 21)—s.T
-*= b S (aV — v) — s. V
-Pro výpočet maxima G (S, V, T) určí se tři neznámé S, V, T
-ze soustavy tří rovnic

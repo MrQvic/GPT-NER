@@ -1,3 +1,0 @@
-wo die ex, die isothermischen Elastizitätskonstanten heißen
-und die Indizes h und k wieder von 1 bis 6 gehen. Aus §
-findet man die Entropie

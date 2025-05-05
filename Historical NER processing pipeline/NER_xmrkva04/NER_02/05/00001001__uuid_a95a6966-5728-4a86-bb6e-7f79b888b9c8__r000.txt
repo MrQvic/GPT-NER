@@ -1,4 +1,0 @@
-3. Číslice 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 mají se sestaviti tak, aby byla
-každá číslice jednou počítána, a v součtu aby to obnášelo 100. — Mohou
-se též učiniti z některých číslic zlomky.
-(V. L.)

@@ -1,4 +1,0 @@
-Man sieht, dass das Verhältniss=1/2 grosse Werthe für die Tragfahigkeit gíbt; wenn man
-also ganz sicher in der Praxis gehen will, bleibe man bei den Uiberschlägen bei dem Verhältniss k:k=2:1
-wo sodann der Divisor bei der Gitterwand statt 4.64, 5.83 wird, und die Resultate im Verhältniss von 1.24 : 1
-oder sehr nahe 5: 4 kleiner ausfallen.

@@ -1,6 +1,0 @@
-so kann man statt des obigen Ausdruckes lur V schreihen
-V= J(F PG+уIH) ds
-wo sich die Integration um die Stromcurve erstreckt, und a, B, y die
-Richtungscosiunse von de bedeuten. Man kann diese Transformation durch
-blosse Substitution in die folgende Gleirhung, welche der Ausdruck oines
-geoictrischen Satzes ist, beweisen:

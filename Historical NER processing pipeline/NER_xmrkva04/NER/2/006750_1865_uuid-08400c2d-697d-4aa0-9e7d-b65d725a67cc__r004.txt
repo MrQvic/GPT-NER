@@ -1,8 +1,0 @@
-Znak: Cl = 35, 5; hutnost = 2, 44. Litr chlóru váží 3, 17 grammů.
-Chlór nalezá se téměř výhradně v říši nerostů a to hlavně
-spojen s kovem sodíkem ve sloučeninu, kterouž zná každý jmenem
-sůl obecná č. kuchyňská, ješto chemikovi slove chlórid
-sodnatý, NaCl. Chemikové čeští nazvali chlór tudiž solíkem.
-Volného chlóru nabývá se zahříváním kyseliny chlórovodí-
-kové s kysličníkem manganičitým (burelem) dle vzorce
-následujícího:

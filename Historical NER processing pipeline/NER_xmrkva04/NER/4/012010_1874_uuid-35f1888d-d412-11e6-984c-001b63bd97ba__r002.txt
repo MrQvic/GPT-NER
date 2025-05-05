@@ -1,4 +1,0 @@
-(abcd) = (a'bi c' d1),
-a z výměnlivosti paprsků A A na př. plyne též výměnlivost bodů
-aa a tedy i všech ostatních sobě příslušných bodů, t. j. plyne
-involutornost soustav abc . . . a'b'c' . . .

@@ -1,4 +1,0 @@
-kde p jsou procenta buď na rok, počítají-li se úroky za rok, aneb
-na půl roku, počítají-li se úroky půlletně.
-Dle toho bude
-1. občasí dluh S,

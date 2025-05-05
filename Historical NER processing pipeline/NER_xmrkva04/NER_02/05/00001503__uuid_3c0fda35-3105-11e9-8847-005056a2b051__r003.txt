@@ -1,6 +1,0 @@
-Má-li matice M a-násobný kořen , tu má matice M—“
-a-násobný kořen O (čl. 15.). Jsouli pak
-a., a + a,, a +a,+ ag, . . ., a + a, +... + a = a
-nullity matic M—ug, (M—u.)2, (M—u.)3, ..., (M— u.)°, zovu
-a, a,, . . ., a, charakteristická čísla náležející ku kořeni ua
-matice M.

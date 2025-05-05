@@ -1,9 +1,0 @@
-Anwendungen.
-Die Erscheinungen in der Natur, denen Spannungsänderungen der
-Luft zu Grunde liegen, lassen sich auf adiabatische Zustandsänderungen
-zurückführen, Desshalb werden sich auch die Gesetze der Erscheinungen
-aus den Gleichungen für eine Zustandsänderung der Luft ohne Wärme-
-mitteilung entwickeln lassen.
-Für die Aufstellung dieser Gleichungen hat man bekanntlich:
-d Q = 0 = c, dt+ Ap dv nach (I)
-und p = E—nach (VIII)

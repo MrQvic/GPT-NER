@@ -1,6 +1,0 @@
-anderseits dadurch, dass in der Determinante D, bei den Gliedern
-der ersten Colonne keine Zahlenfactoren vorkommen, während in
-s, die Glieder der ersten Colonne mit den positiven Zahlen 1, 2, ..., n
-multiplicirt erscheinen. Aus den, im ersten Abschnitte dieser Ab-
-handlung gemachten Betrachtungen erhellt aber, dass der in D, bei
-einer bestimmten Elementencombination

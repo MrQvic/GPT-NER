@@ -1,9 +1,0 @@
-= 0,37 m.
-5,43
-Bedingung 1) in VI. § 1 ist also erfüllt, Bedingung 2) gleichfalls; denn tg a =
-11,03
-und hiernach X α = 26°. Der Neigungswinkel ist ajso nicht überschritten (VI. § 1 Zus. 2). Bei stärkerem
-Anlauf der Mauern wäre H = W, noch kleiner geworden, also hätte auch der Winkel abgenommen. —
-Für Bedingung 3) kommt der Wert von W. auch in Betracht; denn je grösser in der Gleichung für x
-der Wert W, ist, desto kleiner wird x, desto mehr rückt die Resultante dem Profilumfang zu.
-Die Inanspruchnahme berechnet sich nun nach VI. § 2.

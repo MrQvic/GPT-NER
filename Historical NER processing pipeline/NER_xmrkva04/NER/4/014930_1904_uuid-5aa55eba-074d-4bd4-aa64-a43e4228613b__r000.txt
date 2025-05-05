@@ -1,8 +1,0 @@
-Zur Bestimmung für den mittleren Winkelfehler wurde die
-über Antrag Ferrero auf der Konferenz der permanenten Kom-
-mission der internationalen Erdmessung in Nizza 1878 angenommene
-internationale Näherungsformel benützt.
-Ist A der Widerspruch zwischen 180+ e und der Winkel-
-summe jedes Dreieckes, n die Anzahl der Dreiecke des Netzes
-und m der mittlere Winkelfehler, so ist derselbe zu berechnen nach
-der Formel:

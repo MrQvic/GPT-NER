@@ -1,4 +1,0 @@
-Infantry ..
-Cavalry .
-Artillery
-Engineers

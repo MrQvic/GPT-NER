@@ -1,3 +1,0 @@
-Diese Centralprojection eines Centrums in Bezug auf das andere soll Transformations-Centrum
-heissen, und mit A bezeichnet werden, mögen die beiden Centra auf derselben Seite oder auf den entgegengesetz-
-ten Seiten der Bildebene liegen.

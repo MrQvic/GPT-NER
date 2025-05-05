@@ -1,7 +1,0 @@
-nazývaný složeným urychlením středoběžným představuje vedle
-urychlení základního a, a relativního a ještě zvláštní složku u
-absolutního urychlení a, kolmou k rovině stanovené relativní rych-
-lostí v, a směrem rotační osy O a namířenou na tu stranu, na které
-se nalézá osa O. V tomto určení jest složené urychlení středoběžné
-u nutným doplňkem k výslednici urychlení základního a, a relativ-
-ního a, na urychlení absolutní

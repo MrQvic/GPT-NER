@@ -1,8 +1,0 @@
-Podobně jako v případě na str. 96 vypočteme ys, cy řešením rovnice (g) a rovnice vo = bz (cy, Uo),
-načež podle rovnic (z), (b) vypočteme
-Y = 7o — Uo,
-V = m— Y, v = 92 (cy, ys),
-při čemž užijeme Eberhardových tabulek funkce v = b2 (cy , y).
-Kdybychom měli též91) tabulky t = V2 (cy, y), vyčtli bychom z nich též to = V2 (cy, yo),
-t = Pz c)y, Iy1) a vypočtli dobu Dt = t, —to letu střely na počítaném oblouku AB.
-Eberhardův způsob výpočtu ostatních prvků (z1, x., po př. t.) bodu B viz v odst. VII, 5, B.

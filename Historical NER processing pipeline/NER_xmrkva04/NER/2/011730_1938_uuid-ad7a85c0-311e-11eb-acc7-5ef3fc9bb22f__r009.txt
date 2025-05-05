@@ -1,8 +1,0 @@
-w
-n—2)6
-C,
-(n — 2)
-(V těchto rovnicích konstanty C1, C2, C3, C« jsou dány zvolenou určitou hodnotou m, pro níž jest
-D = S = A = 0.)
-Pro ony funkce F(w), jež jsou dány jen tabulkami nebo grafy, vypočtou se Siacciho funkce
-J, D, S, A buď Simpsonovým pravidlem, grafickým nebo mechanickým integrováním,

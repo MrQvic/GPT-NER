@@ -1,8 +1,0 @@
-§. 31. Dies ist die Gleichung für die Tragfähigkeit eines massiven Trägers der ein rechtwinkeli-
-ges Parallelopipedum, dessen Sekzion bxh und dessen Länge l ist, bildet, wenn er frei auf beiden Enden
-aufliegt, und in der Mitte mit Q belastet ist, doch ohne seine eigone Schwere zu berücksichtigen. Heisst
-das Gewicht desselben G, so wäre statt Q nun Q+1/2G oder Qx/G zu setzen, und die reine Tragfähigkeit
-64 EbI3Xu
-ergábe sich, mit O
-3 (1+ Vv)2
-Aus der Gleichung (VII,) lässt sich sogleich der Modul bestimmen, er ist E

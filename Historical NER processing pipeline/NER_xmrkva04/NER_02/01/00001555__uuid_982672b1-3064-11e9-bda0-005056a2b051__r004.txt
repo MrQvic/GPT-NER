@@ -1,7 +1,0 @@
-les valeurs des
-soide, seront précisément les carrés de ces trois demi-axes. Observons d'ailleurs que,
-si l'on nomme r le rayon vecteur mené du point O à une molécule voisine m;
-a, B, y les angles formés par ce rayon vecteur avec les demi-axes des coordonnées
-positives; u, b, c les cosinus des angles formés avec ces demi-axes par une droite
-OP perpendiculaire au plan de l'onde; ô l'angle compris entre cette perpendiculaire
-et le rayon vecteur r; on aura [voyez l'équation (14) du § 2]

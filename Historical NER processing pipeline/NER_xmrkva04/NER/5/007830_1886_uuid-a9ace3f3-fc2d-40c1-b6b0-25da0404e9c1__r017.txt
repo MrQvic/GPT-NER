@@ -1,3 +1,0 @@
-Anbauort,
-Bodenbeschaffenheit, Vorfrucht.
-Saatmethode, Ertrag pro Hektar

@@ -1,4 +1,0 @@
-Pro značnou převahu momentu ohybu M, nad momentem M.; M. M,
-a momentu setrvačnosti I„ nad momentem I.; I.I, možno zanedbatí
-prvého sčítance rovnice (31) proti druhému a deformační podmínku
-přímoramenných schodů ředukovati na:

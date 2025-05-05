@@ -1,6 +1,0 @@
-značí-li S. součet všech minorů, které obdržíme z , vypustíme-li
-všemi možnými spůsoby k řádek a týž počet sloupců a sice o týchž
-indexech.
-Kořeny u, u, ..., u., rovnice charakteristické nazýváme kořeny
-matice M; dle Sylvestera latentními kořeny matice M.
-Hodnota u = 0 jest «-násobným kořenem matice M, jestliže

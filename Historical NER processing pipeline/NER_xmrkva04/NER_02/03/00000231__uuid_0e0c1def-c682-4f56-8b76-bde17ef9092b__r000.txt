@@ -1,6 +1,0 @@
-jejichž řešením obdržíme nejvýhodnější hodnoty přípustného počá-
-tečního (největšího) napětí sil s, počáteční pracovní rychlosti v, a
-denní doby pracovní t s počtem (n—k) pracovních oddechů co, pro
-které práce e denně vykonaná bez újmy na zdraví dělnictva jest ma-
-ximem. O způsobu a postupu vyčíslení hledaných nejvýhodnějších
-hodnot n, s, v, t, z rovnic (31) pojednám společně s úlohou touto:
