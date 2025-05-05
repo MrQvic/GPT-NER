@@ -125,3 +125,4 @@ venv.bak/
 /gpt-ner-env-py38
 /SimCSE
 ner-venv/
+/_old
